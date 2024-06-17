@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f606761f189745ac97adbe58053bd816/artifacts
+deleted_time: 1718622941945
+end_time: 1718622915520
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f606761f189745ac97adbe58053bd816
+run_name: painted-pig-390
+run_uuid: f606761f189745ac97adbe58053bd816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622915494
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e4085e5e27634ebdae4ba9872e5e7dec/artifacts
+end_time: 1718623387585
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: e4085e5e27634ebdae4ba9872e5e7dec
+run_name: amazing-bird-789
+run_uuid: e4085e5e27634ebdae4ba9872e5e7dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623387558
+status: 3
+tags: []
+user_id: grzegorznaporowski

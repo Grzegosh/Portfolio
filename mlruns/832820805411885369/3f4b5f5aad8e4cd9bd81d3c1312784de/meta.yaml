@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3f4b5f5aad8e4cd9bd81d3c1312784de/artifacts
+deleted_time: 1718621895111
+end_time: 1718621789922
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3f4b5f5aad8e4cd9bd81d3c1312784de
+run_name: mysterious-tern-968
+run_uuid: 3f4b5f5aad8e4cd9bd81d3c1312784de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621789897
+status: 3
+tags: []
+user_id: grzegorznaporowski

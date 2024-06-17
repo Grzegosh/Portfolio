@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6ac51765707e469d8bb766ef2690815a/artifacts
+deleted_time: 1718622155427
+end_time: 1718621908423
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6ac51765707e469d8bb766ef2690815a
+run_name: nimble-frog-478
+run_uuid: 6ac51765707e469d8bb766ef2690815a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621908400
+status: 3
+tags: []
+user_id: grzegorznaporowski

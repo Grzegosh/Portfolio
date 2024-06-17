@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3aa9491459e544a9ae26319db36642ca/artifacts
+deleted_time: 1718622155337
+end_time: 1718621902596
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3aa9491459e544a9ae26319db36642ca
+run_name: rare-carp-499
+run_uuid: 3aa9491459e544a9ae26319db36642ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621902573
+status: 3
+tags: []
+user_id: grzegorznaporowski

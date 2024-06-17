@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/08bc2aff2bce4534a0a60d181d1fde2b/artifacts
+deleted_time: 1718622941979
+end_time: 1718622917304
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 08bc2aff2bce4534a0a60d181d1fde2b
+run_name: puzzled-conch-685
+run_uuid: 08bc2aff2bce4534a0a60d181d1fde2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622917277
+status: 3
+tags: []
+user_id: grzegorznaporowski

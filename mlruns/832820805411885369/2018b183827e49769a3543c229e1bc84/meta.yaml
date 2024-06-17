@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2018b183827e49769a3543c229e1bc84/artifacts
+deleted_time: 1718622866412
+end_time: 1718622293440
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2018b183827e49769a3543c229e1bc84
+run_name: melodic-chimp-429
+run_uuid: 2018b183827e49769a3543c229e1bc84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622293415
+status: 3
+tags: []
+user_id: grzegorznaporowski

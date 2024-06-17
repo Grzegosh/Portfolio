@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e92f02f2d96d44369639cffd497a214b/artifacts
+deleted_time: 1718621754729
+end_time: 1718620717909
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e92f02f2d96d44369639cffd497a214b
+run_name: enchanting-mink-273
+run_uuid: e92f02f2d96d44369639cffd497a214b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620717890
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/b368fc27a7624719a3c1fae2ba47ef5d/artifacts
+deleted_time: 1718622831115
+end_time: 1718622191607
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: b368fc27a7624719a3c1fae2ba47ef5d
+run_name: gifted-fly-101
+run_uuid: b368fc27a7624719a3c1fae2ba47ef5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622191583
+status: 3
+tags: []
+user_id: grzegorznaporowski

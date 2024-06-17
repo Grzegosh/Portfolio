@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/93a9c87e82804e3d891fa475642143a1/artifacts
+deleted_time: 1718621895087
+end_time: 1718621787477
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 93a9c87e82804e3d891fa475642143a1
+run_name: flawless-robin-429
+run_uuid: 93a9c87e82804e3d891fa475642143a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621787456
+status: 3
+tags: []
+user_id: grzegorznaporowski

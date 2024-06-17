@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3d6d9a1f577b4d2f9a277d9c86ec8f3e/artifacts
+end_time: 1718622971838
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 3d6d9a1f577b4d2f9a277d9c86ec8f3e
+run_name: luxuriant-yak-320
+run_uuid: 3d6d9a1f577b4d2f9a277d9c86ec8f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622971810
+status: 3
+tags: []
+user_id: grzegorznaporowski

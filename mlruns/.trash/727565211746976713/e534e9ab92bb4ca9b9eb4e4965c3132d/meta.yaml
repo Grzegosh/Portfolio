@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/e534e9ab92bb4ca9b9eb4e4965c3132d/artifacts
+deleted_time: 1718620244383
+end_time: 1718619914636
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: e534e9ab92bb4ca9b9eb4e4965c3132d
+run_name: big-doe-548
+run_uuid: e534e9ab92bb4ca9b9eb4e4965c3132d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914616
+status: 3
+tags: []
+user_id: grzegorznaporowski

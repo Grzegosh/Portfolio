@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d37a4bd3576e4552b110f4956dbc5818/artifacts
+deleted_time: 1718621882908
+end_time: 1718621783510
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d37a4bd3576e4552b110f4956dbc5818
+run_name: adorable-tern-556
+run_uuid: d37a4bd3576e4552b110f4956dbc5818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621783489
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0e70c502e4b847019fe07dc69dbcd27a/artifacts
+deleted_time: 1718622155384
+end_time: 1718621905483
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0e70c502e4b847019fe07dc69dbcd27a
+run_name: capable-duck-199
+run_uuid: 0e70c502e4b847019fe07dc69dbcd27a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905460
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/40d5f64e4a8d40888abd203f27da0292/artifacts
+deleted_time: 1718621882913
+end_time: 1718621783760
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 40d5f64e4a8d40888abd203f27da0292
+run_name: treasured-squid-363
+run_uuid: 40d5f64e4a8d40888abd203f27da0292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621783740
+status: 3
+tags: []
+user_id: grzegorznaporowski

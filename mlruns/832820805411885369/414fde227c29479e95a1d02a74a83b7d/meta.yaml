@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/414fde227c29479e95a1d02a74a83b7d/artifacts
+deleted_time: 1718622831202
+end_time: 1718622196907
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 414fde227c29479e95a1d02a74a83b7d
+run_name: victorious-squid-617
+run_uuid: 414fde227c29479e95a1d02a74a83b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622196882
+status: 3
+tags: []
+user_id: grzegorznaporowski

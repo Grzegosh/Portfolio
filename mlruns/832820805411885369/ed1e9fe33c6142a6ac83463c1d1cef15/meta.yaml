@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ed1e9fe33c6142a6ac83463c1d1cef15/artifacts
+deleted_time: 1718620370365
+end_time: 1718620310747
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ed1e9fe33c6142a6ac83463c1d1cef15
+run_name: unleashed-fawn-996
+run_uuid: ed1e9fe33c6142a6ac83463c1d1cef15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620310730
+status: 3
+tags: []
+user_id: grzegorznaporowski

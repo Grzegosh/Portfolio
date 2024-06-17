@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f4cbfe1a2dff4d11a1c3ce689995ccb8/artifacts
+deleted_time: 1718622941956
+end_time: 1718622914850
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f4cbfe1a2dff4d11a1c3ce689995ccb8
+run_name: honorable-asp-336
+run_uuid: f4cbfe1a2dff4d11a1c3ce689995ccb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622914822
+status: 3
+tags: []
+user_id: grzegorznaporowski

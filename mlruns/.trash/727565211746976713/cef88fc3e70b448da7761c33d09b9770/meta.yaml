@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/cef88fc3e70b448da7761c33d09b9770/artifacts
+deleted_time: 1718618821880
+end_time: 1718618430791
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: cef88fc3e70b448da7761c33d09b9770
+run_name: valuable-rook-853
+run_uuid: cef88fc3e70b448da7761c33d09b9770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618430772
+status: 3
+tags: []
+user_id: grzegorznaporowski

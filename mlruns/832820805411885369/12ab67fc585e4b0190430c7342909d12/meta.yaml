@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/12ab67fc585e4b0190430c7342909d12/artifacts
+deleted_time: 1718621895087
+end_time: 1718621787750
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 12ab67fc585e4b0190430c7342909d12
+run_name: merciful-rook-863
+run_uuid: 12ab67fc585e4b0190430c7342909d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621787727
+status: 3
+tags: []
+user_id: grzegorznaporowski

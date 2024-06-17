@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/29779d27b5fc49cd87810031ff502824/artifacts
+deleted_time: 1718621882874
+end_time: 1718621781547
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 29779d27b5fc49cd87810031ff502824
+run_name: rebellious-loon-877
+run_uuid: 29779d27b5fc49cd87810031ff502824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621781527
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0df01545de414e99acb3f336561b6ec9/artifacts
+deleted_time: 1718621754693
+end_time: 1718620715201
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0df01545de414e99acb3f336561b6ec9
+run_name: rogue-boar-611
+run_uuid: 0df01545de414e99acb3f336561b6ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620715180
+status: 3
+tags: []
+user_id: grzegorznaporowski

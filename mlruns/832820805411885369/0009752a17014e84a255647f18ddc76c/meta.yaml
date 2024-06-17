@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0009752a17014e84a255647f18ddc76c/artifacts
+deleted_time: 1718620370352
+end_time: 1718620310803
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0009752a17014e84a255647f18ddc76c
+run_name: overjoyed-bug-840
+run_uuid: 0009752a17014e84a255647f18ddc76c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620310787
+status: 3
+tags: []
+user_id: grzegorznaporowski

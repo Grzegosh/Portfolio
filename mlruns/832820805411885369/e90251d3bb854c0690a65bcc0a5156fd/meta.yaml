@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e90251d3bb854c0690a65bcc0a5156fd/artifacts
+deleted_time: 1718621882824
+end_time: 1718621778478
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e90251d3bb854c0690a65bcc0a5156fd
+run_name: salty-mole-968
+run_uuid: e90251d3bb854c0690a65bcc0a5156fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621778459
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/08ac58ae48ca4572be8481b63980f40a/artifacts
+deleted_time: 1718621882931
+end_time: 1718621784764
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 08ac58ae48ca4572be8481b63980f40a
+run_name: smiling-newt-578
+run_uuid: 08ac58ae48ca4572be8481b63980f40a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621784743
+status: 3
+tags: []
+user_id: grzegorznaporowski

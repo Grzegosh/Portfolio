@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/4597a06dcffa46b38125bcf341fa518a/artifacts
+deleted_time: 1718620266874
+end_time: 1718620236280
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 4597a06dcffa46b38125bcf341fa518a
+run_name: bemused-rook-188
+run_uuid: 4597a06dcffa46b38125bcf341fa518a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620236260
+status: 3
+tags: []
+user_id: grzegorznaporowski

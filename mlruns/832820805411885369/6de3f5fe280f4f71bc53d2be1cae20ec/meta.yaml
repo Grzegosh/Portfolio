@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6de3f5fe280f4f71bc53d2be1cae20ec/artifacts
+deleted_time: 1718622831226
+end_time: 1718622290206
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6de3f5fe280f4f71bc53d2be1cae20ec
+run_name: redolent-dove-246
+run_uuid: 6de3f5fe280f4f71bc53d2be1cae20ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622290178
+status: 3
+tags: []
+user_id: grzegorznaporowski

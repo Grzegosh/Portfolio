@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c6fad1ec220749719c7d43d8bd5cd18b/artifacts
+deleted_time: 1718621754669
+end_time: 1718620713762
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: c6fad1ec220749719c7d43d8bd5cd18b
+run_name: abrasive-hare-144
+run_uuid: c6fad1ec220749719c7d43d8bd5cd18b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620713744
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/001a744078a548e3a3872dc02241735c/artifacts
+deleted_time: 1718621895098
+end_time: 1718621788332
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 001a744078a548e3a3872dc02241735c
+run_name: rebellious-snail-20
+run_uuid: 001a744078a548e3a3872dc02241735c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621788310
+status: 3
+tags: []
+user_id: grzegorznaporowski

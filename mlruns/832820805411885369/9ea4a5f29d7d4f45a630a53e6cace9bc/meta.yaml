@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9ea4a5f29d7d4f45a630a53e6cace9bc/artifacts
+end_time: 1718623387651
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 9ea4a5f29d7d4f45a630a53e6cace9bc
+run_name: omniscient-flea-142
+run_uuid: 9ea4a5f29d7d4f45a630a53e6cace9bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623387623
+status: 3
+tags: []
+user_id: grzegorznaporowski

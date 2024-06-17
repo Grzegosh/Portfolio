@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/cdd80709ec8d4842bac26cfd4f8399b0/artifacts
+deleted_time: 1718619142500
+end_time: 1718618843418
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: cdd80709ec8d4842bac26cfd4f8399b0
+run_name: flawless-shrimp-234
+run_uuid: cdd80709ec8d4842bac26cfd4f8399b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618843400
+status: 3
+tags: []
+user_id: grzegorznaporowski

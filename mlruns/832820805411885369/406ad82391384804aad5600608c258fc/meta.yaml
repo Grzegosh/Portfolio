@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/406ad82391384804aad5600608c258fc/artifacts
+deleted_time: 1718622176051
+end_time: 1718621918625
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 406ad82391384804aad5600608c258fc
+run_name: lyrical-stoat-421
+run_uuid: 406ad82391384804aad5600608c258fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621918601
+status: 3
+tags: []
+user_id: grzegorznaporowski

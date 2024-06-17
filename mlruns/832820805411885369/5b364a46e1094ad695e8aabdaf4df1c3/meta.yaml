@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5b364a46e1094ad695e8aabdaf4df1c3/artifacts
+deleted_time: 1718622155359
+end_time: 1718621904156
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5b364a46e1094ad695e8aabdaf4df1c3
+run_name: adorable-fish-253
+run_uuid: 5b364a46e1094ad695e8aabdaf4df1c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621904135
+status: 3
+tags: []
+user_id: grzegorznaporowski

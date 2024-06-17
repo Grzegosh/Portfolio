@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c21f3c6ed4b34d8e87a32a41cbf9202d/artifacts
+end_time: 1718622962621
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: c21f3c6ed4b34d8e87a32a41cbf9202d
+run_name: dazzling-snake-909
+run_uuid: c21f3c6ed4b34d8e87a32a41cbf9202d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622962595
+status: 3
+tags: []
+user_id: grzegorznaporowski

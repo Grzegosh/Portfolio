@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ffb6bece56b4444fa8e42e235ab93576/artifacts
+deleted_time: 1718621895078
+end_time: 1718621787142
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ffb6bece56b4444fa8e42e235ab93576
+run_name: stately-stork-737
+run_uuid: ffb6bece56b4444fa8e42e235ab93576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621787120
+status: 3
+tags: []
+user_id: grzegorznaporowski

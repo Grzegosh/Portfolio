@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5488f9944c344978b0b04eb0d34caefe/artifacts
+end_time: 1718623387823
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 5488f9944c344978b0b04eb0d34caefe
+run_name: burly-wasp-154
+run_uuid: 5488f9944c344978b0b04eb0d34caefe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623387794
+status: 3
+tags: []
+user_id: grzegorznaporowski

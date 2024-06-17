@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/47288573082f4076a0fa333744fcd42f/artifacts
+deleted_time: 1718622941967
+end_time: 1718622917169
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 47288573082f4076a0fa333744fcd42f
+run_name: abrasive-boar-980
+run_uuid: 47288573082f4076a0fa333744fcd42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622917142
+status: 3
+tags: []
+user_id: grzegorznaporowski

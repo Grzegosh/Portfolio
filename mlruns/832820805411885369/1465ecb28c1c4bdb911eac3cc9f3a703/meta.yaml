@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1465ecb28c1c4bdb911eac3cc9f3a703/artifacts
+deleted_time: 1718622176076
+end_time: 1718621919929
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1465ecb28c1c4bdb911eac3cc9f3a703
+run_name: invincible-snake-135
+run_uuid: 1465ecb28c1c4bdb911eac3cc9f3a703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621919906
+status: 3
+tags: []
+user_id: grzegorznaporowski

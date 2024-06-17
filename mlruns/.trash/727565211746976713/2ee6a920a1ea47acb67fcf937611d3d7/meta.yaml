@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/2ee6a920a1ea47acb67fcf937611d3d7/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199003
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 2ee6a920a1ea47acb67fcf937611d3d7
+run_name: able-sloth-473
+run_uuid: 2ee6a920a1ea47acb67fcf937611d3d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620198983
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5125b523cb474a4da083e133321707b1/artifacts
+deleted_time: 1718622831107
+end_time: 1718622191413
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5125b523cb474a4da083e133321707b1
+run_name: charming-moose-939
+run_uuid: 5125b523cb474a4da083e133321707b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622191381
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d3a7595123a14605b53b0c584b0ca7f1/artifacts
+deleted_time: 1718622866455
+end_time: 1718622295681
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d3a7595123a14605b53b0c584b0ca7f1
+run_name: youthful-carp-731
+run_uuid: d3a7595123a14605b53b0c584b0ca7f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622295655
+status: 3
+tags: []
+user_id: grzegorznaporowski

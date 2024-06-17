@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2f331e9f8b8c41f2b075f91e817033e5/artifacts
+deleted_time: 1718621754719
+end_time: 1718620717113
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2f331e9f8b8c41f2b075f91e817033e5
+run_name: bald-hare-758
+run_uuid: 2f331e9f8b8c41f2b075f91e817033e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620717095
+status: 3
+tags: []
+user_id: grzegorznaporowski

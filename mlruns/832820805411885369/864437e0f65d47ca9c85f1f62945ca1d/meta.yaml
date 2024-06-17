@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/864437e0f65d47ca9c85f1f62945ca1d/artifacts
+deleted_time: 1718620370326
+end_time: 1718620311063
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 864437e0f65d47ca9c85f1f62945ca1d
+run_name: gifted-skunk-772
+run_uuid: 864437e0f65d47ca9c85f1f62945ca1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311046
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8fceacc5d7e64afd86e844d33fbbc713/artifacts
+end_time: 1718622968995
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 8fceacc5d7e64afd86e844d33fbbc713
+run_name: bald-squid-579
+run_uuid: 8fceacc5d7e64afd86e844d33fbbc713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622968969
+status: 3
+tags: []
+user_id: grzegorznaporowski

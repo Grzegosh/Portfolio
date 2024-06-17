@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/139e2a15bdf9418cbc42ed1715fea7b7/artifacts
+deleted_time: 1718620370360
+end_time: 1718620310942
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 139e2a15bdf9418cbc42ed1715fea7b7
+run_name: abundant-finch-890
+run_uuid: 139e2a15bdf9418cbc42ed1715fea7b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620310925
+status: 3
+tags: []
+user_id: grzegorznaporowski

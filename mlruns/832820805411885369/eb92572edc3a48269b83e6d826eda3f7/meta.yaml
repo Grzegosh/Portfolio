@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/eb92572edc3a48269b83e6d826eda3f7/artifacts
+deleted_time: 1718621895062
+end_time: 1718621785673
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: eb92572edc3a48269b83e6d826eda3f7
+run_name: monumental-hound-609
+run_uuid: eb92572edc3a48269b83e6d826eda3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621785651
+status: 3
+tags: []
+user_id: grzegorznaporowski

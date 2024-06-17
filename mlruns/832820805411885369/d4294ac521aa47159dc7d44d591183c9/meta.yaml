@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d4294ac521aa47159dc7d44d591183c9/artifacts
+deleted_time: 1718621882898
+end_time: 1718621782902
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d4294ac521aa47159dc7d44d591183c9
+run_name: useful-penguin-326
+run_uuid: d4294ac521aa47159dc7d44d591183c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621782882
+status: 3
+tags: []
+user_id: grzegorznaporowski

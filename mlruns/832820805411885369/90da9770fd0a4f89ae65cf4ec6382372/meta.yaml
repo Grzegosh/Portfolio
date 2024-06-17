@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/90da9770fd0a4f89ae65cf4ec6382372/artifacts
+deleted_time: 1718621882878
+end_time: 1718621781767
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 90da9770fd0a4f89ae65cf4ec6382372
+run_name: defiant-trout-654
+run_uuid: 90da9770fd0a4f89ae65cf4ec6382372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621781747
+status: 3
+tags: []
+user_id: grzegorznaporowski

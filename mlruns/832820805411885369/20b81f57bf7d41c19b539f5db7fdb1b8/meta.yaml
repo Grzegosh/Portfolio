@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/20b81f57bf7d41c19b539f5db7fdb1b8/artifacts
+deleted_time: 1718622941942
+end_time: 1718622911141
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 20b81f57bf7d41c19b539f5db7fdb1b8
+run_name: glamorous-kit-150
+run_uuid: 20b81f57bf7d41c19b539f5db7fdb1b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622911115
+status: 3
+tags: []
+user_id: grzegorznaporowski

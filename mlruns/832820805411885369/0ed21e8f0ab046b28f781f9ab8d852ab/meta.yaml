@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0ed21e8f0ab046b28f781f9ab8d852ab/artifacts
+deleted_time: 1718622866443
+end_time: 1718622295126
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0ed21e8f0ab046b28f781f9ab8d852ab
+run_name: caring-yak-906
+run_uuid: 0ed21e8f0ab046b28f781f9ab8d852ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622295101
+status: 3
+tags: []
+user_id: grzegorznaporowski

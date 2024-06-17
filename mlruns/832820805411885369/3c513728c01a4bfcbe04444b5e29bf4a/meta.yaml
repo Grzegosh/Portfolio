@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3c513728c01a4bfcbe04444b5e29bf4a/artifacts
+deleted_time: 1718621882856
+end_time: 1718621779878
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3c513728c01a4bfcbe04444b5e29bf4a
+run_name: grandiose-eel-950
+run_uuid: 3c513728c01a4bfcbe04444b5e29bf4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621779858
+status: 3
+tags: []
+user_id: grzegorznaporowski

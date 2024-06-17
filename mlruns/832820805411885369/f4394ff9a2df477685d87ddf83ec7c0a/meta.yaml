@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f4394ff9a2df477685d87ddf83ec7c0a/artifacts
+deleted_time: 1718622155410
+end_time: 1718621907152
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f4394ff9a2df477685d87ddf83ec7c0a
+run_name: entertaining-flea-42
+run_uuid: f4394ff9a2df477685d87ddf83ec7c0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621907129
+status: 3
+tags: []
+user_id: grzegorznaporowski

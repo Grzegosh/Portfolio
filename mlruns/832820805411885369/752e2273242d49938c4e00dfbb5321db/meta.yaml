@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/752e2273242d49938c4e00dfbb5321db/artifacts
+end_time: 1718623389830
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 752e2273242d49938c4e00dfbb5321db
+run_name: welcoming-gnu-325
+run_uuid: 752e2273242d49938c4e00dfbb5321db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623389801
+status: 3
+tags: []
+user_id: grzegorznaporowski

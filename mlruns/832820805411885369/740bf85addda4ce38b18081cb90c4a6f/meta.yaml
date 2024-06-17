@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/740bf85addda4ce38b18081cb90c4a6f/artifacts
+end_time: 1718623393336
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 740bf85addda4ce38b18081cb90c4a6f
+run_name: rebellious-ram-354
+run_uuid: 740bf85addda4ce38b18081cb90c4a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623393308
+status: 3
+tags: []
+user_id: grzegorznaporowski

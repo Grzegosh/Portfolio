@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8b70ee6b691a476e9059a86ebafe8bad/artifacts
+deleted_time: 1718622941970
+end_time: 1718622915877
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8b70ee6b691a476e9059a86ebafe8bad
+run_name: debonair-fly-274
+run_uuid: 8b70ee6b691a476e9059a86ebafe8bad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622915851
+status: 3
+tags: []
+user_id: grzegorznaporowski

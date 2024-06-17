@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1ce9e6799b9349eda52ba538ca2433fe/artifacts
+deleted_time: 1718622831207
+end_time: 1718622197272
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1ce9e6799b9349eda52ba538ca2433fe
+run_name: luminous-pig-677
+run_uuid: 1ce9e6799b9349eda52ba538ca2433fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622197246
+status: 3
+tags: []
+user_id: grzegorznaporowski

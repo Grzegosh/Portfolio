@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9155084073434866b8141955e11b12b9/artifacts
+deleted_time: 1718621895074
+end_time: 1718621786565
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9155084073434866b8141955e11b12b9
+run_name: angry-carp-333
+run_uuid: 9155084073434866b8141955e11b12b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621786543
+status: 3
+tags: []
+user_id: grzegorznaporowski

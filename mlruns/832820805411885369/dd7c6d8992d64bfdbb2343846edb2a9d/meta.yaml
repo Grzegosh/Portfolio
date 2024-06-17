@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/dd7c6d8992d64bfdbb2343846edb2a9d/artifacts
+end_time: 1718623387733
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: dd7c6d8992d64bfdbb2343846edb2a9d
+run_name: nosy-smelt-35
+run_uuid: dd7c6d8992d64bfdbb2343846edb2a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623387707
+status: 3
+tags: []
+user_id: grzegorznaporowski

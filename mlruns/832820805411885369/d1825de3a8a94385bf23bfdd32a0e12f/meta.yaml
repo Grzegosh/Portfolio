@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d1825de3a8a94385bf23bfdd32a0e12f/artifacts
+deleted_time: 1718620709715
+end_time: 1718620386421
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d1825de3a8a94385bf23bfdd32a0e12f
+run_name: smiling-dolphin-477
+run_uuid: d1825de3a8a94385bf23bfdd32a0e12f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386403
+status: 3
+tags: []
+user_id: grzegorznaporowski

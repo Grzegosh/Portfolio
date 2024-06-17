@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/892e239037024883aa3ca160ba18fa8d/artifacts
+deleted_time: 1718619394975
+end_time: 1718619313501
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 892e239037024883aa3ca160ba18fa8d
+run_name: handsome-zebra-27
+run_uuid: 892e239037024883aa3ca160ba18fa8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619313482
+status: 3
+tags: []
+user_id: grzegorznaporowski

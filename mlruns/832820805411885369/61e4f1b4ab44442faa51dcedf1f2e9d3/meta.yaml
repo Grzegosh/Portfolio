@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/61e4f1b4ab44442faa51dcedf1f2e9d3/artifacts
+deleted_time: 1718622831234
+end_time: 1718622291294
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 61e4f1b4ab44442faa51dcedf1f2e9d3
+run_name: abundant-crow-607
+run_uuid: 61e4f1b4ab44442faa51dcedf1f2e9d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622291265
+status: 3
+tags: []
+user_id: grzegorznaporowski

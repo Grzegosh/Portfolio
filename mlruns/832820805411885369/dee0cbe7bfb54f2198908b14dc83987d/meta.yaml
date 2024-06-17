@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/dee0cbe7bfb54f2198908b14dc83987d/artifacts
+deleted_time: 1718621882914
+end_time: 1718621783947
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: dee0cbe7bfb54f2198908b14dc83987d
+run_name: puzzled-mare-847
+run_uuid: dee0cbe7bfb54f2198908b14dc83987d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621783927
+status: 3
+tags: []
+user_id: grzegorznaporowski

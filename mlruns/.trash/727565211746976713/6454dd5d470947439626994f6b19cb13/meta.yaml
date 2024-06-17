@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/6454dd5d470947439626994f6b19cb13/artifacts
+deleted_time: 1718619142467
+end_time: 1718619061178
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 6454dd5d470947439626994f6b19cb13
+run_name: spiffy-jay-928
+run_uuid: 6454dd5d470947439626994f6b19cb13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619061160
+status: 3
+tags: []
+user_id: grzegorznaporowski

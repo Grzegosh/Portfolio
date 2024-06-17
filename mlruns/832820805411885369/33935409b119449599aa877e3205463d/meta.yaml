@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/33935409b119449599aa877e3205463d/artifacts
+deleted_time: 1718621746883
+end_time: 1718621553358
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 33935409b119449599aa877e3205463d
+run_name: amusing-ape-293
+run_uuid: 33935409b119449599aa877e3205463d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621553337
+status: 3
+tags: []
+user_id: grzegorznaporowski

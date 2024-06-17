@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2d1708cc14644d45bfe1ad3595f2005d/artifacts
+deleted_time: 1718621882930
+end_time: 1718621784731
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2d1708cc14644d45bfe1ad3595f2005d
+run_name: rare-bird-526
+run_uuid: 2d1708cc14644d45bfe1ad3595f2005d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621784711
+status: 3
+tags: []
+user_id: grzegorznaporowski

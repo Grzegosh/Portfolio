@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9431d348772243cc8a77e6b4a04f0611/artifacts
+deleted_time: 1718622941981
+end_time: 1718622910851
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9431d348772243cc8a77e6b4a04f0611
+run_name: dapper-worm-225
+run_uuid: 9431d348772243cc8a77e6b4a04f0611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622910825
+status: 3
+tags: []
+user_id: grzegorznaporowski

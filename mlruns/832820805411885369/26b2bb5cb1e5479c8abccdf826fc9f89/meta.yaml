@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/26b2bb5cb1e5479c8abccdf826fc9f89/artifacts
+deleted_time: 1718620370335
+end_time: 1718620311031
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 26b2bb5cb1e5479c8abccdf826fc9f89
+run_name: peaceful-shoat-197
+run_uuid: 26b2bb5cb1e5479c8abccdf826fc9f89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311013
+status: 3
+tags: []
+user_id: grzegorznaporowski

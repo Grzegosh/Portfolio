@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9347aa54647a464f94d125b98d017caa/artifacts
+deleted_time: 1718621746888
+end_time: 1718621553121
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9347aa54647a464f94d125b98d017caa
+run_name: smiling-ray-379
+run_uuid: 9347aa54647a464f94d125b98d017caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621553100
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a177477e1ff24efd8e2842cd795d2615/artifacts
+deleted_time: 1718622831167
+end_time: 1718622194646
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a177477e1ff24efd8e2842cd795d2615
+run_name: abundant-wolf-628
+run_uuid: a177477e1ff24efd8e2842cd795d2615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622194622
+status: 3
+tags: []
+user_id: grzegorznaporowski

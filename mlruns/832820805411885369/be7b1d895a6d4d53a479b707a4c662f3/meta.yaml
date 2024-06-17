@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/be7b1d895a6d4d53a479b707a4c662f3/artifacts
+end_time: 1718622948436
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: be7b1d895a6d4d53a479b707a4c662f3
+run_name: crawling-bee-91
+run_uuid: be7b1d895a6d4d53a479b707a4c662f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622948410
+status: 3
+tags: []
+user_id: grzegorznaporowski

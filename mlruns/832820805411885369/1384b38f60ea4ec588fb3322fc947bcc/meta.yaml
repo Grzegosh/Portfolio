@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1384b38f60ea4ec588fb3322fc947bcc/artifacts
+deleted_time: 1718622831107
+end_time: 1718622191456
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1384b38f60ea4ec588fb3322fc947bcc
+run_name: languid-shad-827
+run_uuid: 1384b38f60ea4ec588fb3322fc947bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622191430
+status: 3
+tags: []
+user_id: grzegorznaporowski

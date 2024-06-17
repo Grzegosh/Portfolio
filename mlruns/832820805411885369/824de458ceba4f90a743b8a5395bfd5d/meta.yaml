@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/824de458ceba4f90a743b8a5395bfd5d/artifacts
+deleted_time: 1718620709697
+end_time: 1718620386331
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 824de458ceba4f90a743b8a5395bfd5d
+run_name: legendary-fox-525
+run_uuid: 824de458ceba4f90a743b8a5395bfd5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386313
+status: 3
+tags: []
+user_id: grzegorznaporowski

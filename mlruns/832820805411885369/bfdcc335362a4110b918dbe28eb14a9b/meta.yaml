@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bfdcc335362a4110b918dbe28eb14a9b/artifacts
+deleted_time: 1718622155353
+end_time: 1718621903785
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bfdcc335362a4110b918dbe28eb14a9b
+run_name: rumbling-doe-849
+run_uuid: bfdcc335362a4110b918dbe28eb14a9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621903763
+status: 3
+tags: []
+user_id: grzegorznaporowski

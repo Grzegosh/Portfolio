@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1b034b113781407886ffef870e893322/artifacts
+end_time: 1718616192832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b034b113781407886ffef870e893322
+run_name: judicious-hawk-237
+run_uuid: 1b034b113781407886ffef870e893322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718616004752
+status: 3
+tags: []
+user_id: grzegorznaporowski

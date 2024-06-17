@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/dc82d22474b240ff8501072275c18b7c/artifacts
+end_time: 1718622948309
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: dc82d22474b240ff8501072275c18b7c
+run_name: legendary-colt-696
+run_uuid: dc82d22474b240ff8501072275c18b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622948283
+status: 3
+tags: []
+user_id: grzegorznaporowski

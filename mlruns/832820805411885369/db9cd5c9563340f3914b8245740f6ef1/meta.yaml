@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/db9cd5c9563340f3914b8245740f6ef1/artifacts
+deleted_time: 1718621746876
+end_time: 1718621551242
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: db9cd5c9563340f3914b8245740f6ef1
+run_name: debonair-chimp-508
+run_uuid: db9cd5c9563340f3914b8245740f6ef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621551219
+status: 3
+tags: []
+user_id: grzegorznaporowski

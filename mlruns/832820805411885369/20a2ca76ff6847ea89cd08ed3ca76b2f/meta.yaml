@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/20a2ca76ff6847ea89cd08ed3ca76b2f/artifacts
+deleted_time: 1718622941922
+end_time: 1718622916853
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 20a2ca76ff6847ea89cd08ed3ca76b2f
+run_name: defiant-midge-282
+run_uuid: 20a2ca76ff6847ea89cd08ed3ca76b2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622916826
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bd195341b7c24820ad43d882db6a7e27/artifacts
+deleted_time: 1718622155417
+end_time: 1718621907653
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bd195341b7c24820ad43d882db6a7e27
+run_name: abrasive-vole-207
+run_uuid: bd195341b7c24820ad43d882db6a7e27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621907631
+status: 3
+tags: []
+user_id: grzegorznaporowski

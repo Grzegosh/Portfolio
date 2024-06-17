@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9de01d7fd274431e97e5bf4d51c0c879/artifacts
+end_time: 1718623391879
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 9de01d7fd274431e97e5bf4d51c0c879
+run_name: gaudy-mare-966
+run_uuid: 9de01d7fd274431e97e5bf4d51c0c879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623391852
+status: 3
+tags: []
+user_id: grzegorznaporowski

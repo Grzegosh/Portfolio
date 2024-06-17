@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7558e53716fd4d25b99a823114a33e8e/artifacts
+deleted_time: 1718622831209
+end_time: 1718622197392
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7558e53716fd4d25b99a823114a33e8e
+run_name: handsome-finch-611
+run_uuid: 7558e53716fd4d25b99a823114a33e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622197366
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/fd0642c40349484b8fa8687e1a165734/artifacts
+deleted_time: 1718621754726
+end_time: 1718620717855
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: fd0642c40349484b8fa8687e1a165734
+run_name: painted-mouse-121
+run_uuid: fd0642c40349484b8fa8687e1a165734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620717836
+status: 3
+tags: []
+user_id: grzegorznaporowski

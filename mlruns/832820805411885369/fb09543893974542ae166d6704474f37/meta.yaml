@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/fb09543893974542ae166d6704474f37/artifacts
+deleted_time: 1718621882864
+end_time: 1718621780667
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: fb09543893974542ae166d6704474f37
+run_name: worried-snake-925
+run_uuid: fb09543893974542ae166d6704474f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621780646
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1a9109cace5f4125aebca0e93912fcd2/artifacts
+deleted_time: 1718622155327
+end_time: 1718621914184
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1a9109cace5f4125aebca0e93912fcd2
+run_name: unleashed-crab-874
+run_uuid: 1a9109cace5f4125aebca0e93912fcd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621914161
+status: 3
+tags: []
+user_id: grzegorznaporowski

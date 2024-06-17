@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/a1f4d9d45a944cd3a6f3d2614b6c67b9/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199067
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: a1f4d9d45a944cd3a6f3d2614b6c67b9
+run_name: glamorous-wren-461
+run_uuid: a1f4d9d45a944cd3a6f3d2614b6c67b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620199047
+status: 3
+tags: []
+user_id: grzegorznaporowski

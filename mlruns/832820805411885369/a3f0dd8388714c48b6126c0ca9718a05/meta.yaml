@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a3f0dd8388714c48b6126c0ca9718a05/artifacts
+deleted_time: 1718622831224
+end_time: 1718622290062
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a3f0dd8388714c48b6126c0ca9718a05
+run_name: fearless-boar-964
+run_uuid: a3f0dd8388714c48b6126c0ca9718a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622290035
+status: 3
+tags: []
+user_id: grzegorznaporowski

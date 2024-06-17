@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d53720443d64419d8fed4b0f1ebd847d/artifacts
+deleted_time: 1718621754739
+end_time: 1718620718970
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d53720443d64419d8fed4b0f1ebd847d
+run_name: serious-skink-65
+run_uuid: d53720443d64419d8fed4b0f1ebd847d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620718951
+status: 3
+tags: []
+user_id: grzegorznaporowski

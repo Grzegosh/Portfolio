@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/fc5a12a3087d42658040123e7d7305a5/artifacts
+deleted_time: 1718619142497
+end_time: 1718618863454
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: fc5a12a3087d42658040123e7d7305a5
+run_name: funny-colt-413
+run_uuid: fc5a12a3087d42658040123e7d7305a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618863436
+status: 3
+tags: []
+user_id: grzegorznaporowski

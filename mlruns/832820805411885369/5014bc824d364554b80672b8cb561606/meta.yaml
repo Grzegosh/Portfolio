@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5014bc824d364554b80672b8cb561606/artifacts
+deleted_time: 1718622831177
+end_time: 1718622195166
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5014bc824d364554b80672b8cb561606
+run_name: vaunted-hound-596
+run_uuid: 5014bc824d364554b80672b8cb561606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622195143
+status: 3
+tags: []
+user_id: grzegorznaporowski

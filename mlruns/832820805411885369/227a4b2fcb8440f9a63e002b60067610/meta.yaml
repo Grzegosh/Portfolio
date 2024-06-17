@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/227a4b2fcb8440f9a63e002b60067610/artifacts
+end_time: 1718622970952
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 227a4b2fcb8440f9a63e002b60067610
+run_name: selective-stag-252
+run_uuid: 227a4b2fcb8440f9a63e002b60067610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622970925
+status: 3
+tags: []
+user_id: grzegorznaporowski

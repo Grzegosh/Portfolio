@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4cf97453b34144d5b80ac796121530d2/artifacts
+deleted_time: 1718622831147
+end_time: 1718622193329
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4cf97453b34144d5b80ac796121530d2
+run_name: skillful-ant-735
+run_uuid: 4cf97453b34144d5b80ac796121530d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622193305
+status: 3
+tags: []
+user_id: grzegorznaporowski

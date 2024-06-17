@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/0aad6f330bd247e2813f6454bdd9f9e6/artifacts
+deleted_time: 1718620266874
+end_time: 1718620236250
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 0aad6f330bd247e2813f6454bdd9f9e6
+run_name: dapper-flea-927
+run_uuid: 0aad6f330bd247e2813f6454bdd9f9e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620236228
+status: 3
+tags: []
+user_id: grzegorznaporowski

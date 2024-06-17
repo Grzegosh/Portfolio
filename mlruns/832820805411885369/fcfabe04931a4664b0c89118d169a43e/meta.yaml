@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/fcfabe04931a4664b0c89118d169a43e/artifacts
+deleted_time: 1718622155371
+end_time: 1718621905111
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: fcfabe04931a4664b0c89118d169a43e
+run_name: amazing-ram-629
+run_uuid: fcfabe04931a4664b0c89118d169a43e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905090
+status: 3
+tags: []
+user_id: grzegorznaporowski

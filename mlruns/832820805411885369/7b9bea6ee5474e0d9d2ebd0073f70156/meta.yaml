@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7b9bea6ee5474e0d9d2ebd0073f70156/artifacts
+deleted_time: 1718622831154
+end_time: 1718622193727
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7b9bea6ee5474e0d9d2ebd0073f70156
+run_name: monumental-foal-725
+run_uuid: 7b9bea6ee5474e0d9d2ebd0073f70156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622193702
+status: 3
+tags: []
+user_id: grzegorznaporowski

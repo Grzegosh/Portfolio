@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/39fb33db8f1846d0b781a06062273916/artifacts
+deleted_time: 1718621746892
+end_time: 1718621553681
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 39fb33db8f1846d0b781a06062273916
+run_name: fortunate-horse-710
+run_uuid: 39fb33db8f1846d0b781a06062273916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621553662
+status: 3
+tags: []
+user_id: grzegorznaporowski

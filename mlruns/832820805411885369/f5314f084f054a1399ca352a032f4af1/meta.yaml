@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f5314f084f054a1399ca352a032f4af1/artifacts
+deleted_time: 1718621895045
+end_time: 1718621784832
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f5314f084f054a1399ca352a032f4af1
+run_name: shivering-kite-432
+run_uuid: f5314f084f054a1399ca352a032f4af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621784812
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/87689df6c96e433fbcc1fafd0d171c87/artifacts
+deleted_time: 1718621882885
+end_time: 1718621782261
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 87689df6c96e433fbcc1fafd0d171c87
+run_name: grandiose-sloth-530
+run_uuid: 87689df6c96e433fbcc1fafd0d171c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621782241
+status: 3
+tags: []
+user_id: grzegorznaporowski

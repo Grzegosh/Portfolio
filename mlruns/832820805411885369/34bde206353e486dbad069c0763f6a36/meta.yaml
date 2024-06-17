@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/34bde206353e486dbad069c0763f6a36/artifacts
+deleted_time: 1718621746884
+end_time: 1718621553491
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 34bde206353e486dbad069c0763f6a36
+run_name: dazzling-croc-853
+run_uuid: 34bde206353e486dbad069c0763f6a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621553472
+status: 3
+tags: []
+user_id: grzegorznaporowski

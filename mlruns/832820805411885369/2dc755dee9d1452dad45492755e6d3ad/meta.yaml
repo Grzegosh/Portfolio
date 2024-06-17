@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2dc755dee9d1452dad45492755e6d3ad/artifacts
+deleted_time: 1718621882927
+end_time: 1718621784662
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2dc755dee9d1452dad45492755e6d3ad
+run_name: marvelous-mare-987
+run_uuid: 2dc755dee9d1452dad45492755e6d3ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621784642
+status: 3
+tags: []
+user_id: grzegorznaporowski

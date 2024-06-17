@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e4b8d2b4d36e4abf83ba2c9def0b8723/artifacts
+deleted_time: 1718622155361
+end_time: 1718621904284
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e4b8d2b4d36e4abf83ba2c9def0b8723
+run_name: lyrical-hawk-654
+run_uuid: e4b8d2b4d36e4abf83ba2c9def0b8723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621904262
+status: 3
+tags: []
+user_id: grzegorznaporowski

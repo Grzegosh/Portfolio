@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a32b9b4f41bd474a84a16529d6cfcd7d/artifacts
+deleted_time: 1718621895105
+end_time: 1718621789133
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a32b9b4f41bd474a84a16529d6cfcd7d
+run_name: masked-bird-783
+run_uuid: a32b9b4f41bd474a84a16529d6cfcd7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621789111
+status: 3
+tags: []
+user_id: grzegorznaporowski

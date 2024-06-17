@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/70e6c319adcf48fb8047381292be5279/artifacts
+deleted_time: 1718622866412
+end_time: 1718622293361
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 70e6c319adcf48fb8047381292be5279
+run_name: fearless-bug-823
+run_uuid: 70e6c319adcf48fb8047381292be5279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622293334
+status: 3
+tags: []
+user_id: grzegorznaporowski

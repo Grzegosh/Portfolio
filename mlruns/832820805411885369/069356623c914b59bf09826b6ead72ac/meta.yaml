@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/069356623c914b59bf09826b6ead72ac/artifacts
+deleted_time: 1718622941948
+end_time: 1718622891117
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 069356623c914b59bf09826b6ead72ac
+run_name: popular-elk-374
+run_uuid: 069356623c914b59bf09826b6ead72ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622891090
+status: 3
+tags: []
+user_id: grzegorznaporowski

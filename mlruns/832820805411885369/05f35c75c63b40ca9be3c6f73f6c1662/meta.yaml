@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/05f35c75c63b40ca9be3c6f73f6c1662/artifacts
+deleted_time: 1718622831223
+end_time: 1718622287908
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 05f35c75c63b40ca9be3c6f73f6c1662
+run_name: worried-ant-285
+run_uuid: 05f35c75c63b40ca9be3c6f73f6c1662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622287883
+status: 3
+tags: []
+user_id: grzegorznaporowski

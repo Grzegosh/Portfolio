@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/51dd097d78f84e608ee8c7a794eae411/artifacts
+deleted_time: 1718622941935
+end_time: 1718622911101
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 51dd097d78f84e608ee8c7a794eae411
+run_name: glamorous-shoat-976
+run_uuid: 51dd097d78f84e608ee8c7a794eae411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622911075
+status: 3
+tags: []
+user_id: grzegorznaporowski

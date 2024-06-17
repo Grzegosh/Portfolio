@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/e78476740844471285632d7a040761f0/artifacts
+deleted_time: 1718616513206
+end_time: 1718616364207
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: e78476740844471285632d7a040761f0
+run_name: thundering-seal-78
+run_uuid: e78476740844471285632d7a040761f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718616364180
+status: 3
+tags: []
+user_id: grzegorznaporowski

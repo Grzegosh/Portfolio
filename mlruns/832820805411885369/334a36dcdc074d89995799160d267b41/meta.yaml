@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/334a36dcdc074d89995799160d267b41/artifacts
+deleted_time: 1718622176077
+end_time: 1718621919997
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 334a36dcdc074d89995799160d267b41
+run_name: useful-fly-865
+run_uuid: 334a36dcdc074d89995799160d267b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621919973
+status: 3
+tags: []
+user_id: grzegorznaporowski

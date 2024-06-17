@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/9a332c8f9e314964a3326820a223aed4/artifacts
+deleted_time: 1718620244421
+end_time: 1718619914326
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 9a332c8f9e314964a3326820a223aed4
+run_name: gentle-hog-449
+run_uuid: 9a332c8f9e314964a3326820a223aed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914306
+status: 3
+tags: []
+user_id: grzegorznaporowski

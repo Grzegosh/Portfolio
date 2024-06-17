@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d5c2cc8803454ce893db1b31d0da03d1/artifacts
+deleted_time: 1718621895107
+end_time: 1718621789457
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d5c2cc8803454ce893db1b31d0da03d1
+run_name: treasured-mink-554
+run_uuid: d5c2cc8803454ce893db1b31d0da03d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621789433
+status: 3
+tags: []
+user_id: grzegorznaporowski

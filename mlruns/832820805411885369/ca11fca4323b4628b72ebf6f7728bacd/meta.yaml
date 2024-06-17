@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ca11fca4323b4628b72ebf6f7728bacd/artifacts
+deleted_time: 1718621882872
+end_time: 1718621781452
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ca11fca4323b4628b72ebf6f7728bacd
+run_name: welcoming-fowl-413
+run_uuid: ca11fca4323b4628b72ebf6f7728bacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621781432
+status: 3
+tags: []
+user_id: grzegorznaporowski

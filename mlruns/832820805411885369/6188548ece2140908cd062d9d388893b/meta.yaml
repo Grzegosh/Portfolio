@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6188548ece2140908cd062d9d388893b/artifacts
+deleted_time: 1718621882850
+end_time: 1718621779687
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6188548ece2140908cd062d9d388893b
+run_name: funny-mule-588
+run_uuid: 6188548ece2140908cd062d9d388893b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621779667
+status: 3
+tags: []
+user_id: grzegorznaporowski

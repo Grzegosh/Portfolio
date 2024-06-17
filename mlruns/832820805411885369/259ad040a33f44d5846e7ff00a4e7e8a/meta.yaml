@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/259ad040a33f44d5846e7ff00a4e7e8a/artifacts
+deleted_time: 1718622831186
+end_time: 1718622196037
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 259ad040a33f44d5846e7ff00a4e7e8a
+run_name: luxuriant-tern-819
+run_uuid: 259ad040a33f44d5846e7ff00a4e7e8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622196012
+status: 3
+tags: []
+user_id: grzegorznaporowski

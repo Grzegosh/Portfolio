@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/feb98ac970e844e6aac233088ab657c3/artifacts
+deleted_time: 1718621754705
+end_time: 1718620716270
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: feb98ac970e844e6aac233088ab657c3
+run_name: serious-whale-224
+run_uuid: feb98ac970e844e6aac233088ab657c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620716251
+status: 3
+tags: []
+user_id: grzegorznaporowski

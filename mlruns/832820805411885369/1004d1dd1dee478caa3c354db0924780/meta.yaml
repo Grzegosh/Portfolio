@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1004d1dd1dee478caa3c354db0924780/artifacts
+deleted_time: 1718620709699
+end_time: 1718620387179
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1004d1dd1dee478caa3c354db0924780
+run_name: gentle-swan-445
+run_uuid: 1004d1dd1dee478caa3c354db0924780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620387161
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/b99b1166a67347bab993288b6f240037/artifacts
+deleted_time: 1718619142501
+end_time: 1718618862858
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: b99b1166a67347bab993288b6f240037
+run_name: abundant-newt-359
+run_uuid: b99b1166a67347bab993288b6f240037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618862839
+status: 3
+tags: []
+user_id: grzegorznaporowski

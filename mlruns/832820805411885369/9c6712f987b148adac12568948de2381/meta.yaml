@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9c6712f987b148adac12568948de2381/artifacts
+deleted_time: 1718622155381
+end_time: 1718621905282
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9c6712f987b148adac12568948de2381
+run_name: beautiful-croc-385
+run_uuid: 9c6712f987b148adac12568948de2381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905261
+status: 3
+tags: []
+user_id: grzegorznaporowski

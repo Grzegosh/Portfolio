@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0239a555274245e7bb82644e5c27dbe4/artifacts
+deleted_time: 1718622941901
+end_time: 1718622915362
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0239a555274245e7bb82644e5c27dbe4
+run_name: charming-ray-76
+run_uuid: 0239a555274245e7bb82644e5c27dbe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622915335
+status: 3
+tags: []
+user_id: grzegorznaporowski

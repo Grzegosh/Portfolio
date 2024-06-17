@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1cc65f4cb49b4d1d97e5de589177e23e/artifacts
+deleted_time: 1718620709709
+end_time: 1718620386266
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1cc65f4cb49b4d1d97e5de589177e23e
+run_name: handsome-roo-670
+run_uuid: 1cc65f4cb49b4d1d97e5de589177e23e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386249
+status: 3
+tags: []
+user_id: grzegorznaporowski

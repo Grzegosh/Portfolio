@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ebfc2801762d4e15a4e0ecee1710c371/artifacts
+end_time: 1718622969078
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: ebfc2801762d4e15a4e0ecee1710c371
+run_name: carefree-eel-338
+run_uuid: ebfc2801762d4e15a4e0ecee1710c371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622969051
+status: 3
+tags: []
+user_id: grzegorznaporowski

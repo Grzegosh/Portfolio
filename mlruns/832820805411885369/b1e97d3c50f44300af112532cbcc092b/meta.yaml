@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/b1e97d3c50f44300af112532cbcc092b/artifacts
+deleted_time: 1718620370357
+end_time: 1718620311290
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: b1e97d3c50f44300af112532cbcc092b
+run_name: valuable-ray-164
+run_uuid: b1e97d3c50f44300af112532cbcc092b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311273
+status: 3
+tags: []
+user_id: grzegorznaporowski

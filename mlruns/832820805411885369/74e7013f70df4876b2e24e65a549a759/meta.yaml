@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/74e7013f70df4876b2e24e65a549a759/artifacts
+deleted_time: 1718622831229
+end_time: 1718622291166
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 74e7013f70df4876b2e24e65a549a759
+run_name: monumental-hen-231
+run_uuid: 74e7013f70df4876b2e24e65a549a759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622291140
+status: 3
+tags: []
+user_id: grzegorznaporowski

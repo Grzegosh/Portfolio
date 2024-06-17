@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/316917201a424648a84bfa4a45bff283/artifacts
+deleted_time: 1718621754667
+end_time: 1718620713410
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 316917201a424648a84bfa4a45bff283
+run_name: redolent-flea-544
+run_uuid: 316917201a424648a84bfa4a45bff283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620713392
+status: 3
+tags: []
+user_id: grzegorznaporowski

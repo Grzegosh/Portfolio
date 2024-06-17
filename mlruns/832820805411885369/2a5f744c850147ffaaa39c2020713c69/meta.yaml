@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2a5f744c850147ffaaa39c2020713c69/artifacts
+deleted_time: 1718622941918
+end_time: 1718622916182
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2a5f744c850147ffaaa39c2020713c69
+run_name: loud-midge-324
+run_uuid: 2a5f744c850147ffaaa39c2020713c69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622916156
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f46fd4ada1a54c6e8299689e90e4e642/artifacts
+deleted_time: 1718622831196
+end_time: 1718622196706
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f46fd4ada1a54c6e8299689e90e4e642
+run_name: magnificent-goat-592
+run_uuid: f46fd4ada1a54c6e8299689e90e4e642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622196681
+status: 3
+tags: []
+user_id: grzegorznaporowski

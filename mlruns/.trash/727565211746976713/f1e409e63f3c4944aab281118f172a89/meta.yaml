@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/f1e409e63f3c4944aab281118f172a89/artifacts
+deleted_time: 1718619142482
+end_time: 1718618907919
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: f1e409e63f3c4944aab281118f172a89
+run_name: gentle-ram-448
+run_uuid: f1e409e63f3c4944aab281118f172a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618907896
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9faced195fdf4a4fa0aeaba30c208e89/artifacts
+deleted_time: 1718622155318
+end_time: 1718621911580
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9faced195fdf4a4fa0aeaba30c208e89
+run_name: debonair-skink-264
+run_uuid: 9faced195fdf4a4fa0aeaba30c208e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621911557
+status: 3
+tags: []
+user_id: grzegorznaporowski

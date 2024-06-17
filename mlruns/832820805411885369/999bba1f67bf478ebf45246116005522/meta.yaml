@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/999bba1f67bf478ebf45246116005522/artifacts
+deleted_time: 1718622831183
+end_time: 1718622195896
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 999bba1f67bf478ebf45246116005522
+run_name: nebulous-zebra-689
+run_uuid: 999bba1f67bf478ebf45246116005522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622195870
+status: 3
+tags: []
+user_id: grzegorznaporowski

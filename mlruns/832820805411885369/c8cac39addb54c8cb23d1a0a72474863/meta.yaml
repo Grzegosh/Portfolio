@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c8cac39addb54c8cb23d1a0a72474863/artifacts
+deleted_time: 1718621895054
+end_time: 1718621785439
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: c8cac39addb54c8cb23d1a0a72474863
+run_name: capricious-ram-452
+run_uuid: c8cac39addb54c8cb23d1a0a72474863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621785418
+status: 3
+tags: []
+user_id: grzegorznaporowski

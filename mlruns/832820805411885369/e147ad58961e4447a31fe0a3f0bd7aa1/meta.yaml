@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e147ad58961e4447a31fe0a3f0bd7aa1/artifacts
+deleted_time: 1718622941963
+end_time: 1718622914910
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e147ad58961e4447a31fe0a3f0bd7aa1
+run_name: bustling-pig-78
+run_uuid: e147ad58961e4447a31fe0a3f0bd7aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622914884
+status: 3
+tags: []
+user_id: grzegorznaporowski

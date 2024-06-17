@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/468d71cc34d948b68f130d1f85dc412a/artifacts
+deleted_time: 1718622831156
+end_time: 1718622193784
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 468d71cc34d948b68f130d1f85dc412a
+run_name: welcoming-mare-508
+run_uuid: 468d71cc34d948b68f130d1f85dc412a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622193760
+status: 3
+tags: []
+user_id: grzegorznaporowski

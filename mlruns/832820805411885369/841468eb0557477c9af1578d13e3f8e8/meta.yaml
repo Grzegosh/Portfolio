@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/841468eb0557477c9af1578d13e3f8e8/artifacts
+deleted_time: 1718622155414
+end_time: 1718621907469
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 841468eb0557477c9af1578d13e3f8e8
+run_name: sedate-wasp-716
+run_uuid: 841468eb0557477c9af1578d13e3f8e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621907440
+status: 3
+tags: []
+user_id: grzegorznaporowski

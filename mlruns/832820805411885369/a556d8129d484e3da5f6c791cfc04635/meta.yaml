@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a556d8129d484e3da5f6c791cfc04635/artifacts
+deleted_time: 1718622176034
+end_time: 1718621917761
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a556d8129d484e3da5f6c791cfc04635
+run_name: capricious-panda-861
+run_uuid: a556d8129d484e3da5f6c791cfc04635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621917737
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c438772e9a6b424293651ac0de399fab/artifacts
+deleted_time: 1718622941938
+end_time: 1718622914352
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: c438772e9a6b424293651ac0de399fab
+run_name: traveling-hen-728
+run_uuid: c438772e9a6b424293651ac0de399fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622914326
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/2025c7bf125549be8dabaa445319258e/artifacts
+deleted_time: 1718620266874
+end_time: 1718620198652
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 2025c7bf125549be8dabaa445319258e
+run_name: handsome-chimp-446
+run_uuid: 2025c7bf125549be8dabaa445319258e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620198632
+status: 3
+tags: []
+user_id: grzegorznaporowski

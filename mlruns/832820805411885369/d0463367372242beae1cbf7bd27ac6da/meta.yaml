@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d0463367372242beae1cbf7bd27ac6da/artifacts
+deleted_time: 1718621882808
+end_time: 1718621778014
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d0463367372242beae1cbf7bd27ac6da
+run_name: righteous-loon-759
+run_uuid: d0463367372242beae1cbf7bd27ac6da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621777994
+status: 3
+tags: []
+user_id: grzegorznaporowski

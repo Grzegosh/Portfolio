@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bb50044074574642af58674654ae33d1/artifacts
+deleted_time: 1718622155337
+end_time: 1718621902524
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bb50044074574642af58674654ae33d1
+run_name: burly-snake-4
+run_uuid: bb50044074574642af58674654ae33d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621902503
+status: 3
+tags: []
+user_id: grzegorznaporowski

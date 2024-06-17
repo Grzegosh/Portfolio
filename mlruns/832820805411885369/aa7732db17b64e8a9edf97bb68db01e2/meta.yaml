@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/aa7732db17b64e8a9edf97bb68db01e2/artifacts
+deleted_time: 1718622155390
+end_time: 1718621905790
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: aa7732db17b64e8a9edf97bb68db01e2
+run_name: bouncy-skunk-851
+run_uuid: aa7732db17b64e8a9edf97bb68db01e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905768
+status: 3
+tags: []
+user_id: grzegorznaporowski

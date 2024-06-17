@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d777fa89316e4f0e8d80f6c6f90db37f/artifacts
+end_time: 1718622971540
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: d777fa89316e4f0e8d80f6c6f90db37f
+run_name: nosy-donkey-639
+run_uuid: d777fa89316e4f0e8d80f6c6f90db37f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622971512
+status: 3
+tags: []
+user_id: grzegorznaporowski

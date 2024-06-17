@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/342af28aabf54583a63910e25b5622ab/artifacts
+deleted_time: 1718620266874
+end_time: 1718620235354
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 342af28aabf54583a63910e25b5622ab
+run_name: nosy-dolphin-262
+run_uuid: 342af28aabf54583a63910e25b5622ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620235332
+status: 3
+tags: []
+user_id: grzegorznaporowski

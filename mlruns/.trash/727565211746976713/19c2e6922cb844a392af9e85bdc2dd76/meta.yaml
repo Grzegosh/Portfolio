@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/19c2e6922cb844a392af9e85bdc2dd76/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199134
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 19c2e6922cb844a392af9e85bdc2dd76
+run_name: loud-rat-95
+run_uuid: 19c2e6922cb844a392af9e85bdc2dd76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620199115
+status: 3
+tags: []
+user_id: grzegorznaporowski

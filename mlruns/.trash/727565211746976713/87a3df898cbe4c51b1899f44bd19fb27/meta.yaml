@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/87a3df898cbe4c51b1899f44bd19fb27/artifacts
+deleted_time: 1718616624719
+end_time: 1718616557660
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 87a3df898cbe4c51b1899f44bd19fb27
+run_name: glamorous-foal-800
+run_uuid: 87a3df898cbe4c51b1899f44bd19fb27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718616557638
+status: 4
+tags: []
+user_id: grzegorznaporowski

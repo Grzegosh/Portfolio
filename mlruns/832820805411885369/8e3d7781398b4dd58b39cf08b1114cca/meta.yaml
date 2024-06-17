@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8e3d7781398b4dd58b39cf08b1114cca/artifacts
+deleted_time: 1718622176008
+end_time: 1718621916455
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8e3d7781398b4dd58b39cf08b1114cca
+run_name: whimsical-cat-361
+run_uuid: 8e3d7781398b4dd58b39cf08b1114cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621916431
+status: 3
+tags: []
+user_id: grzegorznaporowski

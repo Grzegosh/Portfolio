@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5d7f648801964374b097639d90786693/artifacts
+deleted_time: 1718621754672
+end_time: 1718620714085
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5d7f648801964374b097639d90786693
+run_name: fun-bee-317
+run_uuid: 5d7f648801964374b097639d90786693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620714065
+status: 3
+tags: []
+user_id: grzegorznaporowski

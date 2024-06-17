@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/767d66c3fbf140fc819eaeeb4ac46e10/artifacts
+deleted_time: 1718622155371
+end_time: 1718621905078
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 767d66c3fbf140fc819eaeeb4ac46e10
+run_name: worried-smelt-320
+run_uuid: 767d66c3fbf140fc819eaeeb4ac46e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905056
+status: 3
+tags: []
+user_id: grzegorznaporowski

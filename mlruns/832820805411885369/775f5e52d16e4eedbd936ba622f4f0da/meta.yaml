@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/775f5e52d16e4eedbd936ba622f4f0da/artifacts
+deleted_time: 1718622176030
+end_time: 1718621917570
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 775f5e52d16e4eedbd936ba622f4f0da
+run_name: luminous-jay-202
+run_uuid: 775f5e52d16e4eedbd936ba622f4f0da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621917546
+status: 3
+tags: []
+user_id: grzegorznaporowski

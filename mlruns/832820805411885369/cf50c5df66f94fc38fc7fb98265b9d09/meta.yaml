@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/cf50c5df66f94fc38fc7fb98265b9d09/artifacts
+deleted_time: 1718622155399
+end_time: 1718621906689
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: cf50c5df66f94fc38fc7fb98265b9d09
+run_name: exultant-steed-369
+run_uuid: cf50c5df66f94fc38fc7fb98265b9d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621906666
+status: 3
+tags: []
+user_id: grzegorznaporowski

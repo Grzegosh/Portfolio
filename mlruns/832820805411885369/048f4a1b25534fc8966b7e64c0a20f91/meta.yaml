@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/048f4a1b25534fc8966b7e64c0a20f91/artifacts
+deleted_time: 1718622155332
+end_time: 1718621915692
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 048f4a1b25534fc8966b7e64c0a20f91
+run_name: crawling-sloth-579
+run_uuid: 048f4a1b25534fc8966b7e64c0a20f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621915670
+status: 3
+tags: []
+user_id: grzegorznaporowski

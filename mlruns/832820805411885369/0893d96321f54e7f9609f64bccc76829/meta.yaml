@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0893d96321f54e7f9609f64bccc76829/artifacts
+deleted_time: 1718620370329
+end_time: 1718620310721
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0893d96321f54e7f9609f64bccc76829
+run_name: learned-shoat-607
+run_uuid: 0893d96321f54e7f9609f64bccc76829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620310704
+status: 3
+tags: []
+user_id: grzegorznaporowski

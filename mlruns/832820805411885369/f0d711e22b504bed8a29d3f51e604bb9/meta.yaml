@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f0d711e22b504bed8a29d3f51e604bb9/artifacts
+deleted_time: 1718622176066
+end_time: 1718621919407
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f0d711e22b504bed8a29d3f51e604bb9
+run_name: flawless-hawk-719
+run_uuid: f0d711e22b504bed8a29d3f51e604bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621919384
+status: 3
+tags: []
+user_id: grzegorznaporowski

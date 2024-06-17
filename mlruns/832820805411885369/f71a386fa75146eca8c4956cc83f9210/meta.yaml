@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f71a386fa75146eca8c4956cc83f9210/artifacts
+deleted_time: 1718622155405
+end_time: 1718621906780
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f71a386fa75146eca8c4956cc83f9210
+run_name: aged-colt-822
+run_uuid: f71a386fa75146eca8c4956cc83f9210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621906758
+status: 3
+tags: []
+user_id: grzegorznaporowski

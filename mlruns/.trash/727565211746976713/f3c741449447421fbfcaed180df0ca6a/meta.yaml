@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/f3c741449447421fbfcaed180df0ca6a/artifacts
+deleted_time: 1718619423134
+end_time: 1718619413003
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: f3c741449447421fbfcaed180df0ca6a
+run_name: clumsy-gnat-802
+run_uuid: f3c741449447421fbfcaed180df0ca6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619412984
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/09a0e2f5a51a4792b34b2011a39d898e/artifacts
+deleted_time: 1718621754739
+end_time: 1718620719024
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 09a0e2f5a51a4792b34b2011a39d898e
+run_name: handsome-tern-365
+run_uuid: 09a0e2f5a51a4792b34b2011a39d898e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620719005
+status: 3
+tags: []
+user_id: grzegorznaporowski

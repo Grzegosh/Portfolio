@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/2603d1bc04c641f0bd40d848e604e456/artifacts
+deleted_time: 1718619142496
+end_time: 1718618863644
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 2603d1bc04c641f0bd40d848e604e456
+run_name: shivering-ape-7
+run_uuid: 2603d1bc04c641f0bd40d848e604e456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618863626
+status: 3
+tags: []
+user_id: grzegorznaporowski

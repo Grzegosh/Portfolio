@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d5d3e371201b4c7e93354d7fd8fdce92/artifacts
+deleted_time: 1718622176042
+end_time: 1718621918203
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d5d3e371201b4c7e93354d7fd8fdce92
+run_name: rare-seal-490
+run_uuid: d5d3e371201b4c7e93354d7fd8fdce92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621918179
+status: 3
+tags: []
+user_id: grzegorznaporowski

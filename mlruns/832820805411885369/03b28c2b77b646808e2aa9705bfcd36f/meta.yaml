@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/03b28c2b77b646808e2aa9705bfcd36f/artifacts
+deleted_time: 1718621882882
+end_time: 1718621782141
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 03b28c2b77b646808e2aa9705bfcd36f
+run_name: gentle-squid-512
+run_uuid: 03b28c2b77b646808e2aa9705bfcd36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621782121
+status: 3
+tags: []
+user_id: grzegorznaporowski

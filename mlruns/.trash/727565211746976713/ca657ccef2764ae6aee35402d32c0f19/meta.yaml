@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/ca657ccef2764ae6aee35402d32c0f19/artifacts
+deleted_time: 1718620244425
+end_time: 1718619914666
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: ca657ccef2764ae6aee35402d32c0f19
+run_name: chill-owl-178
+run_uuid: ca657ccef2764ae6aee35402d32c0f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914647
+status: 3
+tags: []
+user_id: grzegorznaporowski

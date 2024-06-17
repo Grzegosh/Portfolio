@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/4535b35d874a431bbb19219a0e342cc2/artifacts
+deleted_time: 1718620244449
+end_time: 1718619428153
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 4535b35d874a431bbb19219a0e342cc2
+run_name: shivering-cow-850
+run_uuid: 4535b35d874a431bbb19219a0e342cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619428133
+status: 3
+tags: []
+user_id: grzegorznaporowski

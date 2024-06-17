@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c0c417f51f17469687fa265b43072078/artifacts
+end_time: 1718623387522
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: c0c417f51f17469687fa265b43072078
+run_name: persistent-jay-851
+run_uuid: c0c417f51f17469687fa265b43072078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623387493
+status: 3
+tags: []
+user_id: grzegorznaporowski

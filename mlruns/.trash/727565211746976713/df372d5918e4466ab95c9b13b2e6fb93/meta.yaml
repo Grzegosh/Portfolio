@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/df372d5918e4466ab95c9b13b2e6fb93/artifacts
+deleted_time: 1718618821884
+end_time: 1718618430201
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: df372d5918e4466ab95c9b13b2e6fb93
+run_name: merciful-gull-764
+run_uuid: df372d5918e4466ab95c9b13b2e6fb93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618430182
+status: 3
+tags: []
+user_id: grzegorznaporowski

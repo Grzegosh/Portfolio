@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ee374ca7caa3498a828892b9d3f4c956/artifacts
+end_time: 1718623388820
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: ee374ca7caa3498a828892b9d3f4c956
+run_name: angry-fish-140
+run_uuid: ee374ca7caa3498a828892b9d3f4c956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623388792
+status: 3
+tags: []
+user_id: grzegorznaporowski

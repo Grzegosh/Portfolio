@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a40eecb539214ca78311fba4ef036700/artifacts
+deleted_time: 1718622176032
+end_time: 1718621917627
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a40eecb539214ca78311fba4ef036700
+run_name: rare-mole-780
+run_uuid: a40eecb539214ca78311fba4ef036700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621917604
+status: 3
+tags: []
+user_id: grzegorznaporowski

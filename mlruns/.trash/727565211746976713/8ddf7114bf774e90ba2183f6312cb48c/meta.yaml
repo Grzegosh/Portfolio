@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/8ddf7114bf774e90ba2183f6312cb48c/artifacts
+deleted_time: 1718620244427
+end_time: 1718619914480
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 8ddf7114bf774e90ba2183f6312cb48c
+run_name: gentle-skink-154
+run_uuid: 8ddf7114bf774e90ba2183f6312cb48c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914461
+status: 3
+tags: []
+user_id: grzegorznaporowski

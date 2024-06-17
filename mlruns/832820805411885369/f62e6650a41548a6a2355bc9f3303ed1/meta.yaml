@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f62e6650a41548a6a2355bc9f3303ed1/artifacts
+deleted_time: 1718621882820
+end_time: 1718621778080
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f62e6650a41548a6a2355bc9f3303ed1
+run_name: defiant-whale-994
+run_uuid: f62e6650a41548a6a2355bc9f3303ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621778060
+status: 3
+tags: []
+user_id: grzegorznaporowski

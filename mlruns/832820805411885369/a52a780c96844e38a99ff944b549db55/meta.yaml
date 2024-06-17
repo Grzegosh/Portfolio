@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a52a780c96844e38a99ff944b549db55/artifacts
+end_time: 1718622970703
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: a52a780c96844e38a99ff944b549db55
+run_name: aged-shrike-975
+run_uuid: a52a780c96844e38a99ff944b549db55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622970675
+status: 3
+tags: []
+user_id: grzegorznaporowski

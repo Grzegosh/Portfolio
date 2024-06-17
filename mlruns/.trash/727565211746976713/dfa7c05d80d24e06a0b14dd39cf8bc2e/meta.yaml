@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/dfa7c05d80d24e06a0b14dd39cf8bc2e/artifacts
+deleted_time: 1718619142471
+end_time: 1718619039934
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: dfa7c05d80d24e06a0b14dd39cf8bc2e
+run_name: gaudy-shrike-715
+run_uuid: dfa7c05d80d24e06a0b14dd39cf8bc2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619039915
+status: 3
+tags: []
+user_id: grzegorznaporowski

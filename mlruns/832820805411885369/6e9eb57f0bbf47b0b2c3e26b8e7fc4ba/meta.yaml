@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6e9eb57f0bbf47b0b2c3e26b8e7fc4ba/artifacts
+deleted_time: 1718621895090
+end_time: 1718621787809
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6e9eb57f0bbf47b0b2c3e26b8e7fc4ba
+run_name: bald-loon-640
+run_uuid: 6e9eb57f0bbf47b0b2c3e26b8e7fc4ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621787787
+status: 3
+tags: []
+user_id: grzegorznaporowski

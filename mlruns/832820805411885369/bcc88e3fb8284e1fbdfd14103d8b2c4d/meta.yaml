@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bcc88e3fb8284e1fbdfd14103d8b2c4d/artifacts
+deleted_time: 1718621882874
+end_time: 1718621781580
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bcc88e3fb8284e1fbdfd14103d8b2c4d
+run_name: whimsical-dove-974
+run_uuid: bcc88e3fb8284e1fbdfd14103d8b2c4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621781560
+status: 3
+tags: []
+user_id: grzegorznaporowski

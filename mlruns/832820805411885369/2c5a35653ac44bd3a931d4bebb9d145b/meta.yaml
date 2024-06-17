@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2c5a35653ac44bd3a931d4bebb9d145b/artifacts
+deleted_time: 1718620709690
+end_time: 1718620387208
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2c5a35653ac44bd3a931d4bebb9d145b
+run_name: carefree-stoat-75
+run_uuid: 2c5a35653ac44bd3a931d4bebb9d145b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620387191
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/babea986f67e47de88cd47f67f3457f5/artifacts
+deleted_time: 1718622155305
+end_time: 1718621915770
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: babea986f67e47de88cd47f67f3457f5
+run_name: bouncy-moth-280
+run_uuid: babea986f67e47de88cd47f67f3457f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621915748
+status: 3
+tags: []
+user_id: grzegorznaporowski

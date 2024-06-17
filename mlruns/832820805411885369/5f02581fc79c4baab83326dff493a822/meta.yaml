@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5f02581fc79c4baab83326dff493a822/artifacts
+deleted_time: 1718622831188
+end_time: 1718622196110
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5f02581fc79c4baab83326dff493a822
+run_name: spiffy-robin-839
+run_uuid: 5f02581fc79c4baab83326dff493a822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622196086
+status: 3
+tags: []
+user_id: grzegorznaporowski

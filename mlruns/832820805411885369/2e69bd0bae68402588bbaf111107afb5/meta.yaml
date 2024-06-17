@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2e69bd0bae68402588bbaf111107afb5/artifacts
+deleted_time: 1718621754734
+end_time: 1718620718341
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2e69bd0bae68402588bbaf111107afb5
+run_name: silent-fox-413
+run_uuid: 2e69bd0bae68402588bbaf111107afb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620718322
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8681c76f6092469dbd71d8685057f60e/artifacts
+deleted_time: 1718622831234
+end_time: 1718622291418
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8681c76f6092469dbd71d8685057f60e
+run_name: dazzling-pug-121
+run_uuid: 8681c76f6092469dbd71d8685057f60e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622291389
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/92ab40ef73fb465b81876dc936beb665/artifacts
+deleted_time: 1718621882923
+end_time: 1718621784354
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 92ab40ef73fb465b81876dc936beb665
+run_name: worried-bat-843
+run_uuid: 92ab40ef73fb465b81876dc936beb665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621784333
+status: 3
+tags: []
+user_id: grzegorznaporowski

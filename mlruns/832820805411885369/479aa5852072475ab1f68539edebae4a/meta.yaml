@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/479aa5852072475ab1f68539edebae4a/artifacts
+deleted_time: 1718622176021
+end_time: 1718621917007
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 479aa5852072475ab1f68539edebae4a
+run_name: adaptable-rat-369
+run_uuid: 479aa5852072475ab1f68539edebae4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621916983
+status: 3
+tags: []
+user_id: grzegorznaporowski

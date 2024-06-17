@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/c7d211291bfd49c7b0e6863dd8d02472/artifacts
+deleted_time: 1718619423138
+end_time: 1718619412805
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: c7d211291bfd49c7b0e6863dd8d02472
+run_name: polite-skink-60
+run_uuid: c7d211291bfd49c7b0e6863dd8d02472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619412785
+status: 3
+tags: []
+user_id: grzegorznaporowski

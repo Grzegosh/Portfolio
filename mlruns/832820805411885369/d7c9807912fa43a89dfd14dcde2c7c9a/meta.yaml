@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d7c9807912fa43a89dfd14dcde2c7c9a/artifacts
+deleted_time: 1718621754731
+end_time: 1718620718280
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d7c9807912fa43a89dfd14dcde2c7c9a
+run_name: rumbling-skunk-668
+run_uuid: d7c9807912fa43a89dfd14dcde2c7c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620718261
+status: 3
+tags: []
+user_id: grzegorznaporowski

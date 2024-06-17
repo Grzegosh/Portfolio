@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0903592ae23e403490f5922d565e7b71/artifacts
+end_time: 1718622969923
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 0903592ae23e403490f5922d565e7b71
+run_name: upset-wasp-255
+run_uuid: 0903592ae23e403490f5922d565e7b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622969895
+status: 3
+tags: []
+user_id: grzegorznaporowski

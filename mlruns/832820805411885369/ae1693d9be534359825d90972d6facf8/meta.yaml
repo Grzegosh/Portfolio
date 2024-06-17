@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ae1693d9be534359825d90972d6facf8/artifacts
+deleted_time: 1718622176027
+end_time: 1718621917352
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ae1693d9be534359825d90972d6facf8
+run_name: enchanting-ram-529
+run_uuid: ae1693d9be534359825d90972d6facf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621917329
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1ebf16e891f44abfaa2781c9eaf3ef99/artifacts
+end_time: 1718623390207
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 1ebf16e891f44abfaa2781c9eaf3ef99
+run_name: adaptable-owl-545
+run_uuid: 1ebf16e891f44abfaa2781c9eaf3ef99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623390179
+status: 3
+tags: []
+user_id: grzegorznaporowski

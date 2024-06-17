@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4cb87368057d46ee8ae8d876d3122455/artifacts
+deleted_time: 1718621754709
+end_time: 1718620716631
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4cb87368057d46ee8ae8d876d3122455
+run_name: rogue-mare-64
+run_uuid: 4cb87368057d46ee8ae8d876d3122455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620716613
+status: 3
+tags: []
+user_id: grzegorznaporowski

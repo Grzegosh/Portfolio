@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0aa077b001d143649e7713a081e1dcb1/artifacts
+deleted_time: 1718621895064
+end_time: 1718621785920
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0aa077b001d143649e7713a081e1dcb1
+run_name: luminous-moose-531
+run_uuid: 0aa077b001d143649e7713a081e1dcb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621785897
+status: 3
+tags: []
+user_id: grzegorznaporowski

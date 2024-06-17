@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ce24cd1eae654604b80a8628a2a07754/artifacts
+deleted_time: 1718622831182
+end_time: 1718622195536
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ce24cd1eae654604b80a8628a2a07754
+run_name: beautiful-moth-389
+run_uuid: ce24cd1eae654604b80a8628a2a07754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622195510
+status: 3
+tags: []
+user_id: grzegorznaporowski

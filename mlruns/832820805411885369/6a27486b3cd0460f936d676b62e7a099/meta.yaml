@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6a27486b3cd0460f936d676b62e7a099/artifacts
+deleted_time: 1718622155305
+end_time: 1718621911508
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6a27486b3cd0460f936d676b62e7a099
+run_name: luminous-colt-948
+run_uuid: 6a27486b3cd0460f936d676b62e7a099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621911483
+status: 3
+tags: []
+user_id: grzegorznaporowski

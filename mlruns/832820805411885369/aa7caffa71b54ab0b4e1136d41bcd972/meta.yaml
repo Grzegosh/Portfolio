@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/aa7caffa71b54ab0b4e1136d41bcd972/artifacts
+deleted_time: 1718622941933
+end_time: 1718622916221
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: aa7caffa71b54ab0b4e1136d41bcd972
+run_name: orderly-dog-251
+run_uuid: aa7caffa71b54ab0b4e1136d41bcd972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622916195
+status: 3
+tags: []
+user_id: grzegorznaporowski

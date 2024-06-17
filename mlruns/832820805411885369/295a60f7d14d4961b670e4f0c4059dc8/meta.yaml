@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/295a60f7d14d4961b670e4f0c4059dc8/artifacts
+deleted_time: 1718620709720
+end_time: 1718620386914
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 295a60f7d14d4961b670e4f0c4059dc8
+run_name: upbeat-carp-300
+run_uuid: 295a60f7d14d4961b670e4f0c4059dc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386897
+status: 3
+tags: []
+user_id: grzegorznaporowski

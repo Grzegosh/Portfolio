@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/0a838ffce1fd4a8d9f190be9673f4393/artifacts
+deleted_time: 1718619142489
+end_time: 1718618890555
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 0a838ffce1fd4a8d9f190be9673f4393
+run_name: melodic-skink-892
+run_uuid: 0a838ffce1fd4a8d9f190be9673f4393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618890527
+status: 3
+tags: []
+user_id: grzegorznaporowski

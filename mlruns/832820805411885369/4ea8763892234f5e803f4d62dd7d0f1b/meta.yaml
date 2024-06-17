@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4ea8763892234f5e803f4d62dd7d0f1b/artifacts
+deleted_time: 1718621882862
+end_time: 1718621780601
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4ea8763892234f5e803f4d62dd7d0f1b
+run_name: bustling-grub-257
+run_uuid: 4ea8763892234f5e803f4d62dd7d0f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621780577
+status: 3
+tags: []
+user_id: grzegorznaporowski

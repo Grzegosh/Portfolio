@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/619c101885214451bb599057d6ee1698/artifacts
+end_time: 1718623388737
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 619c101885214451bb599057d6ee1698
+run_name: awesome-ape-740
+run_uuid: 619c101885214451bb599057d6ee1698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623388710
+status: 3
+tags: []
+user_id: grzegorznaporowski

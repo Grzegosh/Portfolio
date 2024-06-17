@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/ab3032fe86c54de08536638b52bf9af1/artifacts
+deleted_time: 1718618821878
+end_time: 1718618515249
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: ab3032fe86c54de08536638b52bf9af1
+run_name: monumental-stoat-106
+run_uuid: ab3032fe86c54de08536638b52bf9af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618515230
+status: 3
+tags: []
+user_id: grzegorznaporowski

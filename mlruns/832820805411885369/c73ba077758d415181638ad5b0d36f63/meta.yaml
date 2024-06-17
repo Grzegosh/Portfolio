@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c73ba077758d415181638ad5b0d36f63/artifacts
+end_time: 1718623388616
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: c73ba077758d415181638ad5b0d36f63
+run_name: able-midge-724
+run_uuid: c73ba077758d415181638ad5b0d36f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623388587
+status: 3
+tags: []
+user_id: grzegorznaporowski

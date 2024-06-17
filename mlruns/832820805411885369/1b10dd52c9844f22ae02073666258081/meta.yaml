@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1b10dd52c9844f22ae02073666258081/artifacts
+deleted_time: 1718621882898
+end_time: 1718621783013
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1b10dd52c9844f22ae02073666258081
+run_name: bustling-skink-859
+run_uuid: 1b10dd52c9844f22ae02073666258081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621782992
+status: 3
+tags: []
+user_id: grzegorznaporowski

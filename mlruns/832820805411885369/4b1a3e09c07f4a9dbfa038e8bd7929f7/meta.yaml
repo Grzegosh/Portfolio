@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4b1a3e09c07f4a9dbfa038e8bd7929f7/artifacts
+deleted_time: 1718622155374
+end_time: 1718621905248
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4b1a3e09c07f4a9dbfa038e8bd7929f7
+run_name: learned-elk-653
+run_uuid: 4b1a3e09c07f4a9dbfa038e8bd7929f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905226
+status: 3
+tags: []
+user_id: grzegorznaporowski

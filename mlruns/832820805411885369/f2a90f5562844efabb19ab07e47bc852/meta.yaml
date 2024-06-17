@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f2a90f5562844efabb19ab07e47bc852/artifacts
+deleted_time: 1718622941991
+end_time: 1718622916104
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f2a90f5562844efabb19ab07e47bc852
+run_name: luxuriant-mink-401
+run_uuid: f2a90f5562844efabb19ab07e47bc852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622916076
+status: 3
+tags: []
+user_id: grzegorznaporowski

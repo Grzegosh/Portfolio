@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9c487552b9814d42ab0926fdf5e4f4cf/artifacts
+end_time: 1718622970992
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 9c487552b9814d42ab0926fdf5e4f4cf
+run_name: overjoyed-hare-180
+run_uuid: 9c487552b9814d42ab0926fdf5e4f4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622970965
+status: 3
+tags: []
+user_id: grzegorznaporowski

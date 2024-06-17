@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/374d2a67327542a0bdb66bd260d68ba6/artifacts
+deleted_time: 1718622155320
+end_time: 1718621915841
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 374d2a67327542a0bdb66bd260d68ba6
+run_name: gaudy-snake-500
+run_uuid: 374d2a67327542a0bdb66bd260d68ba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621915819
+status: 3
+tags: []
+user_id: grzegorznaporowski

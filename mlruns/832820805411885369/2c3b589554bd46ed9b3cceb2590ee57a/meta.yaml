@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2c3b589554bd46ed9b3cceb2590ee57a/artifacts
+deleted_time: 1718620370362
+end_time: 1718620311438
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2c3b589554bd46ed9b3cceb2590ee57a
+run_name: big-colt-948
+run_uuid: 2c3b589554bd46ed9b3cceb2590ee57a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311419
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3dd943fe280745ab8aba88f33a5d011e/artifacts
+deleted_time: 1718620709715
+end_time: 1718620386769
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3dd943fe280745ab8aba88f33a5d011e
+run_name: welcoming-fish-117
+run_uuid: 3dd943fe280745ab8aba88f33a5d011e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386752
+status: 3
+tags: []
+user_id: grzegorznaporowski

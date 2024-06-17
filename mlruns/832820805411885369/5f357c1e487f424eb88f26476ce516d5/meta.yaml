@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5f357c1e487f424eb88f26476ce516d5/artifacts
+deleted_time: 1718622831201
+end_time: 1718622196866
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5f357c1e487f424eb88f26476ce516d5
+run_name: enthused-frog-340
+run_uuid: 5f357c1e487f424eb88f26476ce516d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622196838
+status: 3
+tags: []
+user_id: grzegorznaporowski

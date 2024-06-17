@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/853e09a226594b15ad904a15dfc83be9/artifacts
+deleted_time: 1718621895067
+end_time: 1718621786039
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 853e09a226594b15ad904a15dfc83be9
+run_name: nervous-eel-10
+run_uuid: 853e09a226594b15ad904a15dfc83be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621786017
+status: 3
+tags: []
+user_id: grzegorznaporowski

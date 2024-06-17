@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/63519701732f4ab297b30d1ecb78f3dd/artifacts
+deleted_time: 1718620370343
+end_time: 1718620310998
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 63519701732f4ab297b30d1ecb78f3dd
+run_name: vaunted-sloth-624
+run_uuid: 63519701732f4ab297b30d1ecb78f3dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620310980
+status: 3
+tags: []
+user_id: grzegorznaporowski

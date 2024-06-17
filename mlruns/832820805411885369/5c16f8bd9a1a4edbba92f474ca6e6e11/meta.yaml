@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5c16f8bd9a1a4edbba92f474ca6e6e11/artifacts
+deleted_time: 1718622155386
+end_time: 1718621905598
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5c16f8bd9a1a4edbba92f474ca6e6e11
+run_name: burly-hare-157
+run_uuid: 5c16f8bd9a1a4edbba92f474ca6e6e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905575
+status: 3
+tags: []
+user_id: grzegorznaporowski

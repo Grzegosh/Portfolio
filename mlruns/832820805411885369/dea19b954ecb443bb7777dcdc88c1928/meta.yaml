@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/dea19b954ecb443bb7777dcdc88c1928/artifacts
+deleted_time: 1718621882807
+end_time: 1718621777950
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: dea19b954ecb443bb7777dcdc88c1928
+run_name: bright-bat-730
+run_uuid: dea19b954ecb443bb7777dcdc88c1928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621777930
+status: 3
+tags: []
+user_id: grzegorznaporowski

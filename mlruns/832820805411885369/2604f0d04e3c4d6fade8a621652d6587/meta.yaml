@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2604f0d04e3c4d6fade8a621652d6587/artifacts
+end_time: 1718622970055
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 2604f0d04e3c4d6fade8a621652d6587
+run_name: aged-cub-585
+run_uuid: 2604f0d04e3c4d6fade8a621652d6587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622970028
+status: 3
+tags: []
+user_id: grzegorznaporowski

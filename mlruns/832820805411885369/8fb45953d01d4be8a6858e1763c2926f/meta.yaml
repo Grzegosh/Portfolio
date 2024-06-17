@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8fb45953d01d4be8a6858e1763c2926f/artifacts
+end_time: 1718623387907
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 8fb45953d01d4be8a6858e1763c2926f
+run_name: abrasive-hen-327
+run_uuid: 8fb45953d01d4be8a6858e1763c2926f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623387880
+status: 3
+tags: []
+user_id: grzegorznaporowski

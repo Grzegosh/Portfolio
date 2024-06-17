@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6781b93e65124774a62966ce2ab215fd/artifacts
+deleted_time: 1718621882872
+end_time: 1718621781421
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6781b93e65124774a62966ce2ab215fd
+run_name: placid-ox-74
+run_uuid: 6781b93e65124774a62966ce2ab215fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621781400
+status: 3
+tags: []
+user_id: grzegorznaporowski

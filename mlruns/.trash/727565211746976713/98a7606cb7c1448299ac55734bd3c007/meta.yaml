@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/98a7606cb7c1448299ac55734bd3c007/artifacts
+deleted_time: 1718619394983
+end_time: 1718619210239
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 98a7606cb7c1448299ac55734bd3c007
+run_name: crawling-fawn-146
+run_uuid: 98a7606cb7c1448299ac55734bd3c007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619210220
+status: 3
+tags: []
+user_id: grzegorznaporowski

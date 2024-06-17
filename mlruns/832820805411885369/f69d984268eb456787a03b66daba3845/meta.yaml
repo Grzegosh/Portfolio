@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f69d984268eb456787a03b66daba3845/artifacts
+deleted_time: 1718622176014
+end_time: 1718621916871
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f69d984268eb456787a03b66daba3845
+run_name: ambitious-trout-837
+run_uuid: f69d984268eb456787a03b66daba3845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621916848
+status: 3
+tags: []
+user_id: grzegorznaporowski

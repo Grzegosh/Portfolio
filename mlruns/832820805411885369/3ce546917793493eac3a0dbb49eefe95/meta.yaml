@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3ce546917793493eac3a0dbb49eefe95/artifacts
+end_time: 1718623388239
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 3ce546917793493eac3a0dbb49eefe95
+run_name: capricious-snake-802
+run_uuid: 3ce546917793493eac3a0dbb49eefe95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623388211
+status: 3
+tags: []
+user_id: grzegorznaporowski

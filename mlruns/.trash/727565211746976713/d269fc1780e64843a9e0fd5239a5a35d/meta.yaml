@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/d269fc1780e64843a9e0fd5239a5a35d/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199559
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: d269fc1780e64843a9e0fd5239a5a35d
+run_name: enthused-fowl-514
+run_uuid: d269fc1780e64843a9e0fd5239a5a35d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620199535
+status: 3
+tags: []
+user_id: grzegorznaporowski

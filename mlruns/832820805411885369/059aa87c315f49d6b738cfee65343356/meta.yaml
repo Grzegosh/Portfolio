@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/059aa87c315f49d6b738cfee65343356/artifacts
+deleted_time: 1718622866393
+end_time: 1718622292489
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 059aa87c315f49d6b738cfee65343356
+run_name: mysterious-snail-864
+run_uuid: 059aa87c315f49d6b738cfee65343356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622292463
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3601e31267a7461689f4fe949b1b3593/artifacts
+deleted_time: 1718622866445
+end_time: 1718622295241
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3601e31267a7461689f4fe949b1b3593
+run_name: bright-tern-337
+run_uuid: 3601e31267a7461689f4fe949b1b3593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622295215
+status: 3
+tags: []
+user_id: grzegorznaporowski

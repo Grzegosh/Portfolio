@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7fe9feab2f574d2bb7375553aeedebb3/artifacts
+deleted_time: 1718622176063
+end_time: 1718621919226
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7fe9feab2f574d2bb7375553aeedebb3
+run_name: exultant-moose-778
+run_uuid: 7fe9feab2f574d2bb7375553aeedebb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621919202
+status: 3
+tags: []
+user_id: grzegorznaporowski

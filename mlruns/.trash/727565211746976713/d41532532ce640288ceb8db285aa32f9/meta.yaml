@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/d41532532ce640288ceb8db285aa32f9/artifacts
+deleted_time: 1718620266874
+end_time: 1718620236184
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: d41532532ce640288ceb8db285aa32f9
+run_name: skillful-kite-212
+run_uuid: d41532532ce640288ceb8db285aa32f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620236162
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/96faccebbbc042cf9a4d32462d91664f/artifacts
+deleted_time: 1718622176070
+end_time: 1718621919636
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 96faccebbbc042cf9a4d32462d91664f
+run_name: omniscient-goat-823
+run_uuid: 96faccebbbc042cf9a4d32462d91664f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621919612
+status: 3
+tags: []
+user_id: grzegorznaporowski

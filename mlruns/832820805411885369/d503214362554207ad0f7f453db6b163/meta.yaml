@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d503214362554207ad0f7f453db6b163/artifacts
+end_time: 1718623389436
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: d503214362554207ad0f7f453db6b163
+run_name: amazing-sponge-373
+run_uuid: d503214362554207ad0f7f453db6b163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623389395
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/af94ac19fc9049e99d1b65e8055f9ee6/artifacts
+deleted_time: 1718618821871
+end_time: 1718618516360
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: af94ac19fc9049e99d1b65e8055f9ee6
+run_name: resilient-zebra-141
+run_uuid: af94ac19fc9049e99d1b65e8055f9ee6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618516341
+status: 3
+tags: []
+user_id: grzegorznaporowski

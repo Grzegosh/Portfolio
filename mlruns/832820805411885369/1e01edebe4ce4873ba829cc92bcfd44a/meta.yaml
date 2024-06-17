@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1e01edebe4ce4873ba829cc92bcfd44a/artifacts
+deleted_time: 1718621882836
+end_time: 1718621779028
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1e01edebe4ce4873ba829cc92bcfd44a
+run_name: dashing-fawn-4
+run_uuid: 1e01edebe4ce4873ba829cc92bcfd44a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621779008
+status: 3
+tags: []
+user_id: grzegorznaporowski

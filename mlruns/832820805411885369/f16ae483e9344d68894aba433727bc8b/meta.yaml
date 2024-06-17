@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f16ae483e9344d68894aba433727bc8b/artifacts
+end_time: 1718623390142
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: f16ae483e9344d68894aba433727bc8b
+run_name: sassy-crane-925
+run_uuid: f16ae483e9344d68894aba433727bc8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623390115
+status: 3
+tags: []
+user_id: grzegorznaporowski

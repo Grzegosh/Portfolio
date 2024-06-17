@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/aca66715ce4c46268edab12da38054a8/artifacts
+deleted_time: 1718622941967
+end_time: 1718622900451
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: aca66715ce4c46268edab12da38054a8
+run_name: nimble-stoat-221
+run_uuid: aca66715ce4c46268edab12da38054a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622900425
+status: 3
+tags: []
+user_id: grzegorznaporowski

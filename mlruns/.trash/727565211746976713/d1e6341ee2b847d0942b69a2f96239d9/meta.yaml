@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/d1e6341ee2b847d0942b69a2f96239d9/artifacts
+deleted_time: 1718620244428
+end_time: 1718619914295
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: d1e6341ee2b847d0942b69a2f96239d9
+run_name: thoughtful-gnat-301
+run_uuid: d1e6341ee2b847d0942b69a2f96239d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914276
+status: 3
+tags: []
+user_id: grzegorznaporowski

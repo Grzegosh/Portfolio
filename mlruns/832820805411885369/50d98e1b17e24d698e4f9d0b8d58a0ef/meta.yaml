@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/50d98e1b17e24d698e4f9d0b8d58a0ef/artifacts
+deleted_time: 1718622155404
+end_time: 1718621906848
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 50d98e1b17e24d698e4f9d0b8d58a0ef
+run_name: calm-skink-345
+run_uuid: 50d98e1b17e24d698e4f9d0b8d58a0ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621906826
+status: 3
+tags: []
+user_id: grzegorznaporowski

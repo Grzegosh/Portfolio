@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/38a49d67977941c09155efa6ca153557/artifacts
+deleted_time: 1718620266874
+end_time: 1718620235673
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 38a49d67977941c09155efa6ca153557
+run_name: masked-crab-129
+run_uuid: 38a49d67977941c09155efa6ca153557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620235653
+status: 3
+tags: []
+user_id: grzegorznaporowski

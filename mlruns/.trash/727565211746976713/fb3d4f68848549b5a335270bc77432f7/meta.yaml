@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/fb3d4f68848549b5a335270bc77432f7/artifacts
+deleted_time: 1718620266874
+end_time: 1718620236638
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: fb3d4f68848549b5a335270bc77432f7
+run_name: painted-kite-640
+run_uuid: fb3d4f68848549b5a335270bc77432f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620236618
+status: 3
+tags: []
+user_id: grzegorznaporowski

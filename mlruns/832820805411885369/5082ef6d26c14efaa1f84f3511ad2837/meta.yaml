@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5082ef6d26c14efaa1f84f3511ad2837/artifacts
+deleted_time: 1718622866420
+end_time: 1718622293851
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5082ef6d26c14efaa1f84f3511ad2837
+run_name: clumsy-shrike-963
+run_uuid: 5082ef6d26c14efaa1f84f3511ad2837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622293825
+status: 3
+tags: []
+user_id: grzegorznaporowski

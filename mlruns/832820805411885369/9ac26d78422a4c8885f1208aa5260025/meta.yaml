@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9ac26d78422a4c8885f1208aa5260025/artifacts
+end_time: 1718623390855
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 9ac26d78422a4c8885f1208aa5260025
+run_name: bedecked-shrike-504
+run_uuid: 9ac26d78422a4c8885f1208aa5260025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623390828
+status: 3
+tags: []
+user_id: grzegorznaporowski

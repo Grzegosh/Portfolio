@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f68c08e1cbfb41619dc245d68aa4780b/artifacts
+end_time: 1718623390685
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: f68c08e1cbfb41619dc245d68aa4780b
+run_name: overjoyed-fox-548
+run_uuid: f68c08e1cbfb41619dc245d68aa4780b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623390656
+status: 3
+tags: []
+user_id: grzegorznaporowski

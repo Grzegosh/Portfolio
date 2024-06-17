@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8bb880a479264876af336d97f7ebb1b7/artifacts
+deleted_time: 1718621882868
+end_time: 1718621781072
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8bb880a479264876af336d97f7ebb1b7
+run_name: bustling-snake-573
+run_uuid: 8bb880a479264876af336d97f7ebb1b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621781051
+status: 3
+tags: []
+user_id: grzegorznaporowski

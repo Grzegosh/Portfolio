@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/c4c36f49cd504e3c8c9e6b3192cbf47b/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199803
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: c4c36f49cd504e3c8c9e6b3192cbf47b
+run_name: blushing-shrimp-86
+run_uuid: c4c36f49cd504e3c8c9e6b3192cbf47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620199781
+status: 3
+tags: []
+user_id: grzegorznaporowski

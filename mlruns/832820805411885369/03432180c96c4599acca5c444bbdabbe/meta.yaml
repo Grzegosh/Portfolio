@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/03432180c96c4599acca5c444bbdabbe/artifacts
+deleted_time: 1718622866427
+end_time: 1718622294311
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 03432180c96c4599acca5c444bbdabbe
+run_name: incongruous-mole-941
+run_uuid: 03432180c96c4599acca5c444bbdabbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622294286
+status: 3
+tags: []
+user_id: grzegorznaporowski

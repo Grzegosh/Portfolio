@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/240a5475498445c6a8bad4176bb3209b/artifacts
+deleted_time: 1718621882891
+end_time: 1718621782360
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 240a5475498445c6a8bad4176bb3209b
+run_name: dazzling-roo-703
+run_uuid: 240a5475498445c6a8bad4176bb3209b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621782338
+status: 3
+tags: []
+user_id: grzegorznaporowski

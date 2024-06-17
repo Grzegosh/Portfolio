@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a9203696e3eb43028a6098435353ccd6/artifacts
+deleted_time: 1718621746883
+end_time: 1718621553619
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a9203696e3eb43028a6098435353ccd6
+run_name: loud-swan-791
+run_uuid: a9203696e3eb43028a6098435353ccd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621553599
+status: 3
+tags: []
+user_id: grzegorznaporowski

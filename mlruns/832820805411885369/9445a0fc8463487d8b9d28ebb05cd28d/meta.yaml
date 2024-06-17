@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9445a0fc8463487d8b9d28ebb05cd28d/artifacts
+deleted_time: 1718622941955
+end_time: 1718622917011
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9445a0fc8463487d8b9d28ebb05cd28d
+run_name: magnificent-rook-172
+run_uuid: 9445a0fc8463487d8b9d28ebb05cd28d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622916985
+status: 3
+tags: []
+user_id: grzegorznaporowski

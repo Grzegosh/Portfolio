@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f83080b1a1ad4d91aae00f663ef01c83/artifacts
+deleted_time: 1718622831164
+end_time: 1718622194311
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f83080b1a1ad4d91aae00f663ef01c83
+run_name: handsome-yak-980
+run_uuid: f83080b1a1ad4d91aae00f663ef01c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622194288
+status: 3
+tags: []
+user_id: grzegorznaporowski

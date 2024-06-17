@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/fda7605e2d094b78a250f9b70efb70a7/artifacts
+deleted_time: 1718621754668
+end_time: 1718620713710
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: fda7605e2d094b78a250f9b70efb70a7
+run_name: calm-wren-891
+run_uuid: fda7605e2d094b78a250f9b70efb70a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620713689
+status: 3
+tags: []
+user_id: grzegorznaporowski

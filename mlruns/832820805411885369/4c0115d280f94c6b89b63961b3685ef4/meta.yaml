@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4c0115d280f94c6b89b63961b3685ef4/artifacts
+deleted_time: 1718621882830
+end_time: 1718621778870
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4c0115d280f94c6b89b63961b3685ef4
+run_name: brawny-pug-815
+run_uuid: 4c0115d280f94c6b89b63961b3685ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621778849
+status: 3
+tags: []
+user_id: grzegorznaporowski

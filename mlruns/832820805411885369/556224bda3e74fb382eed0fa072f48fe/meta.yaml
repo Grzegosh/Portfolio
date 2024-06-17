@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/556224bda3e74fb382eed0fa072f48fe/artifacts
+deleted_time: 1718622831218
+end_time: 1718622287816
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 556224bda3e74fb382eed0fa072f48fe
+run_name: angry-squirrel-28
+run_uuid: 556224bda3e74fb382eed0fa072f48fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622287790
+status: 3
+tags: []
+user_id: grzegorznaporowski

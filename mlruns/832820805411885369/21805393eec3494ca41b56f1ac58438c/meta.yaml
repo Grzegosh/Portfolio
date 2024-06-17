@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/21805393eec3494ca41b56f1ac58438c/artifacts
+deleted_time: 1718622831220
+end_time: 1718622287865
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 21805393eec3494ca41b56f1ac58438c
+run_name: exultant-sloth-320
+run_uuid: 21805393eec3494ca41b56f1ac58438c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622287840
+status: 3
+tags: []
+user_id: grzegorznaporowski

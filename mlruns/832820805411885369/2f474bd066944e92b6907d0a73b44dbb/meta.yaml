@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2f474bd066944e92b6907d0a73b44dbb/artifacts
+end_time: 1718622968740
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 2f474bd066944e92b6907d0a73b44dbb
+run_name: bright-boar-513
+run_uuid: 2f474bd066944e92b6907d0a73b44dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622968712
+status: 3
+tags: []
+user_id: grzegorznaporowski

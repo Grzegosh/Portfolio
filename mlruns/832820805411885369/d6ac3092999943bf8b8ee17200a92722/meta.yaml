@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d6ac3092999943bf8b8ee17200a92722/artifacts
+deleted_time: 1718621882834
+end_time: 1718621778965
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d6ac3092999943bf8b8ee17200a92722
+run_name: worried-pig-55
+run_uuid: d6ac3092999943bf8b8ee17200a92722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621778945
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/dc514938cf874463a9ad6f837aae6c72/artifacts
+deleted_time: 1718620709708
+end_time: 1718620386623
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: dc514938cf874463a9ad6f837aae6c72
+run_name: receptive-fly-921
+run_uuid: dc514938cf874463a9ad6f837aae6c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386605
+status: 3
+tags: []
+user_id: grzegorznaporowski

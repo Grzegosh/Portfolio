@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/809f99cca3f947c081f45e879d07212b/artifacts
+deleted_time: 1718620370359
+end_time: 1718620310775
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 809f99cca3f947c081f45e879d07212b
+run_name: charming-hawk-753
+run_uuid: 809f99cca3f947c081f45e879d07212b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620310758
+status: 3
+tags: []
+user_id: grzegorznaporowski

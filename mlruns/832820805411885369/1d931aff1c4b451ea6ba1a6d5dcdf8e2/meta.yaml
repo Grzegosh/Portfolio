@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1d931aff1c4b451ea6ba1a6d5dcdf8e2/artifacts
+end_time: 1718623390591
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 1d931aff1c4b451ea6ba1a6d5dcdf8e2
+run_name: righteous-hen-119
+run_uuid: 1d931aff1c4b451ea6ba1a6d5dcdf8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623390536
+status: 3
+tags: []
+user_id: grzegorznaporowski

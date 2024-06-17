@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0e41bec5097247158b3e589b39d94940/artifacts
+deleted_time: 1718622866386
+end_time: 1718622292291
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0e41bec5097247158b3e589b39d94940
+run_name: upbeat-quail-18
+run_uuid: 0e41bec5097247158b3e589b39d94940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622292265
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/535a811a3bde415aafdac1bf1025232b/artifacts
+deleted_time: 1718620370329
+end_time: 1718620310888
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 535a811a3bde415aafdac1bf1025232b
+run_name: skillful-foal-414
+run_uuid: 535a811a3bde415aafdac1bf1025232b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620310871
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9943a0a9b0f5476db09f4206e8e823fc/artifacts
+deleted_time: 1718621882840
+end_time: 1718621779311
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9943a0a9b0f5476db09f4206e8e823fc
+run_name: marvelous-zebra-662
+run_uuid: 9943a0a9b0f5476db09f4206e8e823fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621779291
+status: 3
+tags: []
+user_id: grzegorznaporowski

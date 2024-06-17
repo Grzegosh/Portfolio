@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/969668488b8e48aca10055376c868815/artifacts
+deleted_time: 1718621754678
+end_time: 1718620714265
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 969668488b8e48aca10055376c868815
+run_name: marvelous-calf-822
+run_uuid: 969668488b8e48aca10055376c868815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620714246
+status: 3
+tags: []
+user_id: grzegorznaporowski

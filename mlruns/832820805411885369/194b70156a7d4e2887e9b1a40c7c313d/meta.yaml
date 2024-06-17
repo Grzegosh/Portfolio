@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/194b70156a7d4e2887e9b1a40c7c313d/artifacts
+deleted_time: 1718622831188
+end_time: 1718622195998
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 194b70156a7d4e2887e9b1a40c7c313d
+run_name: gentle-dove-167
+run_uuid: 194b70156a7d4e2887e9b1a40c7c313d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622195973
+status: 3
+tags: []
+user_id: grzegorznaporowski

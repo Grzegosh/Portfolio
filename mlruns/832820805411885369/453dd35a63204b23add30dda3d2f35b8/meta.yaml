@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/453dd35a63204b23add30dda3d2f35b8/artifacts
+end_time: 1718622962702
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 453dd35a63204b23add30dda3d2f35b8
+run_name: upbeat-boar-208
+run_uuid: 453dd35a63204b23add30dda3d2f35b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622962675
+status: 3
+tags: []
+user_id: grzegorznaporowski

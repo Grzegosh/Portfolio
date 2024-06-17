@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0d37c73b5b8e415482fcfd8db98aca87/artifacts
+deleted_time: 1718620709689
+end_time: 1718620387382
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0d37c73b5b8e415482fcfd8db98aca87
+run_name: mysterious-rook-937
+run_uuid: 0d37c73b5b8e415482fcfd8db98aca87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620387364
+status: 3
+tags: []
+user_id: grzegorznaporowski

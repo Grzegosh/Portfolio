@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d2f8b5615efd4a85b22d41ebf4a701be/artifacts
+deleted_time: 1718621882831
+end_time: 1718621778901
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d2f8b5615efd4a85b22d41ebf4a701be
+run_name: treasured-smelt-140
+run_uuid: d2f8b5615efd4a85b22d41ebf4a701be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621778881
+status: 3
+tags: []
+user_id: grzegorznaporowski

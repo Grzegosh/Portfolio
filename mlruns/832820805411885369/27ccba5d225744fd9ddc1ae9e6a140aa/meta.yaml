@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/27ccba5d225744fd9ddc1ae9e6a140aa/artifacts
+deleted_time: 1718621882907
+end_time: 1718621783400
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 27ccba5d225744fd9ddc1ae9e6a140aa
+run_name: auspicious-sheep-566
+run_uuid: 27ccba5d225744fd9ddc1ae9e6a140aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621783379
+status: 3
+tags: []
+user_id: grzegorznaporowski

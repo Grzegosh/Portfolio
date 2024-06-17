@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2c4ff72decf948d7980c02ca84b024bd/artifacts
+deleted_time: 1718622941971
+end_time: 1718622916575
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2c4ff72decf948d7980c02ca84b024bd
+run_name: omniscient-steed-828
+run_uuid: 2c4ff72decf948d7980c02ca84b024bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622916549
+status: 3
+tags: []
+user_id: grzegorznaporowski

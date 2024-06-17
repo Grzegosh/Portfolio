@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/50ecdcf8c28d4003a080b66a8b8d4adf/artifacts
+deleted_time: 1718620370334
+end_time: 1718620311377
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 50ecdcf8c28d4003a080b66a8b8d4adf
+run_name: gaudy-trout-160
+run_uuid: 50ecdcf8c28d4003a080b66a8b8d4adf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311358
+status: 3
+tags: []
+user_id: grzegorznaporowski

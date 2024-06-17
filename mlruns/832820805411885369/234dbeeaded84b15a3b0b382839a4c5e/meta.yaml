@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/234dbeeaded84b15a3b0b382839a4c5e/artifacts
+end_time: 1718622967792
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 234dbeeaded84b15a3b0b382839a4c5e
+run_name: chill-flea-11
+run_uuid: 234dbeeaded84b15a3b0b382839a4c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622967766
+status: 3
+tags: []
+user_id: grzegorznaporowski

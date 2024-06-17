@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/b9481c84573a4183b5353555d41086ab/artifacts
+deleted_time: 1718620266874
+end_time: 1718620198683
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: b9481c84573a4183b5353555d41086ab
+run_name: upbeat-dove-728
+run_uuid: b9481c84573a4183b5353555d41086ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620198663
+status: 3
+tags: []
+user_id: grzegorznaporowski

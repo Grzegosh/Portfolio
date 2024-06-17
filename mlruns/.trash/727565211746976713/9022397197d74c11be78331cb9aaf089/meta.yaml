@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/9022397197d74c11be78331cb9aaf089/artifacts
+deleted_time: 1718619142495
+end_time: 1718618863845
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 9022397197d74c11be78331cb9aaf089
+run_name: upbeat-hawk-38
+run_uuid: 9022397197d74c11be78331cb9aaf089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618863827
+status: 3
+tags: []
+user_id: grzegorznaporowski

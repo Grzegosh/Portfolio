@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/fdd0c2ba320d48d396ab0091ff7cc3ff/artifacts
+deleted_time: 1718622866409
+end_time: 1718622293322
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: fdd0c2ba320d48d396ab0091ff7cc3ff
+run_name: melodic-swan-831
+run_uuid: fdd0c2ba320d48d396ab0091ff7cc3ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622293295
+status: 3
+tags: []
+user_id: grzegorznaporowski

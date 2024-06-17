@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/39b075042acd4289911aeac475eecaa1/artifacts
+deleted_time: 1718620709712
+end_time: 1718620387120
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 39b075042acd4289911aeac475eecaa1
+run_name: rumbling-dolphin-541
+run_uuid: 39b075042acd4289911aeac475eecaa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620387102
+status: 3
+tags: []
+user_id: grzegorznaporowski

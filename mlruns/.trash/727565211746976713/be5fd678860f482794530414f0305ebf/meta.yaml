@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/be5fd678860f482794530414f0305ebf/artifacts
+deleted_time: 1718619142488
+end_time: 1718618890586
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: be5fd678860f482794530414f0305ebf
+run_name: enchanting-croc-26
+run_uuid: be5fd678860f482794530414f0305ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618890567
+status: 3
+tags: []
+user_id: grzegorznaporowski

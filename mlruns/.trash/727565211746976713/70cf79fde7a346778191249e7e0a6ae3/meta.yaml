@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/70cf79fde7a346778191249e7e0a6ae3/artifacts
+deleted_time: 1718620244407
+end_time: 1718619914387
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 70cf79fde7a346778191249e7e0a6ae3
+run_name: bright-cat-409
+run_uuid: 70cf79fde7a346778191249e7e0a6ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914367
+status: 3
+tags: []
+user_id: grzegorznaporowski

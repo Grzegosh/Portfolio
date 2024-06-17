@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d4304b87e81b48658e0aebee2680bfcd/artifacts
+deleted_time: 1718622155418
+end_time: 1718621907687
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d4304b87e81b48658e0aebee2680bfcd
+run_name: delicate-swan-261
+run_uuid: d4304b87e81b48658e0aebee2680bfcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621907665
+status: 3
+tags: []
+user_id: grzegorznaporowski

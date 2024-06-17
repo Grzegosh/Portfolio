@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d16a3e810e2749f4886fc6fdacf79aec/artifacts
+deleted_time: 1718622866409
+end_time: 1718622293281
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d16a3e810e2749f4886fc6fdacf79aec
+run_name: efficient-goose-494
+run_uuid: d16a3e810e2749f4886fc6fdacf79aec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622293254
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bcaf5919ee334f66b58a690cd2b8d531/artifacts
+deleted_time: 1718621895104
+end_time: 1718621789063
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bcaf5919ee334f66b58a690cd2b8d531
+run_name: angry-lynx-420
+run_uuid: bcaf5919ee334f66b58a690cd2b8d531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621789039
+status: 3
+tags: []
+user_id: grzegorznaporowski

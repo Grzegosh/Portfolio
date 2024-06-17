@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/c6ebbdbbb13942cca1303ada841c77d1/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199594
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: c6ebbdbbb13942cca1303ada841c77d1
+run_name: suave-doe-899
+run_uuid: c6ebbdbbb13942cca1303ada841c77d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620199572
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/61b804cab60e481090e652e77148d14f/artifacts
+end_time: 1718623387277
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 61b804cab60e481090e652e77148d14f
+run_name: rebellious-rat-795
+run_uuid: 61b804cab60e481090e652e77148d14f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623387248
+status: 3
+tags: []
+user_id: grzegorznaporowski

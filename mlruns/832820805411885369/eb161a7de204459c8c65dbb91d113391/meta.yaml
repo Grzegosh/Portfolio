@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/eb161a7de204459c8c65dbb91d113391/artifacts
+deleted_time: 1718620370350
+end_time: 1718620311148
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: eb161a7de204459c8c65dbb91d113391
+run_name: intrigued-chimp-550
+run_uuid: eb161a7de204459c8c65dbb91d113391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311131
+status: 3
+tags: []
+user_id: grzegorznaporowski

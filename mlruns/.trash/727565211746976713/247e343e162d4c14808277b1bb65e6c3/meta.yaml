@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/247e343e162d4c14808277b1bb65e6c3/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199766
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 247e343e162d4c14808277b1bb65e6c3
+run_name: zealous-turtle-320
+run_uuid: 247e343e162d4c14808277b1bb65e6c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620199745
+status: 3
+tags: []
+user_id: grzegorznaporowski

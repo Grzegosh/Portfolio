@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a53dd93d01414da78f6b559e040fdf6e/artifacts
+deleted_time: 1718621895108
+end_time: 1718621789515
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a53dd93d01414da78f6b559e040fdf6e
+run_name: loud-dove-613
+run_uuid: a53dd93d01414da78f6b559e040fdf6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621789492
+status: 3
+tags: []
+user_id: grzegorznaporowski

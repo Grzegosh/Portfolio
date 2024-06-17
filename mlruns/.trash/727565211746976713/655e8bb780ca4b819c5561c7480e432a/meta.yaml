@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/655e8bb780ca4b819c5561c7480e432a/artifacts
+deleted_time: 1718619142467
+end_time: 1718619061120
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 655e8bb780ca4b819c5561c7480e432a
+run_name: gregarious-calf-764
+run_uuid: 655e8bb780ca4b819c5561c7480e432a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619061102
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/b24f70a18e0848319f9dfd32e91de70e/artifacts
+deleted_time: 1718620266874
+end_time: 1718620236383
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: b24f70a18e0848319f9dfd32e91de70e
+run_name: luminous-smelt-861
+run_uuid: b24f70a18e0848319f9dfd32e91de70e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620236363
+status: 3
+tags: []
+user_id: grzegorznaporowski

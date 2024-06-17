@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/32298557d2394970bacf680a28fd2c38/artifacts
+deleted_time: 1718621882840
+end_time: 1718621779571
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 32298557d2394970bacf680a28fd2c38
+run_name: debonair-cow-918
+run_uuid: 32298557d2394970bacf680a28fd2c38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621779549
+status: 3
+tags: []
+user_id: grzegorznaporowski

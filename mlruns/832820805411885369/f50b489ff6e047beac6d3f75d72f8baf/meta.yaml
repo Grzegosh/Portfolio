@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f50b489ff6e047beac6d3f75d72f8baf/artifacts
+deleted_time: 1718620709711
+end_time: 1718620386944
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f50b489ff6e047beac6d3f75d72f8baf
+run_name: polite-squirrel-447
+run_uuid: f50b489ff6e047beac6d3f75d72f8baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386926
+status: 3
+tags: []
+user_id: grzegorznaporowski

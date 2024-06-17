@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d91fb24d9a0449d6b184f603ef746b8f/artifacts
+deleted_time: 1718622831204
+end_time: 1718622197031
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d91fb24d9a0449d6b184f603ef746b8f
+run_name: bedecked-panda-8
+run_uuid: d91fb24d9a0449d6b184f603ef746b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622197006
+status: 3
+tags: []
+user_id: grzegorznaporowski

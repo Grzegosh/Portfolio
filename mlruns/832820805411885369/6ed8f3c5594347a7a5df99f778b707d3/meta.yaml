@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6ed8f3c5594347a7a5df99f778b707d3/artifacts
+deleted_time: 1718622831139
+end_time: 1718622192834
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6ed8f3c5594347a7a5df99f778b707d3
+run_name: defiant-toad-905
+run_uuid: 6ed8f3c5594347a7a5df99f778b707d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622192806
+status: 3
+tags: []
+user_id: grzegorznaporowski

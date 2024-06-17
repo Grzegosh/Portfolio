@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/e975700babef43ec945cc41791a3913e/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199301
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: e975700babef43ec945cc41791a3913e
+run_name: fearless-crab-357
+run_uuid: e975700babef43ec945cc41791a3913e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620199276
+status: 3
+tags: []
+user_id: grzegorznaporowski

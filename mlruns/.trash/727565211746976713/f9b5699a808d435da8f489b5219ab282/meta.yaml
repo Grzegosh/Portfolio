@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/f9b5699a808d435da8f489b5219ab282/artifacts
+deleted_time: 1718619394990
+end_time: 1718619209442
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: f9b5699a808d435da8f489b5219ab282
+run_name: useful-ram-506
+run_uuid: f9b5699a808d435da8f489b5219ab282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619209423
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/17ab0be0820748d1a63a1c729230e93c/artifacts
+end_time: 1718622971375
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 17ab0be0820748d1a63a1c729230e93c
+run_name: dazzling-skunk-617
+run_uuid: 17ab0be0820748d1a63a1c729230e93c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622971347
+status: 3
+tags: []
+user_id: grzegorznaporowski

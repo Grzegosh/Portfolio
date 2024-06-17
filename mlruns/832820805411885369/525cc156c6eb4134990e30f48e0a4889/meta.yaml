@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/525cc156c6eb4134990e30f48e0a4889/artifacts
+deleted_time: 1718621754693
+end_time: 1718620715167
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 525cc156c6eb4134990e30f48e0a4889
+run_name: placid-chimp-519
+run_uuid: 525cc156c6eb4134990e30f48e0a4889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620715147
+status: 3
+tags: []
+user_id: grzegorznaporowski

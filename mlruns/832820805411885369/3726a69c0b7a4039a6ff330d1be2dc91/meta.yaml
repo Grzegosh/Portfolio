@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3726a69c0b7a4039a6ff330d1be2dc91/artifacts
+deleted_time: 1718621754697
+end_time: 1718620715739
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3726a69c0b7a4039a6ff330d1be2dc91
+run_name: rare-hog-159
+run_uuid: 3726a69c0b7a4039a6ff330d1be2dc91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620715720
+status: 3
+tags: []
+user_id: grzegorznaporowski

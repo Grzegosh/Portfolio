@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/684ea4baff974a13badf6854759fc789/artifacts
+deleted_time: 1718619142485
+end_time: 1718618907852
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 684ea4baff974a13badf6854759fc789
+run_name: incongruous-bass-83
+run_uuid: 684ea4baff974a13badf6854759fc789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618907833
+status: 3
+tags: []
+user_id: grzegorznaporowski

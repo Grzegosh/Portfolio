@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f088eb7346ca46ef9137275ae7a253ce/artifacts
+end_time: 1718622971437
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: f088eb7346ca46ef9137275ae7a253ce
+run_name: funny-shoat-491
+run_uuid: f088eb7346ca46ef9137275ae7a253ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622971409
+status: 3
+tags: []
+user_id: grzegorznaporowski

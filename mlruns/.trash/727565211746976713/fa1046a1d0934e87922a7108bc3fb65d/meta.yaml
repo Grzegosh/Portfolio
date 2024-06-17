@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/fa1046a1d0934e87922a7108bc3fb65d/artifacts
+deleted_time: 1718619142502
+end_time: 1718618843228
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: fa1046a1d0934e87922a7108bc3fb65d
+run_name: painted-perch-483
+run_uuid: fa1046a1d0934e87922a7108bc3fb65d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618843210
+status: 3
+tags: []
+user_id: grzegorznaporowski

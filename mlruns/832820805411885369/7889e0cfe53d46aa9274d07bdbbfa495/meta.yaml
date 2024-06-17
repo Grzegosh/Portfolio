@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7889e0cfe53d46aa9274d07bdbbfa495/artifacts
+deleted_time: 1718622941990
+end_time: 1718622915322
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7889e0cfe53d46aa9274d07bdbbfa495
+run_name: nosy-shad-434
+run_uuid: 7889e0cfe53d46aa9274d07bdbbfa495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622915296
+status: 3
+tags: []
+user_id: grzegorznaporowski

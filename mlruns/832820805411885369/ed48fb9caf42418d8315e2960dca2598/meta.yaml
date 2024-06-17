@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ed48fb9caf42418d8315e2960dca2598/artifacts
+deleted_time: 1718621746876
+end_time: 1718621553031
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ed48fb9caf42418d8315e2960dca2598
+run_name: burly-goose-680
+run_uuid: ed48fb9caf42418d8315e2960dca2598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621553010
+status: 3
+tags: []
+user_id: grzegorznaporowski

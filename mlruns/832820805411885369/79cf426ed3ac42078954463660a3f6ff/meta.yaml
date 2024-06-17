@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/79cf426ed3ac42078954463660a3f6ff/artifacts
+end_time: 1718622970833
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 79cf426ed3ac42078954463660a3f6ff
+run_name: caring-wolf-237
+run_uuid: 79cf426ed3ac42078954463660a3f6ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622970806
+status: 3
+tags: []
+user_id: grzegorznaporowski

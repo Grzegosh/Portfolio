@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/707086bc65734fedba0f59df527364af/artifacts
+deleted_time: 1718622176008
+end_time: 1718621915913
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 707086bc65734fedba0f59df527364af
+run_name: amazing-stoat-569
+run_uuid: 707086bc65734fedba0f59df527364af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621915890
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/20e5b156984c43aca715b8ff6293af0e/artifacts
+deleted_time: 1718620244450
+end_time: 1718619427957
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 20e5b156984c43aca715b8ff6293af0e
+run_name: sneaky-wolf-960
+run_uuid: 20e5b156984c43aca715b8ff6293af0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619427938
+status: 3
+tags: []
+user_id: grzegorznaporowski

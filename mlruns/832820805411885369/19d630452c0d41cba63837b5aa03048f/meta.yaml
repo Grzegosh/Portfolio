@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/19d630452c0d41cba63837b5aa03048f/artifacts
+deleted_time: 1718622866392
+end_time: 1718622292407
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 19d630452c0d41cba63837b5aa03048f
+run_name: funny-robin-258
+run_uuid: 19d630452c0d41cba63837b5aa03048f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622292379
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bcd0335708ac43d9803105af3587b21a/artifacts
+deleted_time: 1718622941970
+end_time: 1718622914983
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bcd0335708ac43d9803105af3587b21a
+run_name: industrious-fly-772
+run_uuid: bcd0335708ac43d9803105af3587b21a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622914957
+status: 3
+tags: []
+user_id: grzegorznaporowski

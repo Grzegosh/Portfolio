@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ced771b969cb4e09a71afff3387dd438/artifacts
+end_time: 1718623393130
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: ced771b969cb4e09a71afff3387dd438
+run_name: unequaled-ox-899
+run_uuid: ced771b969cb4e09a71afff3387dd438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623393102
+status: 3
+tags: []
+user_id: grzegorznaporowski

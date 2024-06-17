@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/224bc055253945af8dfa8178a633cd53/artifacts
+deleted_time: 1718620266874
+end_time: 1718620235834
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 224bc055253945af8dfa8178a633cd53
+run_name: illustrious-swan-3
+run_uuid: 224bc055253945af8dfa8178a633cd53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620235814
+status: 3
+tags: []
+user_id: grzegorznaporowski

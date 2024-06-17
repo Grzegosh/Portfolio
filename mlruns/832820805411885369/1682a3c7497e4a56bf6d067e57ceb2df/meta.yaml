@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1682a3c7497e4a56bf6d067e57ceb2df/artifacts
+deleted_time: 1718622831190
+end_time: 1718622196184
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1682a3c7497e4a56bf6d067e57ceb2df
+run_name: glamorous-perch-268
+run_uuid: 1682a3c7497e4a56bf6d067e57ceb2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622196160
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1f354099c807463da7682ac8d7a53449/artifacts
+deleted_time: 1718622831216
+end_time: 1718622197712
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1f354099c807463da7682ac8d7a53449
+run_name: able-finch-742
+run_uuid: 1f354099c807463da7682ac8d7a53449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622197687
+status: 3
+tags: []
+user_id: grzegorznaporowski

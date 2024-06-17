@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3c24a65478e941c79b30885d685e2538/artifacts
+end_time: 1718622971963
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 3c24a65478e941c79b30885d685e2538
+run_name: dazzling-wren-76
+run_uuid: 3c24a65478e941c79b30885d685e2538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622971936
+status: 3
+tags: []
+user_id: grzegorznaporowski

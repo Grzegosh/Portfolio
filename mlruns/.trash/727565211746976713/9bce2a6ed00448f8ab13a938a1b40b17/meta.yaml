@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/9bce2a6ed00448f8ab13a938a1b40b17/artifacts
+deleted_time: 1718620266874
+end_time: 1718620235640
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 9bce2a6ed00448f8ab13a938a1b40b17
+run_name: adorable-turtle-96
+run_uuid: 9bce2a6ed00448f8ab13a938a1b40b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620235620
+status: 3
+tags: []
+user_id: grzegorznaporowski

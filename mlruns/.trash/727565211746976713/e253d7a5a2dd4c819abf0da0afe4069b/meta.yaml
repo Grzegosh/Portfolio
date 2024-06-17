@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/e253d7a5a2dd4c819abf0da0afe4069b/artifacts
+deleted_time: 1718620244438
+end_time: 1718619504374
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: e253d7a5a2dd4c819abf0da0afe4069b
+run_name: luxuriant-goose-149
+run_uuid: e253d7a5a2dd4c819abf0da0afe4069b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619504356
+status: 3
+tags: []
+user_id: grzegorznaporowski

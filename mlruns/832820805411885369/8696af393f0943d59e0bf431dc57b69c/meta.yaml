@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8696af393f0943d59e0bf431dc57b69c/artifacts
+deleted_time: 1718622155426
+end_time: 1718621908364
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8696af393f0943d59e0bf431dc57b69c
+run_name: gentle-ray-334
+run_uuid: 8696af393f0943d59e0bf431dc57b69c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621908342
+status: 3
+tags: []
+user_id: grzegorznaporowski

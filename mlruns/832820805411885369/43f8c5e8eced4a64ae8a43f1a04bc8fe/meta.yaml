@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/43f8c5e8eced4a64ae8a43f1a04bc8fe/artifacts
+deleted_time: 1718620370347
+end_time: 1718620311495
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 43f8c5e8eced4a64ae8a43f1a04bc8fe
+run_name: caring-carp-587
+run_uuid: 43f8c5e8eced4a64ae8a43f1a04bc8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311479
+status: 3
+tags: []
+user_id: grzegorznaporowski

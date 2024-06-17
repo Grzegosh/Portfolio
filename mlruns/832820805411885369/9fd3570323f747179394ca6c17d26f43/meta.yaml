@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9fd3570323f747179394ca6c17d26f43/artifacts
+deleted_time: 1718621895110
+end_time: 1718621789800
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9fd3570323f747179394ca6c17d26f43
+run_name: capricious-toad-940
+run_uuid: 9fd3570323f747179394ca6c17d26f43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621789776
+status: 3
+tags: []
+user_id: grzegorznaporowski

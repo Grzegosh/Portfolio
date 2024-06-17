@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bed6f81dda8749ee8e2bc549d364d69d/artifacts
+deleted_time: 1718622155360
+end_time: 1718621904249
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bed6f81dda8749ee8e2bc549d364d69d
+run_name: bittersweet-cat-113
+run_uuid: bed6f81dda8749ee8e2bc549d364d69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621904227
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7f7b3a6906ce413285b827ed26eec750/artifacts
+deleted_time: 1718621882859
+end_time: 1718621780417
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7f7b3a6906ce413285b827ed26eec750
+run_name: luxuriant-wasp-298
+run_uuid: 7f7b3a6906ce413285b827ed26eec750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621780395
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7b15450ca91844f9a58c495089dd640f/artifacts
+deleted_time: 1718622831212
+end_time: 1718622287728
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7b15450ca91844f9a58c495089dd640f
+run_name: tasteful-shad-172
+run_uuid: 7b15450ca91844f9a58c495089dd640f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622287695
+status: 3
+tags: []
+user_id: grzegorznaporowski

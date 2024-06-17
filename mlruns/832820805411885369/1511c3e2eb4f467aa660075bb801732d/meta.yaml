@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1511c3e2eb4f467aa660075bb801732d/artifacts
+deleted_time: 1718622866423
+end_time: 1718622294003
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1511c3e2eb4f467aa660075bb801732d
+run_name: dapper-seal-435
+run_uuid: 1511c3e2eb4f467aa660075bb801732d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622293977
+status: 3
+tags: []
+user_id: grzegorznaporowski

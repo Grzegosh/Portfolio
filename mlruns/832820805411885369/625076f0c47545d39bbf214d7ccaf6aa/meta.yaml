@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/625076f0c47545d39bbf214d7ccaf6aa/artifacts
+end_time: 1718623391171
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 625076f0c47545d39bbf214d7ccaf6aa
+run_name: likeable-grouse-517
+run_uuid: 625076f0c47545d39bbf214d7ccaf6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623391122
+status: 3
+tags: []
+user_id: grzegorznaporowski

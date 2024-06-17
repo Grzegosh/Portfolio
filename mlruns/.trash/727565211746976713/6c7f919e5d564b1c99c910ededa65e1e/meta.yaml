@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/6c7f919e5d564b1c99c910ededa65e1e/artifacts
+deleted_time: 1718620266874
+end_time: 1718620235801
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 6c7f919e5d564b1c99c910ededa65e1e
+run_name: victorious-shad-226
+run_uuid: 6c7f919e5d564b1c99c910ededa65e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620235780
+status: 3
+tags: []
+user_id: grzegorznaporowski

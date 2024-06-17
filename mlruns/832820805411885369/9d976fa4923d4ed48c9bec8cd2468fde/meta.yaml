@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9d976fa4923d4ed48c9bec8cd2468fde/artifacts
+deleted_time: 1718622941939
+end_time: 1718622916931
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9d976fa4923d4ed48c9bec8cd2468fde
+run_name: painted-colt-249
+run_uuid: 9d976fa4923d4ed48c9bec8cd2468fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622916904
+status: 3
+tags: []
+user_id: grzegorznaporowski

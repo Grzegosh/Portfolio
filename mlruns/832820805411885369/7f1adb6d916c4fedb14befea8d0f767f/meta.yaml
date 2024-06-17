@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7f1adb6d916c4fedb14befea8d0f767f/artifacts
+deleted_time: 1718621895107
+end_time: 1718621789220
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7f1adb6d916c4fedb14befea8d0f767f
+run_name: debonair-seal-64
+run_uuid: 7f1adb6d916c4fedb14befea8d0f767f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621789182
+status: 3
+tags: []
+user_id: grzegorznaporowski

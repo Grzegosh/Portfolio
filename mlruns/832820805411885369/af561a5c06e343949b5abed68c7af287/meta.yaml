@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/af561a5c06e343949b5abed68c7af287/artifacts
+end_time: 1718622970135
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: af561a5c06e343949b5abed68c7af287
+run_name: agreeable-fowl-219
+run_uuid: af561a5c06e343949b5abed68c7af287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622970109
+status: 3
+tags: []
+user_id: grzegorznaporowski

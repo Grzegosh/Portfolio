@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/93d076194e0f471381529ecea570a748/artifacts
+deleted_time: 1718619394985
+end_time: 1718619210035
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 93d076194e0f471381529ecea570a748
+run_name: traveling-hound-324
+run_uuid: 93d076194e0f471381529ecea570a748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619210017
+status: 3
+tags: []
+user_id: grzegorznaporowski

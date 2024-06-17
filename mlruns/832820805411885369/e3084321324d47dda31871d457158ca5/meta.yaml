@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e3084321324d47dda31871d457158ca5/artifacts
+deleted_time: 1718621882804
+end_time: 1718621777914
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e3084321324d47dda31871d457158ca5
+run_name: illustrious-vole-624
+run_uuid: e3084321324d47dda31871d457158ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621777888
+status: 3
+tags: []
+user_id: grzegorznaporowski

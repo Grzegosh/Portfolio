@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/754672e69c714583a200ec9efae0a5cd/artifacts
+deleted_time: 1718621882891
+end_time: 1718621782393
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 754672e69c714583a200ec9efae0a5cd
+run_name: wise-ape-539
+run_uuid: 754672e69c714583a200ec9efae0a5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621782373
+status: 3
+tags: []
+user_id: grzegorznaporowski

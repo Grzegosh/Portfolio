@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f953d93f20014da58fb31745e3747822/artifacts
+deleted_time: 1718622831190
+end_time: 1718622196147
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f953d93f20014da58fb31745e3747822
+run_name: legendary-steed-297
+run_uuid: f953d93f20014da58fb31745e3747822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622196123
+status: 3
+tags: []
+user_id: grzegorznaporowski

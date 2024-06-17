@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/1cbb5a349e2747ba89f915c2ee8c12b1/artifacts
+deleted_time: 1718620244429
+end_time: 1718619914110
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 1cbb5a349e2747ba89f915c2ee8c12b1
+run_name: intrigued-robin-711
+run_uuid: 1cbb5a349e2747ba89f915c2ee8c12b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914091
+status: 3
+tags: []
+user_id: grzegorznaporowski

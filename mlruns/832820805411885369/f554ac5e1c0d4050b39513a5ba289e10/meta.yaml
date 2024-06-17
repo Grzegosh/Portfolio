@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/f554ac5e1c0d4050b39513a5ba289e10/artifacts
+deleted_time: 1718622176025
+end_time: 1718621917150
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: f554ac5e1c0d4050b39513a5ba289e10
+run_name: smiling-fox-69
+run_uuid: f554ac5e1c0d4050b39513a5ba289e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621917127
+status: 3
+tags: []
+user_id: grzegorznaporowski

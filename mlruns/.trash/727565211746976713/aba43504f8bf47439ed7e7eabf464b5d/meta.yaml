@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/aba43504f8bf47439ed7e7eabf464b5d/artifacts
+deleted_time: 1718620244402
+end_time: 1718619914759
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: aba43504f8bf47439ed7e7eabf464b5d
+run_name: tasteful-moose-422
+run_uuid: aba43504f8bf47439ed7e7eabf464b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914740
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4f54823db6a74426bac572fbd722e9fe/artifacts
+deleted_time: 1718622176060
+end_time: 1718621919043
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4f54823db6a74426bac572fbd722e9fe
+run_name: thundering-eel-881
+run_uuid: 4f54823db6a74426bac572fbd722e9fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621919019
+status: 3
+tags: []
+user_id: grzegorznaporowski

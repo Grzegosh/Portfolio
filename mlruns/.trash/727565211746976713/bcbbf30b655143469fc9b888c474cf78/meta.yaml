@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/bcbbf30b655143469fc9b888c474cf78/artifacts
+deleted_time: 1718619142505
+end_time: 1718618842455
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: bcbbf30b655143469fc9b888c474cf78
+run_name: nebulous-wolf-570
+run_uuid: bcbbf30b655143469fc9b888c474cf78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618842437
+status: 3
+tags: []
+user_id: grzegorznaporowski

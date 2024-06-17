@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9effd5f0421146e2bbe54aadf3439250/artifacts
+deleted_time: 1718622866450
+end_time: 1718622295429
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9effd5f0421146e2bbe54aadf3439250
+run_name: unique-quail-311
+run_uuid: 9effd5f0421146e2bbe54aadf3439250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622295403
+status: 3
+tags: []
+user_id: grzegorznaporowski

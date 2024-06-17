@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c808eaea5ed34f6eb1775697ccb99b27/artifacts
+deleted_time: 1718622155348
+end_time: 1718621903416
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: c808eaea5ed34f6eb1775697ccb99b27
+run_name: resilient-ram-170
+run_uuid: c808eaea5ed34f6eb1775697ccb99b27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621903394
+status: 3
+tags: []
+user_id: grzegorznaporowski

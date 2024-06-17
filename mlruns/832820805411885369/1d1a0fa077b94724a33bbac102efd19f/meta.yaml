@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1d1a0fa077b94724a33bbac102efd19f/artifacts
+deleted_time: 1718622866453
+end_time: 1718622295620
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1d1a0fa077b94724a33bbac102efd19f
+run_name: hilarious-ram-578
+run_uuid: 1d1a0fa077b94724a33bbac102efd19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622295594
+status: 3
+tags: []
+user_id: grzegorznaporowski

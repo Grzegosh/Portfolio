@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6d1adcefe47a486b9e8696577bab3956/artifacts
+deleted_time: 1718620709683
+end_time: 1718620386887
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6d1adcefe47a486b9e8696577bab3956
+run_name: thundering-bass-206
+run_uuid: 6d1adcefe47a486b9e8696577bab3956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386869
+status: 3
+tags: []
+user_id: grzegorznaporowski

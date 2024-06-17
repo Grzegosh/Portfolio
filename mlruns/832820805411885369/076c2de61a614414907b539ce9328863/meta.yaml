@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/076c2de61a614414907b539ce9328863/artifacts
+deleted_time: 1718622155407
+end_time: 1718621906881
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 076c2de61a614414907b539ce9328863
+run_name: unruly-shrike-539
+run_uuid: 076c2de61a614414907b539ce9328863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621906859
+status: 3
+tags: []
+user_id: grzegorznaporowski

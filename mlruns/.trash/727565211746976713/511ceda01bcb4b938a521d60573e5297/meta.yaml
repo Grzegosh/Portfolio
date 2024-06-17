@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/511ceda01bcb4b938a521d60573e5297/artifacts
+deleted_time: 1718617893622
+end_time: 1718617747593
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 511ceda01bcb4b938a521d60573e5297
+run_name: omniscient-sloth-939
+run_uuid: 511ceda01bcb4b938a521d60573e5297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718617747573
+status: 3
+tags: []
+user_id: grzegorznaporowski

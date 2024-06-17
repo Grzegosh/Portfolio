@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/de49cc069bb743feb118cc98104c6712/artifacts
+deleted_time: 1718620709706
+end_time: 1718620387323
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: de49cc069bb743feb118cc98104c6712
+run_name: abundant-whale-947
+run_uuid: de49cc069bb743feb118cc98104c6712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620387305
+status: 3
+tags: []
+user_id: grzegorznaporowski

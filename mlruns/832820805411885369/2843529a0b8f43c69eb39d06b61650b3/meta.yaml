@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2843529a0b8f43c69eb39d06b61650b3/artifacts
+deleted_time: 1718622866455
+end_time: 1718622295743
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2843529a0b8f43c69eb39d06b61650b3
+run_name: enchanting-colt-202
+run_uuid: 2843529a0b8f43c69eb39d06b61650b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622295717
+status: 3
+tags: []
+user_id: grzegorznaporowski

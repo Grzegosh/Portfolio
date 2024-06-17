@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/30846458a7e64fc386b663085fab30f2/artifacts
+deleted_time: 1718622941909
+end_time: 1718622890915
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 30846458a7e64fc386b663085fab30f2
+run_name: placid-colt-513
+run_uuid: 30846458a7e64fc386b663085fab30f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622890887
+status: 3
+tags: []
+user_id: grzegorznaporowski

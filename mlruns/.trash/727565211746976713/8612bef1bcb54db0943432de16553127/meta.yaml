@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/8612bef1bcb54db0943432de16553127/artifacts
+deleted_time: 1718620266874
+end_time: 1718620236025
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 8612bef1bcb54db0943432de16553127
+run_name: clumsy-donkey-714
+run_uuid: 8612bef1bcb54db0943432de16553127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620236004
+status: 3
+tags: []
+user_id: grzegorznaporowski

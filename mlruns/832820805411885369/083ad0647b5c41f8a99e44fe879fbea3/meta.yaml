@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/083ad0647b5c41f8a99e44fe879fbea3/artifacts
+end_time: 1718623386617
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 083ad0647b5c41f8a99e44fe879fbea3
+run_name: nervous-finch-751
+run_uuid: 083ad0647b5c41f8a99e44fe879fbea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623386584
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/34bacb2c2c194f3da51f79788ed6d0ba/artifacts
+deleted_time: 1718619394979
+end_time: 1718619312898
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 34bacb2c2c194f3da51f79788ed6d0ba
+run_name: calm-squid-291
+run_uuid: 34bacb2c2c194f3da51f79788ed6d0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619312878
+status: 3
+tags: []
+user_id: grzegorznaporowski

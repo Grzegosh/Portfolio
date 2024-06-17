@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/59aadf5852b741e6800de494df4ecf98/artifacts
+deleted_time: 1718621882901
+end_time: 1718621783076
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 59aadf5852b741e6800de494df4ecf98
+run_name: upbeat-crab-873
+run_uuid: 59aadf5852b741e6800de494df4ecf98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621783056
+status: 3
+tags: []
+user_id: grzegorznaporowski

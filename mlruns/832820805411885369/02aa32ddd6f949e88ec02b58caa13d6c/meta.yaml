@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/02aa32ddd6f949e88ec02b58caa13d6c/artifacts
+deleted_time: 1718622155332
+end_time: 1718621915570
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 02aa32ddd6f949e88ec02b58caa13d6c
+run_name: redolent-hog-522
+run_uuid: 02aa32ddd6f949e88ec02b58caa13d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621915546
+status: 3
+tags: []
+user_id: grzegorznaporowski

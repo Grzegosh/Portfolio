@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/17b91366220047e18c0320ba5cc81e1d/artifacts
+end_time: 1718623391506
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 17b91366220047e18c0320ba5cc81e1d
+run_name: tasteful-elk-528
+run_uuid: 17b91366220047e18c0320ba5cc81e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623391475
+status: 3
+tags: []
+user_id: grzegorznaporowski

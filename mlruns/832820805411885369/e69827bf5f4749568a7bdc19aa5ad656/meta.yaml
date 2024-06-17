@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e69827bf5f4749568a7bdc19aa5ad656/artifacts
+deleted_time: 1718621895057
+end_time: 1718621785533
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e69827bf5f4749568a7bdc19aa5ad656
+run_name: bemused-kite-595
+run_uuid: e69827bf5f4749568a7bdc19aa5ad656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621785512
+status: 3
+tags: []
+user_id: grzegorznaporowski

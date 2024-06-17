@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/48aa9ab1a4fd45c68b9cdfbb0ad75d47/artifacts
+deleted_time: 1718622941987
+end_time: 1718622917365
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 48aa9ab1a4fd45c68b9cdfbb0ad75d47
+run_name: gentle-seal-506
+run_uuid: 48aa9ab1a4fd45c68b9cdfbb0ad75d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622917339
+status: 3
+tags: []
+user_id: grzegorznaporowski

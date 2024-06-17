@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3472b0a740a3462e9d63129af23e282b/artifacts
+end_time: 1718622955899
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 3472b0a740a3462e9d63129af23e282b
+run_name: able-eel-251
+run_uuid: 3472b0a740a3462e9d63129af23e282b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622955869
+status: 3
+tags: []
+user_id: grzegorznaporowski

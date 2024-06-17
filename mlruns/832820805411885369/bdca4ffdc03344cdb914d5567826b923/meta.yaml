@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bdca4ffdc03344cdb914d5567826b923/artifacts
+deleted_time: 1718622176039
+end_time: 1718621918011
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bdca4ffdc03344cdb914d5567826b923
+run_name: righteous-wolf-445
+run_uuid: bdca4ffdc03344cdb914d5567826b923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621917987
+status: 3
+tags: []
+user_id: grzegorznaporowski

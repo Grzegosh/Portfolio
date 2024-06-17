@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/8dbd1802379944909106f99ad0b39df4/artifacts
+deleted_time: 1718620244438
+end_time: 1718619533105
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 8dbd1802379944909106f99ad0b39df4
+run_name: nervous-pug-1000
+run_uuid: 8dbd1802379944909106f99ad0b39df4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619533084
+status: 3
+tags: []
+user_id: grzegorznaporowski

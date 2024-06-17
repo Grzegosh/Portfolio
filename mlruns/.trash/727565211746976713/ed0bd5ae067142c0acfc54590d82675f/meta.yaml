@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/ed0bd5ae067142c0acfc54590d82675f/artifacts
+deleted_time: 1718618821873
+end_time: 1718618515914
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: ed0bd5ae067142c0acfc54590d82675f
+run_name: rare-hound-101
+run_uuid: ed0bd5ae067142c0acfc54590d82675f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618515895
+status: 3
+tags: []
+user_id: grzegorznaporowski

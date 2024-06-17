@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8819240730c74cb3adb8278f1b3bf0a7/artifacts
+deleted_time: 1718622176027
+end_time: 1718621917409
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8819240730c74cb3adb8278f1b3bf0a7
+run_name: bedecked-jay-942
+run_uuid: 8819240730c74cb3adb8278f1b3bf0a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621917386
+status: 3
+tags: []
+user_id: grzegorznaporowski

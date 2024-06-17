@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e3212a032d9845609e2f6131b34adc3b/artifacts
+deleted_time: 1718621746876
+end_time: 1718621552662
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e3212a032d9845609e2f6131b34adc3b
+run_name: defiant-yak-178
+run_uuid: e3212a032d9845609e2f6131b34adc3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621552641
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bd6dabbce16e47d19e384031a3be43ed/artifacts
+deleted_time: 1718621754728
+end_time: 1718620718112
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bd6dabbce16e47d19e384031a3be43ed
+run_name: able-fawn-40
+run_uuid: bd6dabbce16e47d19e384031a3be43ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620718093
+status: 3
+tags: []
+user_id: grzegorznaporowski

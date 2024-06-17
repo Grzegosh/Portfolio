@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7137db1948cf46b191f13db0ebd9bfd7/artifacts
+deleted_time: 1718622831118
+end_time: 1718622191966
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7137db1948cf46b191f13db0ebd9bfd7
+run_name: unleashed-bear-614
+run_uuid: 7137db1948cf46b191f13db0ebd9bfd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622191942
+status: 3
+tags: []
+user_id: grzegorznaporowski

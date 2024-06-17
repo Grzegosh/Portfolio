@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c53a8bcd9dc447b2b77fc55c4251e811/artifacts
+deleted_time: 1718622831141
+end_time: 1718622192897
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: c53a8bcd9dc447b2b77fc55c4251e811
+run_name: fearless-stag-118
+run_uuid: c53a8bcd9dc447b2b77fc55c4251e811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622192873
+status: 3
+tags: []
+user_id: grzegorznaporowski

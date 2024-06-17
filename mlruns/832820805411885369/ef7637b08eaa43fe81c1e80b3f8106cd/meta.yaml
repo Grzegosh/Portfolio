@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ef7637b08eaa43fe81c1e80b3f8106cd/artifacts
+deleted_time: 1718621882892
+end_time: 1718621782588
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ef7637b08eaa43fe81c1e80b3f8106cd
+run_name: suave-skunk-715
+run_uuid: ef7637b08eaa43fe81c1e80b3f8106cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621782568
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3ee814c5cd014a22937b110501b4c32f/artifacts
+deleted_time: 1718621882848
+end_time: 1718621779628
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3ee814c5cd014a22937b110501b4c32f
+run_name: gifted-sow-930
+run_uuid: 3ee814c5cd014a22937b110501b4c32f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621779607
+status: 3
+tags: []
+user_id: grzegorznaporowski

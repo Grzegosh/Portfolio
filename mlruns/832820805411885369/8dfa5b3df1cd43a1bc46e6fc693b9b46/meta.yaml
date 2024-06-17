@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8dfa5b3df1cd43a1bc46e6fc693b9b46/artifacts
+deleted_time: 1718620370322
+end_time: 1718620311582
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8dfa5b3df1cd43a1bc46e6fc693b9b46
+run_name: upset-rat-755
+run_uuid: 8dfa5b3df1cd43a1bc46e6fc693b9b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311565
+status: 3
+tags: []
+user_id: grzegorznaporowski

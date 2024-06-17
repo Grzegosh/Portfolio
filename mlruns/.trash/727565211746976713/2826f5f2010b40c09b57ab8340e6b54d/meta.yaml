@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/2826f5f2010b40c09b57ab8340e6b54d/artifacts
+deleted_time: 1718620244390
+end_time: 1718619914978
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 2826f5f2010b40c09b57ab8340e6b54d
+run_name: flawless-ape-552
+run_uuid: 2826f5f2010b40c09b57ab8340e6b54d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914960
+status: 3
+tags: []
+user_id: grzegorznaporowski

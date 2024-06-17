@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/21540cd13d7749c88657cda871a02c5c/artifacts
+deleted_time: 1718619142463
+end_time: 1718619061292
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 21540cd13d7749c88657cda871a02c5c
+run_name: gentle-elk-594
+run_uuid: 21540cd13d7749c88657cda871a02c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619061274
+status: 3
+tags: []
+user_id: grzegorznaporowski

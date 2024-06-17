@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1e6c54d6fa974264b2900b0650a8bdd9/artifacts
+deleted_time: 1718620370322
+end_time: 1718620311235
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1e6c54d6fa974264b2900b0650a8bdd9
+run_name: nervous-moose-606
+run_uuid: 1e6c54d6fa974264b2900b0650a8bdd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311217
+status: 3
+tags: []
+user_id: grzegorznaporowski

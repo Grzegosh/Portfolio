@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d3d513597f20443ca0103d5f0c05c5ea/artifacts
+deleted_time: 1718620709693
+end_time: 1718620387031
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: d3d513597f20443ca0103d5f0c05c5ea
+run_name: bald-worm-247
+run_uuid: d3d513597f20443ca0103d5f0c05c5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620387013
+status: 3
+tags: []
+user_id: grzegorznaporowski

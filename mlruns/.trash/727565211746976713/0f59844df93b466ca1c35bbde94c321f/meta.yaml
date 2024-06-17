@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/0f59844df93b466ca1c35bbde94c321f/artifacts
+deleted_time: 1718619142473
+end_time: 1718619039829
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 0f59844df93b466ca1c35bbde94c321f
+run_name: nebulous-hound-796
+run_uuid: 0f59844df93b466ca1c35bbde94c321f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619039810
+status: 3
+tags: []
+user_id: grzegorznaporowski

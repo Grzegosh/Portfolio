@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/f6a656eaabc4492b94caaecdc1cde13e/artifacts
+deleted_time: 1718619142468
+end_time: 1718619061064
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: f6a656eaabc4492b94caaecdc1cde13e
+run_name: victorious-steed-386
+run_uuid: f6a656eaabc4492b94caaecdc1cde13e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619061042
+status: 3
+tags: []
+user_id: grzegorznaporowski

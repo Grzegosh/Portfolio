@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9af4e8c40c8248a7af325f2cee65547b/artifacts
+deleted_time: 1718622831223
+end_time: 1718622290127
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9af4e8c40c8248a7af325f2cee65547b
+run_name: dapper-steed-317
+run_uuid: 9af4e8c40c8248a7af325f2cee65547b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622290100
+status: 3
+tags: []
+user_id: grzegorznaporowski

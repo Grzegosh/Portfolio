@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/88b6e03d397d4b54a9d039831c86b396/artifacts
+end_time: 1718623390468
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 88b6e03d397d4b54a9d039831c86b396
+run_name: persistent-sloth-922
+run_uuid: 88b6e03d397d4b54a9d039831c86b396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623390441
+status: 3
+tags: []
+user_id: grzegorznaporowski

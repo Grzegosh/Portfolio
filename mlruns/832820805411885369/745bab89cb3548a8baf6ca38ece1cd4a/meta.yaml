@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/745bab89cb3548a8baf6ca38ece1cd4a/artifacts
+deleted_time: 1718621746892
+end_time: 1718621553553
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 745bab89cb3548a8baf6ca38ece1cd4a
+run_name: handsome-lark-488
+run_uuid: 745bab89cb3548a8baf6ca38ece1cd4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621553534
+status: 3
+tags: []
+user_id: grzegorznaporowski

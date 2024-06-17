@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/df8436240870436f8e6b7546255d69cc/artifacts
+deleted_time: 1718622866449
+end_time: 1718622295317
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: df8436240870436f8e6b7546255d69cc
+run_name: learned-ox-836
+run_uuid: df8436240870436f8e6b7546255d69cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622295291
+status: 3
+tags: []
+user_id: grzegorznaporowski

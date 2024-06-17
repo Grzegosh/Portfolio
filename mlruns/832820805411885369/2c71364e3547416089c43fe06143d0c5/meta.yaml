@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2c71364e3547416089c43fe06143d0c5/artifacts
+deleted_time: 1718621895102
+end_time: 1718621789026
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2c71364e3547416089c43fe06143d0c5
+run_name: bedecked-fowl-83
+run_uuid: 2c71364e3547416089c43fe06143d0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621789004
+status: 3
+tags: []
+user_id: grzegorznaporowski

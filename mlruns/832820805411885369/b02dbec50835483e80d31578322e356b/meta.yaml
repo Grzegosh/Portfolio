@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/b02dbec50835483e80d31578322e356b/artifacts
+deleted_time: 1718622941988
+end_time: 1718622914192
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: b02dbec50835483e80d31578322e356b
+run_name: skittish-grouse-359
+run_uuid: b02dbec50835483e80d31578322e356b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622914166
+status: 3
+tags: []
+user_id: grzegorznaporowski

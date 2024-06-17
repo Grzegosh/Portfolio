@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/12ea37ab51d04bc8879cd606273e6c5d/artifacts
+deleted_time: 1718621882910
+end_time: 1718621783706
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 12ea37ab51d04bc8879cd606273e6c5d
+run_name: abundant-bat-550
+run_uuid: 12ea37ab51d04bc8879cd606273e6c5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621783685
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/48756f8d46e849ba91394f2b6a425a76/artifacts
+deleted_time: 1718620266874
+end_time: 1718620199868
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 48756f8d46e849ba91394f2b6a425a76
+run_name: monumental-swan-276
+run_uuid: 48756f8d46e849ba91394f2b6a425a76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620199847
+status: 3
+tags: []
+user_id: grzegorznaporowski

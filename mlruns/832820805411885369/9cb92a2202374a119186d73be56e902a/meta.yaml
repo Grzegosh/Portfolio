@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9cb92a2202374a119186d73be56e902a/artifacts
+deleted_time: 1718621882835
+end_time: 1718621778996
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9cb92a2202374a119186d73be56e902a
+run_name: flawless-foal-508
+run_uuid: 9cb92a2202374a119186d73be56e902a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621778976
+status: 3
+tags: []
+user_id: grzegorznaporowski

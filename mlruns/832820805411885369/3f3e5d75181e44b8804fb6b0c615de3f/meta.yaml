@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3f3e5d75181e44b8804fb6b0c615de3f/artifacts
+deleted_time: 1718620709702
+end_time: 1718620386828
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3f3e5d75181e44b8804fb6b0c615de3f
+run_name: capable-lark-867
+run_uuid: 3f3e5d75181e44b8804fb6b0c615de3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386809
+status: 3
+tags: []
+user_id: grzegorznaporowski

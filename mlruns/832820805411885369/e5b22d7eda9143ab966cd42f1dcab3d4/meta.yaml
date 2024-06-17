@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e5b22d7eda9143ab966cd42f1dcab3d4/artifacts
+deleted_time: 1718622155364
+end_time: 1718621904425
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e5b22d7eda9143ab966cd42f1dcab3d4
+run_name: stylish-cat-934
+run_uuid: e5b22d7eda9143ab966cd42f1dcab3d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621904401
+status: 3
+tags: []
+user_id: grzegorznaporowski

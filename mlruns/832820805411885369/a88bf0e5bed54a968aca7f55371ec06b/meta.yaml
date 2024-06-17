@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a88bf0e5bed54a968aca7f55371ec06b/artifacts
+end_time: 1718623387866
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: a88bf0e5bed54a968aca7f55371ec06b
+run_name: valuable-croc-606
+run_uuid: a88bf0e5bed54a968aca7f55371ec06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623387837
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4434040c36504dcaab58b3747a2e7cc8/artifacts
+deleted_time: 1718621754724
+end_time: 1718620717569
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4434040c36504dcaab58b3747a2e7cc8
+run_name: sassy-ant-166
+run_uuid: 4434040c36504dcaab58b3747a2e7cc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620717550
+status: 3
+tags: []
+user_id: grzegorznaporowski

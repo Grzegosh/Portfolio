@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6a7123005f454cc2aabb7c475f725913/artifacts
+deleted_time: 1718622866407
+end_time: 1718622293237
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6a7123005f454cc2aabb7c475f725913
+run_name: fearless-yak-901
+run_uuid: 6a7123005f454cc2aabb7c475f725913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622293211
+status: 3
+tags: []
+user_id: grzegorznaporowski

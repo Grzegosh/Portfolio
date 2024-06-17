@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/b9409b2866c64974b2eac852851945c0/artifacts
+deleted_time: 1718620370347
+end_time: 1718620311318
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: b9409b2866c64974b2eac852851945c0
+run_name: treasured-shark-637
+run_uuid: b9409b2866c64974b2eac852851945c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311301
+status: 3
+tags: []
+user_id: grzegorznaporowski

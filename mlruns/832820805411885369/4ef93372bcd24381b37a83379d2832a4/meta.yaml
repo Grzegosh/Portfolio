@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4ef93372bcd24381b37a83379d2832a4/artifacts
+deleted_time: 1718622155391
+end_time: 1718621905936
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4ef93372bcd24381b37a83379d2832a4
+run_name: merciful-goose-493
+run_uuid: 4ef93372bcd24381b37a83379d2832a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905914
+status: 3
+tags: []
+user_id: grzegorznaporowski

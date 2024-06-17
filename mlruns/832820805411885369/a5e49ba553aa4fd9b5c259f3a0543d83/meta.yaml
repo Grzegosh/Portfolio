@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a5e49ba553aa4fd9b5c259f3a0543d83/artifacts
+deleted_time: 1718621754699
+end_time: 1718620715791
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a5e49ba553aa4fd9b5c259f3a0543d83
+run_name: painted-ant-293
+run_uuid: a5e49ba553aa4fd9b5c259f3a0543d83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620715773
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2a5fa2514c7d4e0bbab232870aa9523d/artifacts
+deleted_time: 1718622831198
+end_time: 1718622196827
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2a5fa2514c7d4e0bbab232870aa9523d
+run_name: blushing-snake-506
+run_uuid: 2a5fa2514c7d4e0bbab232870aa9523d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622196802
+status: 3
+tags: []
+user_id: grzegorznaporowski

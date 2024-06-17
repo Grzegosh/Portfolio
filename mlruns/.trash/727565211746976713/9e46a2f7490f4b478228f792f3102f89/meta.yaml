@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/9e46a2f7490f4b478228f792f3102f89/artifacts
+deleted_time: 1718620266874
+end_time: 1718620236151
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 9e46a2f7490f4b478228f792f3102f89
+run_name: vaunted-skunk-608
+run_uuid: 9e46a2f7490f4b478228f792f3102f89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620236131
+status: 3
+tags: []
+user_id: grzegorznaporowski

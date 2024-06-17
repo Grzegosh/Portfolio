@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e76d9297e3ee4f918d2fc009482da5c4/artifacts
+deleted_time: 1718622941988
+end_time: 1718622910925
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e76d9297e3ee4f918d2fc009482da5c4
+run_name: invincible-gnu-226
+run_uuid: e76d9297e3ee4f918d2fc009482da5c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622910898
+status: 3
+tags: []
+user_id: grzegorznaporowski

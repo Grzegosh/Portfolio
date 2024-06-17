@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a11076a9d2e14560ac649e0562275a86/artifacts
+deleted_time: 1718620370319
+end_time: 1718620311766
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a11076a9d2e14560ac649e0562275a86
+run_name: melodic-eel-151
+run_uuid: a11076a9d2e14560ac649e0562275a86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311742
+status: 3
+tags: []
+user_id: grzegorznaporowski

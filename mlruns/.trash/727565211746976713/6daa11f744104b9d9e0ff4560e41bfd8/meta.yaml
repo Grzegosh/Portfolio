@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/6daa11f744104b9d9e0ff4560e41bfd8/artifacts
+deleted_time: 1718620266874
+end_time: 1718620235417
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 6daa11f744104b9d9e0ff4560e41bfd8
+run_name: sedate-shoat-615
+run_uuid: 6daa11f744104b9d9e0ff4560e41bfd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620235396
+status: 3
+tags: []
+user_id: grzegorznaporowski

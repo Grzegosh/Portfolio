@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/035a56cf695d49c99cc89e51b64b85f5/artifacts
+deleted_time: 1718620244409
+end_time: 1718619913816
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 035a56cf695d49c99cc89e51b64b85f5
+run_name: rumbling-kite-121
+run_uuid: 035a56cf695d49c99cc89e51b64b85f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619913794
+status: 3
+tags: []
+user_id: grzegorznaporowski

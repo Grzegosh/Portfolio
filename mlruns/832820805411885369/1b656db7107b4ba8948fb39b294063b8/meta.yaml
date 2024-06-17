@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1b656db7107b4ba8948fb39b294063b8/artifacts
+deleted_time: 1718622155366
+end_time: 1718621904635
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1b656db7107b4ba8948fb39b294063b8
+run_name: judicious-bird-398
+run_uuid: 1b656db7107b4ba8948fb39b294063b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621904612
+status: 3
+tags: []
+user_id: grzegorznaporowski

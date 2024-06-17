@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8fc041d62c954eacb68223e3a4089d19/artifacts
+deleted_time: 1718620370322
+end_time: 1718620311407
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8fc041d62c954eacb68223e3a4089d19
+run_name: invincible-vole-64
+run_uuid: 8fc041d62c954eacb68223e3a4089d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311389
+status: 3
+tags: []
+user_id: grzegorznaporowski

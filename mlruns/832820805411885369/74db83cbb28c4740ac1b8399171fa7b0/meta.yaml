@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/74db83cbb28c4740ac1b8399171fa7b0/artifacts
+deleted_time: 1718622176066
+end_time: 1718621919341
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 74db83cbb28c4740ac1b8399171fa7b0
+run_name: resilient-shoat-493
+run_uuid: 74db83cbb28c4740ac1b8399171fa7b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621919318
+status: 3
+tags: []
+user_id: grzegorznaporowski

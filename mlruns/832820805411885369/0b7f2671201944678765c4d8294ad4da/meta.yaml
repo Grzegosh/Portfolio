@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0b7f2671201944678765c4d8294ad4da/artifacts
+deleted_time: 1718620370363
+end_time: 1718620311090
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0b7f2671201944678765c4d8294ad4da
+run_name: skittish-gnat-413
+run_uuid: 0b7f2671201944678765c4d8294ad4da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620311073
+status: 3
+tags: []
+user_id: grzegorznaporowski

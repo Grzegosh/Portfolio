@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/79533ab7062648ed9e2ad53450224caa/artifacts
+deleted_time: 1718622176014
+end_time: 1718621916813
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 79533ab7062648ed9e2ad53450224caa
+run_name: worried-fox-800
+run_uuid: 79533ab7062648ed9e2ad53450224caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621916790
+status: 3
+tags: []
+user_id: grzegorznaporowski

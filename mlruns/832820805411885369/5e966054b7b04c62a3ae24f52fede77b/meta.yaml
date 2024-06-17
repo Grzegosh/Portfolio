@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5e966054b7b04c62a3ae24f52fede77b/artifacts
+deleted_time: 1718622176044
+end_time: 1718621918319
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 5e966054b7b04c62a3ae24f52fede77b
+run_name: vaunted-foal-270
+run_uuid: 5e966054b7b04c62a3ae24f52fede77b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621918296
+status: 3
+tags: []
+user_id: grzegorznaporowski

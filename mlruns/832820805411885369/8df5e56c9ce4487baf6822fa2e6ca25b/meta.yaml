@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8df5e56c9ce4487baf6822fa2e6ca25b/artifacts
+deleted_time: 1718621754728
+end_time: 1718620718165
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8df5e56c9ce4487baf6822fa2e6ca25b
+run_name: fortunate-perch-495
+run_uuid: 8df5e56c9ce4487baf6822fa2e6ca25b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620718146
+status: 3
+tags: []
+user_id: grzegorznaporowski

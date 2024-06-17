@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/113fc73a21964c7185b51d07ea3e9d1b/artifacts
+deleted_time: 1718619394987
+end_time: 1718619209638
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 113fc73a21964c7185b51d07ea3e9d1b
+run_name: intrigued-moth-365
+run_uuid: 113fc73a21964c7185b51d07ea3e9d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619209619
+status: 3
+tags: []
+user_id: grzegorznaporowski

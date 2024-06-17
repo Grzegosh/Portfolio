@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/89734582d15546ee8b9d9ac54f34e344/artifacts
+deleted_time: 1718622831133
+end_time: 1718622192532
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 89734582d15546ee8b9d9ac54f34e344
+run_name: charming-crab-841
+run_uuid: 89734582d15546ee8b9d9ac54f34e344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622192508
+status: 3
+tags: []
+user_id: grzegorznaporowski

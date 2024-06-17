@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/a8449e19455e4466ad6353504ec3ac45/artifacts
+deleted_time: 1718621895073
+end_time: 1718621786528
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: a8449e19455e4466ad6353504ec3ac45
+run_name: melodic-stork-777
+run_uuid: a8449e19455e4466ad6353504ec3ac45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621786504
+status: 3
+tags: []
+user_id: grzegorznaporowski

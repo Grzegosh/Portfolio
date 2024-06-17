@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8b2a2e00217b4299a50b0aeb653aad77/artifacts
+deleted_time: 1718622866430
+end_time: 1718622294541
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8b2a2e00217b4299a50b0aeb653aad77
+run_name: colorful-mouse-500
+run_uuid: 8b2a2e00217b4299a50b0aeb653aad77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718622294516
+status: 3
+tags: []
+user_id: grzegorznaporowski

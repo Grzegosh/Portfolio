@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/dbf93386d0904b808006fab83512d6ff/artifacts
+deleted_time: 1718620709715
+end_time: 1718620386237
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: dbf93386d0904b808006fab83512d6ff
+run_name: carefree-hog-288
+run_uuid: dbf93386d0904b808006fab83512d6ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620386219
+status: 3
+tags: []
+user_id: grzegorznaporowski

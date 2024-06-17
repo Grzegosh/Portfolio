@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/aeff34d29c894163860a36e7b0020c50/artifacts
+deleted_time: 1718620244396
+end_time: 1718619914236
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: aeff34d29c894163860a36e7b0020c50
+run_name: silent-sponge-934
+run_uuid: aeff34d29c894163860a36e7b0020c50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619914216
+status: 3
+tags: []
+user_id: grzegorznaporowski

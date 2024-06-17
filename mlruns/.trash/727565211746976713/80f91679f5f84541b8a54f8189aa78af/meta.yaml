@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/80f91679f5f84541b8a54f8189aa78af/artifacts
+deleted_time: 1718619142488
+end_time: 1718618890615
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 80f91679f5f84541b8a54f8189aa78af
+run_name: efficient-dove-410
+run_uuid: 80f91679f5f84541b8a54f8189aa78af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718618890597
+status: 3
+tags: []
+user_id: grzegorznaporowski

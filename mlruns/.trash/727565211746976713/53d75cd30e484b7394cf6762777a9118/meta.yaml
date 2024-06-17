@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/53d75cd30e484b7394cf6762777a9118/artifacts
+deleted_time: 1718620244408
+end_time: 1718619914018
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 53d75cd30e484b7394cf6762777a9118
+run_name: sincere-rat-909
+run_uuid: 53d75cd30e484b7394cf6762777a9118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619913999
+status: 3
+tags: []
+user_id: grzegorznaporowski

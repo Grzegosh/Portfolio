@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4395faf9bacc41b5892e39e5843c0a3b/artifacts
+deleted_time: 1718620709718
+end_time: 1718620387265
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4395faf9bacc41b5892e39e5843c0a3b
+run_name: valuable-bass-30
+run_uuid: 4395faf9bacc41b5892e39e5843c0a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718620387247
+status: 3
+tags: []
+user_id: grzegorznaporowski

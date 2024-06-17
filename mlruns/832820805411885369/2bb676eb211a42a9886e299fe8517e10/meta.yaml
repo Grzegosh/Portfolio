@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2bb676eb211a42a9886e299fe8517e10/artifacts
+deleted_time: 1718622155385
+end_time: 1718621905539
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2bb676eb211a42a9886e299fe8517e10
+run_name: upset-lamb-45
+run_uuid: 2bb676eb211a42a9886e299fe8517e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621905517
+status: 3
+tags: []
+user_id: grzegorznaporowski

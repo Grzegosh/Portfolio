@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bc3bbe6a93404b03a735ce56b870aba9/artifacts
+end_time: 1718623392147
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: bc3bbe6a93404b03a735ce56b870aba9
+run_name: glamorous-wasp-207
+run_uuid: bc3bbe6a93404b03a735ce56b870aba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718623392118
+status: 3
+tags: []
+user_id: grzegorznaporowski

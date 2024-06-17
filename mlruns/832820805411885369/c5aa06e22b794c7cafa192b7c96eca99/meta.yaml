@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c5aa06e22b794c7cafa192b7c96eca99/artifacts
+deleted_time: 1718622155305
+end_time: 1718621911544
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: c5aa06e22b794c7cafa192b7c96eca99
+run_name: grandiose-mare-28
+run_uuid: c5aa06e22b794c7cafa192b7c96eca99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621911521
+status: 3
+tags: []
+user_id: grzegorznaporowski

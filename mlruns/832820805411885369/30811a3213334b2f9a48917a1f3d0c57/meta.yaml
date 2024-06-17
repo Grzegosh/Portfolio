@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/30811a3213334b2f9a48917a1f3d0c57/artifacts
+deleted_time: 1718621882908
+end_time: 1718621783172
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 30811a3213334b2f9a48917a1f3d0c57
+run_name: smiling-horse-399
+run_uuid: 30811a3213334b2f9a48917a1f3d0c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718621783152
+status: 3
+tags: []
+user_id: grzegorznaporowski

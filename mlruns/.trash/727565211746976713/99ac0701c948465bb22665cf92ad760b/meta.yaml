@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727565211746976713/99ac0701c948465bb22665cf92ad760b/artifacts
+deleted_time: 1718620244438
+end_time: 1718619504322
+entry_point_name: ''
+experiment_id: '727565211746976713'
+lifecycle_stage: deleted
+run_id: 99ac0701c948465bb22665cf92ad760b
+run_name: traveling-stag-506
+run_uuid: 99ac0701c948465bb22665cf92ad760b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718619504302
+status: 3
+tags: []
+user_id: grzegorznaporowski
