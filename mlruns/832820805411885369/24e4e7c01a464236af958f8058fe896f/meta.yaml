@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/24e4e7c01a464236af958f8058fe896f/artifacts
+deleted_time: 1718902103019
 end_time: 1718623389786
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 24e4e7c01a464236af958f8058fe896f
 run_name: luxuriant-gnu-903
 run_uuid: 24e4e7c01a464236af958f8058fe896f

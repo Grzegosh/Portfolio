@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/6a53d2087f704c10914e0ea121e112f5/artifacts
+deleted_time: 1718902103038
 end_time: 1718623388447
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6a53d2087f704c10914e0ea121e112f5
 run_name: auspicious-ram-984
 run_uuid: 6a53d2087f704c10914e0ea121e112f5

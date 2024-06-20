@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/67b863eb401b4c39b29f2c720516f49e/artifacts
+deleted_time: 1718902103013
 end_time: 1718623390406
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 67b863eb401b4c39b29f2c720516f49e
 run_name: bittersweet-wasp-357
 run_uuid: 67b863eb401b4c39b29f2c720516f49e

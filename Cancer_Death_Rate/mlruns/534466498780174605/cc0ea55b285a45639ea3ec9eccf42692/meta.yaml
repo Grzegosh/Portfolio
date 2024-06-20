@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/cc0ea55b285a45639ea3ec9eccf42692/artifacts
+deleted_time: 1718813372499
+end_time: 1718813341352
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: cc0ea55b285a45639ea3ec9eccf42692
+run_name: colorful-carp-119
+run_uuid: cc0ea55b285a45639ea3ec9eccf42692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813341321
+status: 3
+tags: []
+user_id: grzegorznaporowski

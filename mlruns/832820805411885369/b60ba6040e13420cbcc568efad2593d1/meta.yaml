@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/b60ba6040e13420cbcc568efad2593d1/artifacts
+end_time: 1718903557757
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: b60ba6040e13420cbcc568efad2593d1
+run_name: mysterious-sloth-391
+run_uuid: b60ba6040e13420cbcc568efad2593d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903557727
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/c7cb32a9c70f43c89bc646137835a40b/artifacts
+deleted_time: 1718902103046
 end_time: 1718623387780
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c7cb32a9c70f43c89bc646137835a40b
 run_name: smiling-fawn-935
 run_uuid: c7cb32a9c70f43c89bc646137835a40b

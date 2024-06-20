@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/1b034b113781407886ffef870e893322/artifacts
+deleted_time: 1718902330587
 end_time: 1718616192832
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1b034b113781407886ffef870e893322
 run_name: judicious-hawk-237
 run_uuid: 1b034b113781407886ffef870e893322

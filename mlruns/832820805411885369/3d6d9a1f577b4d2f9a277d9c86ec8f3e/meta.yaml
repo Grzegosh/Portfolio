@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/3d6d9a1f577b4d2f9a277d9c86ec8f3e/artifacts
+deleted_time: 1718902113905
 end_time: 1718622971838
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3d6d9a1f577b4d2f9a277d9c86ec8f3e
 run_name: luxuriant-yak-320
 run_uuid: 3d6d9a1f577b4d2f9a277d9c86ec8f3e

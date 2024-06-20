@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/caaee537bcb5428a8fd5142be2856282/artifacts
+end_time: 1718903526212
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: caaee537bcb5428a8fd5142be2856282
+run_name: delightful-ram-68
+run_uuid: caaee537bcb5428a8fd5142be2856282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903526182
+status: 3
+tags: []
+user_id: grzegorznaporowski

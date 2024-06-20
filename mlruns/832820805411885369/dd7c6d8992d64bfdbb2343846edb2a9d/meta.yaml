@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/dd7c6d8992d64bfdbb2343846edb2a9d/artifacts
+deleted_time: 1718902103047
 end_time: 1718623387733
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: dd7c6d8992d64bfdbb2343846edb2a9d
 run_name: nosy-smelt-35
 run_uuid: dd7c6d8992d64bfdbb2343846edb2a9d

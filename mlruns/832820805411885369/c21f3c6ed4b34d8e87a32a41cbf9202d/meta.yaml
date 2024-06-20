@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/c21f3c6ed4b34d8e87a32a41cbf9202d/artifacts
+deleted_time: 1718902113976
 end_time: 1718622962621
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c21f3c6ed4b34d8e87a32a41cbf9202d
 run_name: dazzling-snake-909
 run_uuid: c21f3c6ed4b34d8e87a32a41cbf9202d

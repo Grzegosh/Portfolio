@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/49f2d7d6c9ff4d3f8ad8a07d5d6c3f6b/artifacts
+deleted_time: 1718902113990
 end_time: 1718622948354
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 49f2d7d6c9ff4d3f8ad8a07d5d6c3f6b
 run_name: enchanting-hawk-534
 run_uuid: 49f2d7d6c9ff4d3f8ad8a07d5d6c3f6b

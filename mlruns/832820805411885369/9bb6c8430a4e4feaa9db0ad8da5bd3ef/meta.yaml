@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/9bb6c8430a4e4feaa9db0ad8da5bd3ef/artifacts
+deleted_time: 1718902113985
 end_time: 1718622955962
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9bb6c8430a4e4feaa9db0ad8da5bd3ef
 run_name: abrasive-squid-340
 run_uuid: 9bb6c8430a4e4feaa9db0ad8da5bd3ef

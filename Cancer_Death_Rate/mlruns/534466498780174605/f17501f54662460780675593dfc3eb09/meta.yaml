@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/f17501f54662460780675593dfc3eb09/artifacts
+end_time: 1718822559827
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: f17501f54662460780675593dfc3eb09
+run_name: marvelous-hound-968
+run_uuid: f17501f54662460780675593dfc3eb09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822559776
+status: 3
+tags: []
+user_id: grzegorznaporowski

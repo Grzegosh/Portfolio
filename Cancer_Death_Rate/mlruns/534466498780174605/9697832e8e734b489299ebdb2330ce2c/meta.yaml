@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/9697832e8e734b489299ebdb2330ce2c/artifacts
+end_time: 1718822538367
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 9697832e8e734b489299ebdb2330ce2c
+run_name: enchanting-gnu-269
+run_uuid: 9697832e8e734b489299ebdb2330ce2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822538323
+status: 3
+tags: []
+user_id: grzegorznaporowski

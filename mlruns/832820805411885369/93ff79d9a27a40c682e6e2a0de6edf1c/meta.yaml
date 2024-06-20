@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/93ff79d9a27a40c682e6e2a0de6edf1c/artifacts
+deleted_time: 1718902155979
+end_time: 1718902137477
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 93ff79d9a27a40c682e6e2a0de6edf1c
+run_name: burly-turtle-667
+run_uuid: 93ff79d9a27a40c682e6e2a0de6edf1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902137447
+status: 3
+tags: []
+user_id: grzegorznaporowski

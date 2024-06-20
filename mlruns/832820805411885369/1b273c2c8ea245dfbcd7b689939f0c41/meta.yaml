@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/1b273c2c8ea245dfbcd7b689939f0c41/artifacts
+deleted_time: 1718902113960
 end_time: 1718622969037
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1b273c2c8ea245dfbcd7b689939f0c41
 run_name: handsome-foal-149
 run_uuid: 1b273c2c8ea245dfbcd7b689939f0c41

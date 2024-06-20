@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/66a306431f1c403eabdb597a3c3074b4/artifacts
+deleted_time: 1718903430085
+end_time: 1718903284403
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 66a306431f1c403eabdb597a3c3074b4
+run_name: spiffy-colt-268
+run_uuid: 66a306431f1c403eabdb597a3c3074b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903284373
+status: 3
+tags: []
+user_id: grzegorznaporowski

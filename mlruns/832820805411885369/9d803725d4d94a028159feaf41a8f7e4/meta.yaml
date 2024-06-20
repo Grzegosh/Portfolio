@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/9d803725d4d94a028159feaf41a8f7e4/artifacts
+deleted_time: 1718902102979
 end_time: 1718623392796
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9d803725d4d94a028159feaf41a8f7e4
 run_name: zealous-ape-49
 run_uuid: 9d803725d4d94a028159feaf41a8f7e4

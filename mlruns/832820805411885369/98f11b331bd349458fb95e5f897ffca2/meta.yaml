@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/98f11b331bd349458fb95e5f897ffca2/artifacts
+deleted_time: 1718902103041
 end_time: 1718623388174
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 98f11b331bd349458fb95e5f897ffca2
 run_name: loud-doe-443
 run_uuid: 98f11b331bd349458fb95e5f897ffca2

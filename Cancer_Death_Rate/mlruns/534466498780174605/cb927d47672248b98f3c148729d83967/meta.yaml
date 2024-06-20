@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/cb927d47672248b98f3c148729d83967/artifacts
+deleted_time: 1718823584512
+end_time: 1718823276556
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: cb927d47672248b98f3c148729d83967
+run_name: shivering-conch-529
+run_uuid: cb927d47672248b98f3c148729d83967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823276494
+status: 3
+tags: []
+user_id: grzegorznaporowski

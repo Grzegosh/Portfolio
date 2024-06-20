@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/145b3fbdf59f4bb482b9056ce3adcaad/artifacts
+end_time: 1718823269113
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 145b3fbdf59f4bb482b9056ce3adcaad
+run_name: bald-tern-472
+run_uuid: 145b3fbdf59f4bb482b9056ce3adcaad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823269063
+status: 3
+tags: []
+user_id: grzegorznaporowski

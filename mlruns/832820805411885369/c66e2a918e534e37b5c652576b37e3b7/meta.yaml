@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/c66e2a918e534e37b5c652576b37e3b7/artifacts
+deleted_time: 1718902113972
 end_time: 1718622962825
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c66e2a918e534e37b5c652576b37e3b7
 run_name: flawless-wolf-585
 run_uuid: c66e2a918e534e37b5c652576b37e3b7

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/eb993c849ad34cc68ca2fa297d3a6da7/artifacts
+deleted_time: 1718902113944
 end_time: 1718622970476
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eb993c849ad34cc68ca2fa297d3a6da7
 run_name: valuable-tern-802
 run_uuid: eb993c849ad34cc68ca2fa297d3a6da7

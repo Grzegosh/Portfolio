@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/a83626934bcc42229501f382fde32c65/artifacts
+deleted_time: 1718902113979
 end_time: 1718622962559
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a83626934bcc42229501f382fde32c65
 run_name: rumbling-flea-806
 run_uuid: a83626934bcc42229501f382fde32c65

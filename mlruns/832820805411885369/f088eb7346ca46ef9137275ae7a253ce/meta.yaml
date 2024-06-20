@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/f088eb7346ca46ef9137275ae7a253ce/artifacts
+deleted_time: 1718902113923
 end_time: 1718622971437
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f088eb7346ca46ef9137275ae7a253ce
 run_name: funny-shoat-491
 run_uuid: f088eb7346ca46ef9137275ae7a253ce

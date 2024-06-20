@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/9fc0228c35324f11a1bdfff41d5213ad/artifacts
+deleted_time: 1718822135781
+end_time: 1718813491660
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 9fc0228c35324f11a1bdfff41d5213ad
+run_name: fearless-midge-404
+run_uuid: 9fc0228c35324f11a1bdfff41d5213ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813491616
+status: 3
+tags: []
+user_id: grzegorznaporowski

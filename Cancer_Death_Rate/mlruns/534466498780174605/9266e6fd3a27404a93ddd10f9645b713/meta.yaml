@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/9266e6fd3a27404a93ddd10f9645b713/artifacts
+deleted_time: 1718823584388
+end_time: 1718823461347
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 9266e6fd3a27404a93ddd10f9645b713
+run_name: powerful-hog-907
+run_uuid: 9266e6fd3a27404a93ddd10f9645b713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823461266
+status: 3
+tags: []
+user_id: grzegorznaporowski

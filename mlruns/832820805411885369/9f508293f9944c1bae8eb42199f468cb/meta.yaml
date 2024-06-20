@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/9f508293f9944c1bae8eb42199f468cb/artifacts
+deleted_time: 1718902113919
 end_time: 1718622971580
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9f508293f9944c1bae8eb42199f468cb
 run_name: shivering-stoat-974
 run_uuid: 9f508293f9944c1bae8eb42199f468cb

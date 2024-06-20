@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1cb4749582ff44a4a66cb77dd7ad44cc/artifacts
+deleted_time: 1718902155966
+end_time: 1718902138149
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1cb4749582ff44a4a66cb77dd7ad44cc
+run_name: peaceful-perch-554
+run_uuid: 1cb4749582ff44a4a66cb77dd7ad44cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902138119
+status: 3
+tags: []
+user_id: grzegorznaporowski

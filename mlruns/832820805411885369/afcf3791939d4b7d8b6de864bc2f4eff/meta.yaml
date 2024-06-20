@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/afcf3791939d4b7d8b6de864bc2f4eff/artifacts
+deleted_time: 1718902102988
 end_time: 1718623392420
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: afcf3791939d4b7d8b6de864bc2f4eff
 run_name: efficient-finch-236
 run_uuid: afcf3791939d4b7d8b6de864bc2f4eff

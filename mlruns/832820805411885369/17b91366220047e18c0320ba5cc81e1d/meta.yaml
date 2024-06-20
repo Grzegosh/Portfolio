@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/17b91366220047e18c0320ba5cc81e1d/artifacts
+deleted_time: 1718902103000
 end_time: 1718623391506
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 17b91366220047e18c0320ba5cc81e1d
 run_name: tasteful-elk-528
 run_uuid: 17b91366220047e18c0320ba5cc81e1d

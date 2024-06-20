@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/17ab0be0820748d1a63a1c729230e93c/artifacts
+deleted_time: 1718902113926
 end_time: 1718622971375
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 17ab0be0820748d1a63a1c729230e93c
 run_name: dazzling-skunk-617
 run_uuid: 17ab0be0820748d1a63a1c729230e93c

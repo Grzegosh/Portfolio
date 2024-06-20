@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9dd58fd7e8704c878560575b24da5de9/artifacts
+deleted_time: 1718903215099
+end_time: 1718903177802
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9dd58fd7e8704c878560575b24da5de9
+run_name: receptive-vole-489
+run_uuid: 9dd58fd7e8704c878560575b24da5de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903177767
+status: 3
+tags: []
+user_id: grzegorznaporowski

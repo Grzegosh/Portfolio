@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/a1021e01938d4ef494785bcf1fa40809/artifacts
+end_time: 1718822420924
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: a1021e01938d4ef494785bcf1fa40809
+run_name: nosy-snail-654
+run_uuid: a1021e01938d4ef494785bcf1fa40809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822420879
+status: 3
+tags: []
+user_id: grzegorznaporowski

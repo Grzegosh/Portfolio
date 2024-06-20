@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/619c101885214451bb599057d6ee1698/artifacts
+deleted_time: 1718902103030
 end_time: 1718623388737
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 619c101885214451bb599057d6ee1698
 run_name: awesome-ape-740
 run_uuid: 619c101885214451bb599057d6ee1698

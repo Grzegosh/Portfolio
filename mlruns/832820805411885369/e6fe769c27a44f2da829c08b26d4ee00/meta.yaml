@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/e6fe769c27a44f2da829c08b26d4ee00/artifacts
+deleted_time: 1718902103057
 end_time: 1718623386802
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e6fe769c27a44f2da829c08b26d4ee00
 run_name: invincible-steed-143
 run_uuid: e6fe769c27a44f2da829c08b26d4ee00

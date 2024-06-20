@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/c978249abcfd401cbee03106bfa356b7/artifacts
+deleted_time: 1718902103058
 end_time: 1718623386746
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c978249abcfd401cbee03106bfa356b7
 run_name: likeable-flea-71
 run_uuid: c978249abcfd401cbee03106bfa356b7

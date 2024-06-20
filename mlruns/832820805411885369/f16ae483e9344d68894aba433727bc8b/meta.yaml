@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/f16ae483e9344d68894aba433727bc8b/artifacts
+deleted_time: 1718902103015
 end_time: 1718623390142
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f16ae483e9344d68894aba433727bc8b
 run_name: sassy-crane-925
 run_uuid: f16ae483e9344d68894aba433727bc8b

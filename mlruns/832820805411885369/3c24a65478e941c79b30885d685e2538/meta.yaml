@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/3c24a65478e941c79b30885d685e2538/artifacts
+deleted_time: 1718902113905
 end_time: 1718622971963
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3c24a65478e941c79b30885d685e2538
 run_name: dazzling-wren-76
 run_uuid: 3c24a65478e941c79b30885d685e2538

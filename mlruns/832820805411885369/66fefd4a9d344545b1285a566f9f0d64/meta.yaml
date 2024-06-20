@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/66fefd4a9d344545b1285a566f9f0d64/artifacts
+deleted_time: 1718902113931
 end_time: 1718622971033
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 66fefd4a9d344545b1285a566f9f0d64
 run_name: glamorous-owl-907
 run_uuid: 66fefd4a9d344545b1285a566f9f0d64

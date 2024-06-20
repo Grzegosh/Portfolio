@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/e823bfd46e234ef7855f2eda505ec2ac/artifacts
+deleted_time: 1718902113962
 end_time: 1718622969118
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e823bfd46e234ef7855f2eda505ec2ac
 run_name: defiant-grub-959
 run_uuid: e823bfd46e234ef7855f2eda505ec2ac

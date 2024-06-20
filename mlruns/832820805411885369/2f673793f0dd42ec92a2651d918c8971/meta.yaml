@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2f673793f0dd42ec92a2651d918c8971/artifacts
+end_time: 1718903520618
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 2f673793f0dd42ec92a2651d918c8971
+run_name: handsome-stag-61
+run_uuid: 2f673793f0dd42ec92a2651d918c8971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903520588
+status: 3
+tags: []
+user_id: grzegorznaporowski

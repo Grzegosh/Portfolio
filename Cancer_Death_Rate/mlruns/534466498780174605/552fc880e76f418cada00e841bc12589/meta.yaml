@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/552fc880e76f418cada00e841bc12589/artifacts
+deleted_time: 1718823584416
+end_time: 1718823442969
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 552fc880e76f418cada00e841bc12589
+run_name: worried-quail-608
+run_uuid: 552fc880e76f418cada00e841bc12589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823442878
+status: 3
+tags: []
+user_id: grzegorznaporowski

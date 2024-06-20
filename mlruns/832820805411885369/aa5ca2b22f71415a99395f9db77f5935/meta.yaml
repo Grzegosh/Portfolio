@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/aa5ca2b22f71415a99395f9db77f5935/artifacts
+deleted_time: 1718902102997
 end_time: 1718623391634
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: aa5ca2b22f71415a99395f9db77f5935
 run_name: beautiful-kit-87
 run_uuid: aa5ca2b22f71415a99395f9db77f5935

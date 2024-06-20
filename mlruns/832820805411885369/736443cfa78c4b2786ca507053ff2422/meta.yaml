@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/736443cfa78c4b2786ca507053ff2422/artifacts
+deleted_time: 1718902103047
 end_time: 1718623387691
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 736443cfa78c4b2786ca507053ff2422
 run_name: luminous-shad-415
 run_uuid: 736443cfa78c4b2786ca507053ff2422

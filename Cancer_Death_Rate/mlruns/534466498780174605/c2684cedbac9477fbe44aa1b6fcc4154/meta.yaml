@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/c2684cedbac9477fbe44aa1b6fcc4154/artifacts
+deleted_time: 1718822135777
+end_time: 1718813507038
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: c2684cedbac9477fbe44aa1b6fcc4154
+run_name: capricious-sheep-761
+run_uuid: c2684cedbac9477fbe44aa1b6fcc4154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813507006
+status: 3
+tags: []
+user_id: grzegorznaporowski

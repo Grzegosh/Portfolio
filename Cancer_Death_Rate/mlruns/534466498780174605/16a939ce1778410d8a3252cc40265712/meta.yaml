@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/16a939ce1778410d8a3252cc40265712/artifacts
+deleted_time: 1718823584412
+end_time: 1718823459379
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 16a939ce1778410d8a3252cc40265712
+run_name: gaudy-smelt-716
+run_uuid: 16a939ce1778410d8a3252cc40265712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823459336
+status: 3
+tags: []
+user_id: grzegorznaporowski

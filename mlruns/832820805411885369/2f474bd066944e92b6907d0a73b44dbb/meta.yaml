@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/2f474bd066944e92b6907d0a73b44dbb/artifacts
+deleted_time: 1718902113969
 end_time: 1718622968740
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2f474bd066944e92b6907d0a73b44dbb
 run_name: bright-boar-513
 run_uuid: 2f474bd066944e92b6907d0a73b44dbb

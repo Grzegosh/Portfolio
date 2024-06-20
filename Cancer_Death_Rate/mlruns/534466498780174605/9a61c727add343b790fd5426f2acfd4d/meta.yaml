@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/9a61c727add343b790fd5426f2acfd4d/artifacts
+deleted_time: 1718823584412
+end_time: 1718823443490
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 9a61c727add343b790fd5426f2acfd4d
+run_name: nebulous-tern-238
+run_uuid: 9a61c727add343b790fd5426f2acfd4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823443405
+status: 3
+tags: []
+user_id: grzegorznaporowski

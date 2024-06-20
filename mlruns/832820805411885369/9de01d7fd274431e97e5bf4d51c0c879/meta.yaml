@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/9de01d7fd274431e97e5bf4d51c0c879/artifacts
+deleted_time: 1718902102992
 end_time: 1718623391879
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9de01d7fd274431e97e5bf4d51c0c879
 run_name: gaudy-mare-966
 run_uuid: 9de01d7fd274431e97e5bf4d51c0c879

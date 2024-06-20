@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/5488f9944c344978b0b04eb0d34caefe/artifacts
+deleted_time: 1718902103045
 end_time: 1718623387823
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5488f9944c344978b0b04eb0d34caefe
 run_name: burly-wasp-154
 run_uuid: 5488f9944c344978b0b04eb0d34caefe

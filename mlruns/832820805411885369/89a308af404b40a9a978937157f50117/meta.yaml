@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/89a308af404b40a9a978937157f50117/artifacts
+deleted_time: 1718902102943
+end_time: 1718902073666
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 89a308af404b40a9a978937157f50117
+run_name: treasured-turtle-987
+run_uuid: 89a308af404b40a9a978937157f50117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902073636
+status: 3
+tags: []
+user_id: grzegorznaporowski

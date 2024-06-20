@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/6ca9ef89405f48a5808f1826af560525/artifacts
+deleted_time: 1718902103057
 end_time: 1718623386844
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6ca9ef89405f48a5808f1826af560525
 run_name: dapper-quail-556
 run_uuid: 6ca9ef89405f48a5808f1826af560525

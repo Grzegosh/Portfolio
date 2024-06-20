@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/a46a7ff65e8c487393c5be4c4f2f9d0d/artifacts
+deleted_time: 1718902102994
 end_time: 1718623391797
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a46a7ff65e8c487393c5be4c4f2f9d0d
 run_name: clean-ram-853
 run_uuid: a46a7ff65e8c487393c5be4c4f2f9d0d

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/66b5cc7e00ca4597ab9db14d84989c3c/artifacts
+deleted_time: 1718813372511
+end_time: 1718813270103
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 66b5cc7e00ca4597ab9db14d84989c3c
+run_name: amusing-flea-950
+run_uuid: 66b5cc7e00ca4597ab9db14d84989c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813270068
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7119b19ed1694c66afe51afbaf6d343d/artifacts
+deleted_time: 1718902102962
+end_time: 1718902072510
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7119b19ed1694c66afe51afbaf6d343d
+run_name: melodic-foal-226
+run_uuid: 7119b19ed1694c66afe51afbaf6d343d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902072480
+status: 3
+tags: []
+user_id: grzegorznaporowski

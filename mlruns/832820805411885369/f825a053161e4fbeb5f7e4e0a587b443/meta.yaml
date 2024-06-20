@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/f825a053161e4fbeb5f7e4e0a587b443/artifacts
+deleted_time: 1718902113930
 end_time: 1718622971073
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f825a053161e4fbeb5f7e4e0a587b443
 run_name: popular-carp-741
 run_uuid: f825a053161e4fbeb5f7e4e0a587b443

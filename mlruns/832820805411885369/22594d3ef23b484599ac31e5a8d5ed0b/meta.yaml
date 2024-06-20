@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/22594d3ef23b484599ac31e5a8d5ed0b/artifacts
+deleted_time: 1718902102944
+end_time: 1718902073336
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 22594d3ef23b484599ac31e5a8d5ed0b
+run_name: rogue-perch-966
+run_uuid: 22594d3ef23b484599ac31e5a8d5ed0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902073293
+status: 3
+tags: []
+user_id: grzegorznaporowski

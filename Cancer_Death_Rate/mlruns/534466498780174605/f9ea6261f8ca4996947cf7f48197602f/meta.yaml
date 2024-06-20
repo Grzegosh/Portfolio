@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/f9ea6261f8ca4996947cf7f48197602f/artifacts
+deleted_time: 1718823584499
+end_time: 1718823305669
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: f9ea6261f8ca4996947cf7f48197602f
+run_name: bouncy-smelt-67
+run_uuid: f9ea6261f8ca4996947cf7f48197602f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823305621
+status: 3
+tags: []
+user_id: grzegorznaporowski

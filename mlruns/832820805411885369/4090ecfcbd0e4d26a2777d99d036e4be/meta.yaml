@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4090ecfcbd0e4d26a2777d99d036e4be/artifacts
+deleted_time: 1718902155991
+end_time: 1718902136460
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4090ecfcbd0e4d26a2777d99d036e4be
+run_name: luxuriant-mare-471
+run_uuid: 4090ecfcbd0e4d26a2777d99d036e4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902136429
+status: 3
+tags: []
+user_id: grzegorznaporowski

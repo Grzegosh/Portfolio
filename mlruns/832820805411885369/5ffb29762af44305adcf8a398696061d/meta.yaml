@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/5ffb29762af44305adcf8a398696061d/artifacts
+deleted_time: 1718902102995
 end_time: 1718623391716
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5ffb29762af44305adcf8a398696061d
 run_name: tasteful-skunk-250
 run_uuid: 5ffb29762af44305adcf8a398696061d

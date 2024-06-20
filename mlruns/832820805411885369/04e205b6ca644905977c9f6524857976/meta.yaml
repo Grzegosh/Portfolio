@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/04e205b6ca644905977c9f6524857976/artifacts
+deleted_time: 1718902102944
+end_time: 1718902073509
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 04e205b6ca644905977c9f6524857976
+run_name: adventurous-ray-370
+run_uuid: 04e205b6ca644905977c9f6524857976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902073473
+status: 3
+tags: []
+user_id: grzegorznaporowski

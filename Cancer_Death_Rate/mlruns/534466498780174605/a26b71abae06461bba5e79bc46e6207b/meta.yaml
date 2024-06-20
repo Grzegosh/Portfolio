@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/a26b71abae06461bba5e79bc46e6207b/artifacts
+end_time: 1718822565896
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: a26b71abae06461bba5e79bc46e6207b
+run_name: dazzling-stag-172
+run_uuid: a26b71abae06461bba5e79bc46e6207b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822565848
+status: 3
+tags: []
+user_id: grzegorznaporowski

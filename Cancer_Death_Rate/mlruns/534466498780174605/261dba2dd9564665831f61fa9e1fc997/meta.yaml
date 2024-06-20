@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/261dba2dd9564665831f61fa9e1fc997/artifacts
+deleted_time: 1718823584480
+end_time: 1718823317046
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 261dba2dd9564665831f61fa9e1fc997
+run_name: stylish-hawk-89
+run_uuid: 261dba2dd9564665831f61fa9e1fc997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823316987
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/8db72c2c517d446b9f6f0da7ce48018a/artifacts
+deleted_time: 1718902113964
 end_time: 1718622968956
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8db72c2c517d446b9f6f0da7ce48018a
 run_name: resilient-swan-391
 run_uuid: 8db72c2c517d446b9f6f0da7ce48018a

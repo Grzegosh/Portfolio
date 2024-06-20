@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/79cf426ed3ac42078954463660a3f6ff/artifacts
+deleted_time: 1718902113936
 end_time: 1718622970833
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 79cf426ed3ac42078954463660a3f6ff
 run_name: caring-wolf-237
 run_uuid: 79cf426ed3ac42078954463660a3f6ff

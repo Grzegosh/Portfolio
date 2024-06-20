@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/3040292c23fd4a61948dcc80912f5a3b/artifacts
+deleted_time: 1718903430092
+end_time: 1718903279906
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 3040292c23fd4a61948dcc80912f5a3b
+run_name: amusing-mink-878
+run_uuid: 3040292c23fd4a61948dcc80912f5a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903279877
+status: 3
+tags: []
+user_id: grzegorznaporowski

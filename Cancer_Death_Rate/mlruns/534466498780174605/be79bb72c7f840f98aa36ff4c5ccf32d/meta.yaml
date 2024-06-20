@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/be79bb72c7f840f98aa36ff4c5ccf32d/artifacts
+deleted_time: 1718823584506
+end_time: 1718823281101
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: be79bb72c7f840f98aa36ff4c5ccf32d
+run_name: smiling-crane-767
+run_uuid: be79bb72c7f840f98aa36ff4c5ccf32d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823281048
+status: 3
+tags: []
+user_id: grzegorznaporowski

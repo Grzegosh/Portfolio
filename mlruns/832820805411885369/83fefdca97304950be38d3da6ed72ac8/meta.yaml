@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/83fefdca97304950be38d3da6ed72ac8/artifacts
+deleted_time: 1718902102981
 end_time: 1718623392712
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 83fefdca97304950be38d3da6ed72ac8
 run_name: inquisitive-fawn-741
 run_uuid: 83fefdca97304950be38d3da6ed72ac8

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/fa4e4097fa3c46a5bdc68c0cb51297a5/artifacts
+deleted_time: 1718823584482
+end_time: 1718823314811
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: fa4e4097fa3c46a5bdc68c0cb51297a5
+run_name: adorable-hog-897
+run_uuid: fa4e4097fa3c46a5bdc68c0cb51297a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823314761
+status: 3
+tags: []
+user_id: grzegorznaporowski

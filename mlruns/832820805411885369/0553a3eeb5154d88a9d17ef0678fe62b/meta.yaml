@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/0553a3eeb5154d88a9d17ef0678fe62b/artifacts
+deleted_time: 1718902103061
 end_time: 1718623386568
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0553a3eeb5154d88a9d17ef0678fe62b
 run_name: luxuriant-zebra-254
 run_uuid: 0553a3eeb5154d88a9d17ef0678fe62b

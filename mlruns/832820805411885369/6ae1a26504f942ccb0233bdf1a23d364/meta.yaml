@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/6ae1a26504f942ccb0233bdf1a23d364/artifacts
+deleted_time: 1718902103018
 end_time: 1718623389878
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6ae1a26504f942ccb0233bdf1a23d364
 run_name: orderly-sponge-342
 run_uuid: 6ae1a26504f942ccb0233bdf1a23d364

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/9cddceaa586242149c1b86cd1f1e6f01/artifacts
+deleted_time: 1718822135788
+end_time: 1718813490340
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 9cddceaa586242149c1b86cd1f1e6f01
+run_name: tasteful-skink-58
+run_uuid: 9cddceaa586242149c1b86cd1f1e6f01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813490309
+status: 3
+tags: []
+user_id: grzegorznaporowski

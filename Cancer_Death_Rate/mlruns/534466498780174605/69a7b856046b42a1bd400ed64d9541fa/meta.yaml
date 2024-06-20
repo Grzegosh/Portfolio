@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/69a7b856046b42a1bd400ed64d9541fa/artifacts
+deleted_time: 1718822135791
+end_time: 1718813397105
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 69a7b856046b42a1bd400ed64d9541fa
+run_name: receptive-wolf-470
+run_uuid: 69a7b856046b42a1bd400ed64d9541fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813397064
+status: 3
+tags: []
+user_id: grzegorznaporowski

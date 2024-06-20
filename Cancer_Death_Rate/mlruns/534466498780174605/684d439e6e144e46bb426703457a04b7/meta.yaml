@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/684d439e6e144e46bb426703457a04b7/artifacts
+end_time: 1718823226663
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 684d439e6e144e46bb426703457a04b7
+run_name: nebulous-shad-746
+run_uuid: 684d439e6e144e46bb426703457a04b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823226613
+status: 3
+tags: []
+user_id: grzegorznaporowski

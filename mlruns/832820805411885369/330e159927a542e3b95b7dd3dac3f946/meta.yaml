@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/330e159927a542e3b95b7dd3dac3f946/artifacts
+deleted_time: 1718902103005
 end_time: 1718623390813
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 330e159927a542e3b95b7dd3dac3f946
 run_name: chill-mare-641
 run_uuid: 330e159927a542e3b95b7dd3dac3f946

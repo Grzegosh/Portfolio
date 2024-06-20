@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/b971a07603a3499193c83cfbbcbaaaf3/artifacts
+deleted_time: 1718902364867
+end_time: 1718902184968
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: b971a07603a3499193c83cfbbcbaaaf3
+run_name: resilient-croc-343
+run_uuid: b971a07603a3499193c83cfbbcbaaaf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902184938
+status: 3
+tags: []
+user_id: grzegorznaporowski

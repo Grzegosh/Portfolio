@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/5d141b3aa00240988546a756a7ff16a5/artifacts
+deleted_time: 1718902113904
 end_time: 1718622972035
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5d141b3aa00240988546a756a7ff16a5
 run_name: rare-hog-84
 run_uuid: 5d141b3aa00240988546a756a7ff16a5

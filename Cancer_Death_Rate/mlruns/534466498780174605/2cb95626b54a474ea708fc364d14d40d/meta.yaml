@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/2cb95626b54a474ea708fc364d14d40d/artifacts
+deleted_time: 1718823584426
+end_time: 1718823440880
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 2cb95626b54a474ea708fc364d14d40d
+run_name: kindly-sheep-137
+run_uuid: 2cb95626b54a474ea708fc364d14d40d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823440821
+status: 3
+tags: []
+user_id: grzegorznaporowski

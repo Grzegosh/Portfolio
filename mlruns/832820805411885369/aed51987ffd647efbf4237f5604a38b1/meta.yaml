@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/aed51987ffd647efbf4237f5604a38b1/artifacts
+deleted_time: 1718902103060
 end_time: 1718623386670
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: aed51987ffd647efbf4237f5604a38b1
 run_name: fearless-duck-539
 run_uuid: aed51987ffd647efbf4237f5604a38b1

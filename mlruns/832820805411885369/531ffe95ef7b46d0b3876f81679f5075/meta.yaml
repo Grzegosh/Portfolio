@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/531ffe95ef7b46d0b3876f81679f5075/artifacts
+deleted_time: 1718902103007
 end_time: 1718623390727
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 531ffe95ef7b46d0b3876f81679f5075
 run_name: hilarious-midge-966
 run_uuid: 531ffe95ef7b46d0b3876f81679f5075

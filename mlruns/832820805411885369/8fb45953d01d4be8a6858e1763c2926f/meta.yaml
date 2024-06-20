@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/8fb45953d01d4be8a6858e1763c2926f/artifacts
+deleted_time: 1718902103042
 end_time: 1718623387907
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8fb45953d01d4be8a6858e1763c2926f
 run_name: abrasive-hen-327
 run_uuid: 8fb45953d01d4be8a6858e1763c2926f

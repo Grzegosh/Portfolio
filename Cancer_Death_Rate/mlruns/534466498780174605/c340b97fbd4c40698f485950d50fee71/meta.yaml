@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/c340b97fbd4c40698f485950d50fee71/artifacts
+end_time: 1718822536977
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: c340b97fbd4c40698f485950d50fee71
+run_name: rare-eel-376
+run_uuid: c340b97fbd4c40698f485950d50fee71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822536915
+status: 3
+tags: []
+user_id: grzegorznaporowski

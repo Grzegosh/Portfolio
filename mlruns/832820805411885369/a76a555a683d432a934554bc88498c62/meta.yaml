@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/a76a555a683d432a934554bc88498c62/artifacts
+deleted_time: 1718902103054
 end_time: 1718623387210
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a76a555a683d432a934554bc88498c62
 run_name: rare-hare-711
 run_uuid: a76a555a683d432a934554bc88498c62

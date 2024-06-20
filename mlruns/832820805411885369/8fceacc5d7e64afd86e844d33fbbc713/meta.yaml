@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/8fceacc5d7e64afd86e844d33fbbc713/artifacts
+deleted_time: 1718902113961
 end_time: 1718622968995
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8fceacc5d7e64afd86e844d33fbbc713
 run_name: bald-squid-579
 run_uuid: 8fceacc5d7e64afd86e844d33fbbc713

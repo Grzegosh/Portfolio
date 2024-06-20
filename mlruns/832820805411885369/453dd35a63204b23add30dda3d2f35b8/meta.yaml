@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/453dd35a63204b23add30dda3d2f35b8/artifacts
+deleted_time: 1718902113976
 end_time: 1718622962702
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 453dd35a63204b23add30dda3d2f35b8
 run_name: upbeat-boar-208
 run_uuid: 453dd35a63204b23add30dda3d2f35b8

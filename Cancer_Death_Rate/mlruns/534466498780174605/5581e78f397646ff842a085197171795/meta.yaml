@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/5581e78f397646ff842a085197171795/artifacts
+end_time: 1718822572022
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 5581e78f397646ff842a085197171795
+run_name: gaudy-gull-532
+run_uuid: 5581e78f397646ff842a085197171795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822571975
+status: 3
+tags: []
+user_id: grzegorznaporowski

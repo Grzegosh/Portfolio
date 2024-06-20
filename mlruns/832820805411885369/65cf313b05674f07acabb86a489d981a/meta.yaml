@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/65cf313b05674f07acabb86a489d981a/artifacts
+deleted_time: 1718902113913
 end_time: 1718622971742
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 65cf313b05674f07acabb86a489d981a
 run_name: bittersweet-midge-74
 run_uuid: 65cf313b05674f07acabb86a489d981a

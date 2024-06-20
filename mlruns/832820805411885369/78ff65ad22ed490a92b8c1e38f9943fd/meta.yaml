@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/78ff65ad22ed490a92b8c1e38f9943fd/artifacts
+deleted_time: 1718902102991
 end_time: 1718623391838
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 78ff65ad22ed490a92b8c1e38f9943fd
 run_name: amusing-wren-386
 run_uuid: 78ff65ad22ed490a92b8c1e38f9943fd

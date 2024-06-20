@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/a34b1cdd68fc45289a78c48ccceba76d/artifacts
+deleted_time: 1718902103040
 end_time: 1718623388111
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a34b1cdd68fc45289a78c48ccceba76d
 run_name: legendary-kit-364
 run_uuid: a34b1cdd68fc45289a78c48ccceba76d

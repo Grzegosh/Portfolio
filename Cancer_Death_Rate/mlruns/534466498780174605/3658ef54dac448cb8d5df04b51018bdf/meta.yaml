@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/3658ef54dac448cb8d5df04b51018bdf/artifacts
+end_time: 1718822419966
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 3658ef54dac448cb8d5df04b51018bdf
+run_name: bemused-hen-539
+run_uuid: 3658ef54dac448cb8d5df04b51018bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822419905
+status: 3
+tags: []
+user_id: grzegorznaporowski

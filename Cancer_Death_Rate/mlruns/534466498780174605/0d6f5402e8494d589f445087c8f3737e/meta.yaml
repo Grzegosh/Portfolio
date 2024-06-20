@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/0d6f5402e8494d589f445087c8f3737e/artifacts
+end_time: 1718823221921
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 0d6f5402e8494d589f445087c8f3737e
+run_name: caring-eel-251
+run_uuid: 0d6f5402e8494d589f445087c8f3737e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823221869
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/bbfb29006206416b859c9a170d81d5ef/artifacts
+deleted_time: 1718903430089
+end_time: 1718903272827
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: bbfb29006206416b859c9a170d81d5ef
+run_name: stately-flea-1000
+run_uuid: bbfb29006206416b859c9a170d81d5ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903272796
+status: 3
+tags: []
+user_id: grzegorznaporowski

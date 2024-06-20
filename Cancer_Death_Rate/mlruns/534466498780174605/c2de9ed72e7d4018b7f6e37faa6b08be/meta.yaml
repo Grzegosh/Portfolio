@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/c2de9ed72e7d4018b7f6e37faa6b08be/artifacts
+deleted_time: 1718823584503
+end_time: 1718823304181
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: c2de9ed72e7d4018b7f6e37faa6b08be
+run_name: handsome-cow-505
+run_uuid: c2de9ed72e7d4018b7f6e37faa6b08be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823304133
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/b10cc4ecb800488e821f74b604959527/artifacts
+end_time: 1718823225873
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: b10cc4ecb800488e821f74b604959527
+run_name: aged-bass-769
+run_uuid: b10cc4ecb800488e821f74b604959527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823225823
+status: 3
+tags: []
+user_id: grzegorznaporowski

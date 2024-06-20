@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ea32217c513446a4b2f6109780b4220b/artifacts
+end_time: 1718903506076
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: ea32217c513446a4b2f6109780b4220b
+run_name: skillful-snake-915
+run_uuid: ea32217c513446a4b2f6109780b4220b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903506045
+status: 3
+tags: []
+user_id: grzegorznaporowski

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/740bf85addda4ce38b18081cb90c4a6f/artifacts
+deleted_time: 1718902102976
 end_time: 1718623393336
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 740bf85addda4ce38b18081cb90c4a6f
 run_name: rebellious-ram-354
 run_uuid: 740bf85addda4ce38b18081cb90c4a6f

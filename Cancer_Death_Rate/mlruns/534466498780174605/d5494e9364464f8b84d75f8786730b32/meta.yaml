@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/d5494e9364464f8b84d75f8786730b32/artifacts
+deleted_time: 1718823584489
+end_time: 1718823310620
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: d5494e9364464f8b84d75f8786730b32
+run_name: dapper-mule-24
+run_uuid: d5494e9364464f8b84d75f8786730b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823310561
+status: 3
+tags: []
+user_id: grzegorznaporowski

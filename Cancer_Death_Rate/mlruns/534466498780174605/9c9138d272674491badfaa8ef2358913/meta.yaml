@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/9c9138d272674491badfaa8ef2358913/artifacts
+end_time: 1718822536738
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 9c9138d272674491badfaa8ef2358913
+run_name: upset-jay-905
+run_uuid: 9c9138d272674491badfaa8ef2358913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822536694
+status: 3
+tags: []
+user_id: grzegorznaporowski

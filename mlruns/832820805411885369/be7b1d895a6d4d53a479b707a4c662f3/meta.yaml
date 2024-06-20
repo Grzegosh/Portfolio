@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/be7b1d895a6d4d53a479b707a4c662f3/artifacts
+deleted_time: 1718902113985
 end_time: 1718622948436
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: be7b1d895a6d4d53a479b707a4c662f3
 run_name: crawling-bee-91
 run_uuid: be7b1d895a6d4d53a479b707a4c662f3

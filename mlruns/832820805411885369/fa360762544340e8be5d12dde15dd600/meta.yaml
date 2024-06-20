@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/fa360762544340e8be5d12dde15dd600/artifacts
+deleted_time: 1718902102986
 end_time: 1718623392483
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fa360762544340e8be5d12dde15dd600
 run_name: gentle-ox-563
 run_uuid: fa360762544340e8be5d12dde15dd600

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/748b797ca7814e1095a267cd7f3454d2/artifacts
+deleted_time: 1718902103034
 end_time: 1718623388657
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 748b797ca7814e1095a267cd7f3454d2
 run_name: thoughtful-fish-361
 run_uuid: 748b797ca7814e1095a267cd7f3454d2

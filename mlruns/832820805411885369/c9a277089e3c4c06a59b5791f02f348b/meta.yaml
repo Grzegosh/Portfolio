@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/c9a277089e3c4c06a59b5791f02f348b/artifacts
+deleted_time: 1718902102980
 end_time: 1718623392754
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c9a277089e3c4c06a59b5791f02f348b
 run_name: bright-colt-634
 run_uuid: c9a277089e3c4c06a59b5791f02f348b

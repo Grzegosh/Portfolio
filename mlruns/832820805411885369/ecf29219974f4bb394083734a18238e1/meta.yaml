@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ecf29219974f4bb394083734a18238e1/artifacts
+deleted_time: 1718902102961
+end_time: 1718902072966
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ecf29219974f4bb394083734a18238e1
+run_name: gregarious-flea-223
+run_uuid: ecf29219974f4bb394083734a18238e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902072920
+status: 3
+tags: []
+user_id: grzegorznaporowski

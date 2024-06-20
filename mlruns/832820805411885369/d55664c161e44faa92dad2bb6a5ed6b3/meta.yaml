@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/d55664c161e44faa92dad2bb6a5ed6b3/artifacts
+deleted_time: 1718902113949
 end_time: 1718622970176
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d55664c161e44faa92dad2bb6a5ed6b3
 run_name: bouncy-kit-534
 run_uuid: d55664c161e44faa92dad2bb6a5ed6b3

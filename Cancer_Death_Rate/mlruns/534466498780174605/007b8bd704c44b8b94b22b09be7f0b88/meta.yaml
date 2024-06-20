@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/007b8bd704c44b8b94b22b09be7f0b88/artifacts
+deleted_time: 1718823584450
+end_time: 1718823361809
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 007b8bd704c44b8b94b22b09be7f0b88
+run_name: dapper-stork-399
+run_uuid: 007b8bd704c44b8b94b22b09be7f0b88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823361755
+status: 3
+tags: []
+user_id: grzegorznaporowski

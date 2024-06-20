@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/85c2ca34c2604839b377811fa04d473f/artifacts
+deleted_time: 1718902113913
 end_time: 1718622971701
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 85c2ca34c2604839b377811fa04d473f
 run_name: vaunted-hound-118
 run_uuid: 85c2ca34c2604839b377811fa04d473f

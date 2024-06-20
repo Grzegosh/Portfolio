@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/98d9d48908e24f8db1950814f27c3584/artifacts
+end_time: 1718822403106
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 98d9d48908e24f8db1950814f27c3584
+run_name: hilarious-bat-775
+run_uuid: 98d9d48908e24f8db1950814f27c3584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822403070
+status: 3
+tags: []
+user_id: grzegorznaporowski

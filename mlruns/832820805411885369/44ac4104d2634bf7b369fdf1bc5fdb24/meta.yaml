@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/44ac4104d2634bf7b369fdf1bc5fdb24/artifacts
+deleted_time: 1718902103009
 end_time: 1718623390642
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 44ac4104d2634bf7b369fdf1bc5fdb24
 run_name: overjoyed-gull-586
 run_uuid: 44ac4104d2634bf7b369fdf1bc5fdb24

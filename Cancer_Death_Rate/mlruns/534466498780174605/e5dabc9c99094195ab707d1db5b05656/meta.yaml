@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/e5dabc9c99094195ab707d1db5b05656/artifacts
+deleted_time: 1718822135775
+end_time: 1718813507432
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: e5dabc9c99094195ab707d1db5b05656
+run_name: youthful-tern-754
+run_uuid: e5dabc9c99094195ab707d1db5b05656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813507389
+status: 3
+tags: []
+user_id: grzegorznaporowski

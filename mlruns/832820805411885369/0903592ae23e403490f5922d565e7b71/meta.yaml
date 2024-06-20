@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/0903592ae23e403490f5922d565e7b71/artifacts
+deleted_time: 1718902113953
 end_time: 1718622969923
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0903592ae23e403490f5922d565e7b71
 run_name: upset-wasp-255
 run_uuid: 0903592ae23e403490f5922d565e7b71

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/9c487552b9814d42ab0926fdf5e4f4cf/artifacts
+deleted_time: 1718902113932
 end_time: 1718622970992
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9c487552b9814d42ab0926fdf5e4f4cf
 run_name: overjoyed-hare-180
 run_uuid: 9c487552b9814d42ab0926fdf5e4f4cf

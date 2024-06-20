@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/d529610949924404924ea462b68b997c/artifacts
+end_time: 1718823272790
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: d529610949924404924ea462b68b997c
+run_name: amusing-croc-578
+run_uuid: d529610949924404924ea462b68b997c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823272740
+status: 3
+tags: []
+user_id: grzegorznaporowski

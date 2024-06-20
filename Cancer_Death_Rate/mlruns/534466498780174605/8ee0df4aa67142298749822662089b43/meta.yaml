@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/8ee0df4aa67142298749822662089b43/artifacts
+deleted_time: 1718823584485
+end_time: 1718823313490
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 8ee0df4aa67142298749822662089b43
+run_name: intelligent-gnu-881
+run_uuid: 8ee0df4aa67142298749822662089b43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823313441
+status: 3
+tags: []
+user_id: grzegorznaporowski

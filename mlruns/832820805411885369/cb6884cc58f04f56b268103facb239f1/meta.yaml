@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/cb6884cc58f04f56b268103facb239f1/artifacts
+deleted_time: 1718902943635
+end_time: 1718902905039
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: cb6884cc58f04f56b268103facb239f1
+run_name: stately-mare-245
+run_uuid: cb6884cc58f04f56b268103facb239f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902905007
+status: 3
+tags: []
+user_id: grzegorznaporowski

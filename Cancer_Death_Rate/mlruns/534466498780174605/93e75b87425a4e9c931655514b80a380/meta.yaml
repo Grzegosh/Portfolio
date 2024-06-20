@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/93e75b87425a4e9c931655514b80a380/artifacts
+deleted_time: 1718822135773
+end_time: 1718813508100
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 93e75b87425a4e9c931655514b80a380
+run_name: luminous-croc-503
+run_uuid: 93e75b87425a4e9c931655514b80a380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813508059
+status: 3
+tags: []
+user_id: grzegorznaporowski

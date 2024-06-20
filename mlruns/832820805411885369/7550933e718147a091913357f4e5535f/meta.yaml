@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7550933e718147a091913357f4e5535f/artifacts
+deleted_time: 1718902155979
+end_time: 1718902137323
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7550933e718147a091913357f4e5535f
+run_name: victorious-skink-218
+run_uuid: 7550933e718147a091913357f4e5535f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902137277
+status: 3
+tags: []
+user_id: grzegorznaporowski

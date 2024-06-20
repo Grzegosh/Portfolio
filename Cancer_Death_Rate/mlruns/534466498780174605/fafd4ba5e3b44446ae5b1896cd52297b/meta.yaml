@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/fafd4ba5e3b44446ae5b1896cd52297b/artifacts
+deleted_time: 1718823584477
+end_time: 1718823317820
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: fafd4ba5e3b44446ae5b1896cd52297b
+run_name: unleashed-hen-745
+run_uuid: fafd4ba5e3b44446ae5b1896cd52297b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823317766
+status: 3
+tags: []
+user_id: grzegorznaporowski

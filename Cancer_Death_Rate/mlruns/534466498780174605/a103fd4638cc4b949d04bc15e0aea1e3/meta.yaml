@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/a103fd4638cc4b949d04bc15e0aea1e3/artifacts
+end_time: 1718822455144
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: a103fd4638cc4b949d04bc15e0aea1e3
+run_name: sincere-elk-843
+run_uuid: a103fd4638cc4b949d04bc15e0aea1e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822455102
+status: 3
+tags: []
+user_id: grzegorznaporowski

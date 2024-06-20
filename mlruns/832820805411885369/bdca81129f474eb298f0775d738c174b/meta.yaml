@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/bdca81129f474eb298f0775d738c174b/artifacts
+deleted_time: 1718902113936
 end_time: 1718622970873
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bdca81129f474eb298f0775d738c174b
 run_name: bedecked-goat-961
 run_uuid: bdca81129f474eb298f0775d738c174b

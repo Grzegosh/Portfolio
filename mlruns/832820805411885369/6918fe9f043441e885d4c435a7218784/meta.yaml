@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/6918fe9f043441e885d4c435a7218784/artifacts
+deleted_time: 1718902103063
 end_time: 1718622972098
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6918fe9f043441e885d4c435a7218784
 run_name: zealous-pig-506
 run_uuid: 6918fe9f043441e885d4c435a7218784

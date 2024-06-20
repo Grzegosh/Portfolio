@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/f61f9fcbbdec450aa748c42b81156696/artifacts
+deleted_time: 1718902113905
 end_time: 1718622971899
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f61f9fcbbdec450aa748c42b81156696
 run_name: dazzling-crow-667
 run_uuid: f61f9fcbbdec450aa748c42b81156696

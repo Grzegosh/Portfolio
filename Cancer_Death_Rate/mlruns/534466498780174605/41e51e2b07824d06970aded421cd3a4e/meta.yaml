@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/41e51e2b07824d06970aded421cd3a4e/artifacts
+end_time: 1718822558384
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 41e51e2b07824d06970aded421cd3a4e
+run_name: industrious-mink-1
+run_uuid: 41e51e2b07824d06970aded421cd3a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822558333
+status: 3
+tags: []
+user_id: grzegorznaporowski

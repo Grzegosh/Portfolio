@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/afe38565928d44c78a5785c46ed32f68/artifacts
+deleted_time: 1718903215091
+end_time: 1718903180669
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: afe38565928d44c78a5785c46ed32f68
+run_name: masked-hare-327
+run_uuid: afe38565928d44c78a5785c46ed32f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903180640
+status: 3
+tags: []
+user_id: grzegorznaporowski

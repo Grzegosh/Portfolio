@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/657a0d6961ec4919a913b42b3f0f39f4/artifacts
+deleted_time: 1718902113935
 end_time: 1718622970912
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 657a0d6961ec4919a913b42b3f0f39f4
 run_name: awesome-sloth-357
 run_uuid: 657a0d6961ec4919a913b42b3f0f39f4

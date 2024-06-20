@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/61b804cab60e481090e652e77148d14f/artifacts
+deleted_time: 1718902103052
 end_time: 1718623387277
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 61b804cab60e481090e652e77148d14f
 run_name: rebellious-rat-795
 run_uuid: 61b804cab60e481090e652e77148d14f

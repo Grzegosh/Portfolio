@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/6900caf784774ace8ead2bb1d6d02f5b/artifacts
+deleted_time: 1718902102999
 end_time: 1718623391570
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6900caf784774ace8ead2bb1d6d02f5b
 run_name: sassy-seal-911
 run_uuid: 6900caf784774ace8ead2bb1d6d02f5b

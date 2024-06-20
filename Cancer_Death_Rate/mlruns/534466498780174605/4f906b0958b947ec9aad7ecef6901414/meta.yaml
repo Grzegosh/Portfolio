@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/4f906b0958b947ec9aad7ecef6901414/artifacts
+deleted_time: 1718823584477
+end_time: 1718823318411
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 4f906b0958b947ec9aad7ecef6901414
+run_name: skittish-gull-119
+run_uuid: 4f906b0958b947ec9aad7ecef6901414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823318349
+status: 3
+tags: []
+user_id: grzegorznaporowski

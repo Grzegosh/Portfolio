@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/e1e5818e2f7846d5a2675880f018f8b8/artifacts
+deleted_time: 1718903165907
+end_time: 1718903132366
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: e1e5818e2f7846d5a2675880f018f8b8
+run_name: efficient-yak-422
+run_uuid: e1e5818e2f7846d5a2675880f018f8b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718903132331
+status: 3
+tags: []
+user_id: grzegorznaporowski

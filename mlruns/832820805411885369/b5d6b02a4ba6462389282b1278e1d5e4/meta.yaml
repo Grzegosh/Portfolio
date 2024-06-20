@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/b5d6b02a4ba6462389282b1278e1d5e4/artifacts
+deleted_time: 1718902102977
 end_time: 1718623393065
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b5d6b02a4ba6462389282b1278e1d5e4
 run_name: loud-carp-425
 run_uuid: b5d6b02a4ba6462389282b1278e1d5e4

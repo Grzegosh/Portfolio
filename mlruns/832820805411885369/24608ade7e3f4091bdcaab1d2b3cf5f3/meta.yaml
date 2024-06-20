@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/24608ade7e3f4091bdcaab1d2b3cf5f3/artifacts
+deleted_time: 1718902103026
 end_time: 1718623389083
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 24608ade7e3f4091bdcaab1d2b3cf5f3
 run_name: invincible-ram-576
 run_uuid: 24608ade7e3f4091bdcaab1d2b3cf5f3

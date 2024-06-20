@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/dfa8253ba63047d08a2294f242847737/artifacts
+end_time: 1718822651227
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: dfa8253ba63047d08a2294f242847737
+run_name: unruly-ape-257
+run_uuid: dfa8253ba63047d08a2294f242847737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822651153
+status: 3
+tags: []
+user_id: grzegorznaporowski

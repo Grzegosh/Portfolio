@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/4d2f6949633746a4ae7936a0a70580e7/artifacts
+end_time: 1718822558921
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 4d2f6949633746a4ae7936a0a70580e7
+run_name: monumental-whale-825
+run_uuid: 4d2f6949633746a4ae7936a0a70580e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822558833
+status: 3
+tags: []
+user_id: grzegorznaporowski

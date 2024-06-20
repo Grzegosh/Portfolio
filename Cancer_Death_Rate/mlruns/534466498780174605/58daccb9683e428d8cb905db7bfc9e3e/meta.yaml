@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/58daccb9683e428d8cb905db7bfc9e3e/artifacts
+end_time: 1718823266622
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 58daccb9683e428d8cb905db7bfc9e3e
+run_name: gifted-wasp-369
+run_uuid: 58daccb9683e428d8cb905db7bfc9e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823266560
+status: 3
+tags: []
+user_id: grzegorznaporowski

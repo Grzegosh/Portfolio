@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/f2646877f1504706b75c7fe629967f3e/artifacts
+deleted_time: 1718902102972
 end_time: 1718623393468
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f2646877f1504706b75c7fe629967f3e
 run_name: enchanting-steed-672
 run_uuid: f2646877f1504706b75c7fe629967f3e

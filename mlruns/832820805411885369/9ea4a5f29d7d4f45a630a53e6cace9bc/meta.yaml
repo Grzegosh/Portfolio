@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/9ea4a5f29d7d4f45a630a53e6cace9bc/artifacts
+deleted_time: 1718902103050
 end_time: 1718623387651
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9ea4a5f29d7d4f45a630a53e6cace9bc
 run_name: omniscient-flea-142
 run_uuid: 9ea4a5f29d7d4f45a630a53e6cace9bc

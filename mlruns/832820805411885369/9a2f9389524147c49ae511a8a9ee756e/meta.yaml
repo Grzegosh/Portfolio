@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/9a2f9389524147c49ae511a8a9ee756e/artifacts
+deleted_time: 1718902103016
 end_time: 1718623390081
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9a2f9389524147c49ae511a8a9ee756e
 run_name: capable-stork-315
 run_uuid: 9a2f9389524147c49ae511a8a9ee756e

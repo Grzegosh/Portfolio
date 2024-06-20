@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/e4085e5e27634ebdae4ba9872e5e7dec/artifacts
+deleted_time: 1718902103051
 end_time: 1718623387585
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e4085e5e27634ebdae4ba9872e5e7dec
 run_name: amazing-bird-789
 run_uuid: e4085e5e27634ebdae4ba9872e5e7dec

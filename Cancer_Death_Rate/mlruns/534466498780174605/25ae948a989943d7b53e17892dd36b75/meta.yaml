@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/25ae948a989943d7b53e17892dd36b75/artifacts
+deleted_time: 1718822135782
+end_time: 1718813491447
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 25ae948a989943d7b53e17892dd36b75
+run_name: defiant-crab-560
+run_uuid: 25ae948a989943d7b53e17892dd36b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813491408
+status: 3
+tags: []
+user_id: grzegorznaporowski

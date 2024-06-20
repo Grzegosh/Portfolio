@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/8b3c63a4aa7d41d6a6de8f0b2db2d45b/artifacts
+deleted_time: 1718902113973
 end_time: 1718622962784
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8b3c63a4aa7d41d6a6de8f0b2db2d45b
 run_name: tasteful-conch-774
 run_uuid: 8b3c63a4aa7d41d6a6de8f0b2db2d45b

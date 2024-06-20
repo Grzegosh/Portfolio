@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/806eec5ff57b48bd9775589b236b9f9b/artifacts
+deleted_time: 1718902113945
 end_time: 1718622970257
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 806eec5ff57b48bd9775589b236b9f9b
 run_name: unequaled-grouse-806
 run_uuid: 806eec5ff57b48bd9775589b236b9f9b

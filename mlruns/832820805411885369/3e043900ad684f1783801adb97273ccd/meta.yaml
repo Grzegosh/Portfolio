@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/3e043900ad684f1783801adb97273ccd/artifacts
+deleted_time: 1718902103004
 end_time: 1718623391073
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3e043900ad684f1783801adb97273ccd
 run_name: unleashed-crow-108
 run_uuid: 3e043900ad684f1783801adb97273ccd

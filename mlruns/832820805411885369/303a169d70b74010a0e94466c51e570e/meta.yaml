@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/303a169d70b74010a0e94466c51e570e/artifacts
+deleted_time: 1718902113941
 end_time: 1718622970538
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 303a169d70b74010a0e94466c51e570e
 run_name: inquisitive-pug-659
 run_uuid: 303a169d70b74010a0e94466c51e570e

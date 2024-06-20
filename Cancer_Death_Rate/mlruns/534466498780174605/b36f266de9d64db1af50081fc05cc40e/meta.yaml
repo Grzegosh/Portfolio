@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/b36f266de9d64db1af50081fc05cc40e/artifacts
+end_time: 1718822420290
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: b36f266de9d64db1af50081fc05cc40e
+run_name: nebulous-roo-297
+run_uuid: b36f266de9d64db1af50081fc05cc40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822420221
+status: 3
+tags: []
+user_id: grzegorznaporowski

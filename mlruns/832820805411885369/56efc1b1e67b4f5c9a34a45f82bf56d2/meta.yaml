@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/56efc1b1e67b4f5c9a34a45f82bf56d2/artifacts
+deleted_time: 1718902103026
 end_time: 1718623389020
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 56efc1b1e67b4f5c9a34a45f82bf56d2
 run_name: zealous-kit-254
 run_uuid: 56efc1b1e67b4f5c9a34a45f82bf56d2

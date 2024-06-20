@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/c45e920bda0a49d48fd0d6e5769fdc12/artifacts
+deleted_time: 1718823584420
+end_time: 1718823442022
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: c45e920bda0a49d48fd0d6e5769fdc12
+run_name: likeable-grub-400
+run_uuid: c45e920bda0a49d48fd0d6e5769fdc12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823441965
+status: 3
+tags: []
+user_id: grzegorznaporowski

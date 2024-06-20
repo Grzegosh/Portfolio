@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/68a2bdf3211b408fb372a91f330e1218/artifacts
+deleted_time: 1718823584487
+end_time: 1718823312007
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 68a2bdf3211b408fb372a91f330e1218
+run_name: nervous-mare-472
+run_uuid: 68a2bdf3211b408fb372a91f330e1218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823311955
+status: 3
+tags: []
+user_id: grzegorznaporowski

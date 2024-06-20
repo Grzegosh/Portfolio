@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/2d9fdd72654f49d0b001823e32b5e9db/artifacts
+deleted_time: 1718902113921
 end_time: 1718622971500
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2d9fdd72654f49d0b001823e32b5e9db
 run_name: upbeat-rook-577
 run_uuid: 2d9fdd72654f49d0b001823e32b5e9db

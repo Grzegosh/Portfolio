@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/49bee9aa551f46dba5bd2c3ac257ebb5/artifacts
+deleted_time: 1718823584487
+end_time: 1718823312767
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 49bee9aa551f46dba5bd2c3ac257ebb5
+run_name: glamorous-midge-686
+run_uuid: 49bee9aa551f46dba5bd2c3ac257ebb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823312709
+status: 3
+tags: []
+user_id: grzegorznaporowski

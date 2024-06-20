@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/6193a53d773648e8987bae8461eb2a0c/artifacts
+deleted_time: 1718902113989
 end_time: 1718622948396
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6193a53d773648e8987bae8461eb2a0c
 run_name: abundant-robin-352
 run_uuid: 6193a53d773648e8987bae8461eb2a0c

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/ea6d97c4558d4254b01ba97038561e2f/artifacts
+deleted_time: 1718902113951
 end_time: 1718622970095
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ea6d97c4558d4254b01ba97038561e2f
 run_name: resilient-pig-702
 run_uuid: ea6d97c4558d4254b01ba97038561e2f

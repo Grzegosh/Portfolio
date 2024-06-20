@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/85ddbe4b3ec74f86bad489f3678fb17b/artifacts
+deleted_time: 1718823584490
+end_time: 1718823309885
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 85ddbe4b3ec74f86bad489f3678fb17b
+run_name: thundering-snail-612
+run_uuid: 85ddbe4b3ec74f86bad489f3678fb17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823309830
+status: 3
+tags: []
+user_id: grzegorznaporowski

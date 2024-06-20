@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/bc3bbe6a93404b03a735ce56b870aba9/artifacts
+deleted_time: 1718902102990
 end_time: 1718623392147
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bc3bbe6a93404b03a735ce56b870aba9
 run_name: glamorous-wasp-207
 run_uuid: bc3bbe6a93404b03a735ce56b870aba9

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/44a4ca5e06e14260a8abf02fb0b3d424/artifacts
+deleted_time: 1718813372506
+end_time: 1718813340413
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: 44a4ca5e06e14260a8abf02fb0b3d424
+run_name: lyrical-rat-40
+run_uuid: 44a4ca5e06e14260a8abf02fb0b3d424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718813340373
+status: 3
+tags: []
+user_id: grzegorznaporowski

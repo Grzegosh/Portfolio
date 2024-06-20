@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/9ffc07beb1e5437180e98a944357ae85/artifacts
+deleted_time: 1718902113927
 end_time: 1718622971171
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9ffc07beb1e5437180e98a944357ae85
 run_name: redolent-smelt-674
 run_uuid: 9ffc07beb1e5437180e98a944357ae85

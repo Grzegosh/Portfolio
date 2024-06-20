@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/e5f7c20c27894afcb297175a14ab0869/artifacts
+deleted_time: 1718902113965
 end_time: 1718622968801
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e5f7c20c27894afcb297175a14ab0869
 run_name: lyrical-carp-546
 run_uuid: e5f7c20c27894afcb297175a14ab0869

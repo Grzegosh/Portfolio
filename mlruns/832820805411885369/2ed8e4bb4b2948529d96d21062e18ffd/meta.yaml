@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/2ed8e4bb4b2948529d96d21062e18ffd/artifacts
+deleted_time: 1718902102988
 end_time: 1718623392211
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2ed8e4bb4b2948529d96d21062e18ffd
 run_name: amazing-sponge-682
 run_uuid: 2ed8e4bb4b2948529d96d21062e18ffd

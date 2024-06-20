@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/3b105a6277be4c6ab9a0312d23509541/artifacts
+deleted_time: 1718902113917
 end_time: 1718622971621
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3b105a6277be4c6ab9a0312d23509541
 run_name: capricious-shark-993
 run_uuid: 3b105a6277be4c6ab9a0312d23509541

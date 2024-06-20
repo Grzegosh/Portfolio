@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/2d4075e24aef4227b81b8c86c4f91b32/artifacts
+deleted_time: 1718902113981
 end_time: 1718622962423
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2d4075e24aef4227b81b8c86c4f91b32
 run_name: caring-fly-689
 run_uuid: 2d4075e24aef4227b81b8c86c4f91b32

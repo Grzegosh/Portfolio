@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/e5ba3324d0334b66bd14a7a7797aa97b/artifacts
+deleted_time: 1718823584437
+end_time: 1718823430582
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: deleted
+run_id: e5ba3324d0334b66bd14a7a7797aa97b
+run_name: bouncy-yak-648
+run_uuid: e5ba3324d0334b66bd14a7a7797aa97b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718823430499
+status: 3
+tags: []
+user_id: grzegorznaporowski

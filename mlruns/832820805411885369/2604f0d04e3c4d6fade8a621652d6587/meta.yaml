@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/2604f0d04e3c4d6fade8a621652d6587/artifacts
+deleted_time: 1718902113952
 end_time: 1718622970055
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2604f0d04e3c4d6fade8a621652d6587
 run_name: aged-cub-585
 run_uuid: 2604f0d04e3c4d6fade8a621652d6587

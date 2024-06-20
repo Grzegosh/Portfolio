@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/6f3911d9f63a482089bdead8e9296894/artifacts
+deleted_time: 1718902155987
+end_time: 1718902136599
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 6f3911d9f63a482089bdead8e9296894
+run_name: fearless-perch-590
+run_uuid: 6f3911d9f63a482089bdead8e9296894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718902136567
+status: 3
+tags: []
+user_id: grzegorznaporowski

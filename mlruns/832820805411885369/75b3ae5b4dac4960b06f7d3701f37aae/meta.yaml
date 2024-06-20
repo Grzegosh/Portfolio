@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/75b3ae5b4dac4960b06f7d3701f37aae/artifacts
+deleted_time: 1718902102973
 end_time: 1718623393402
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 75b3ae5b4dac4960b06f7d3701f37aae
 run_name: persistent-kite-728
 run_uuid: 75b3ae5b4dac4960b06f7d3701f37aae

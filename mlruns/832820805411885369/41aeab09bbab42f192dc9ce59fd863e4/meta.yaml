@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/41aeab09bbab42f192dc9ce59fd863e4/artifacts
+deleted_time: 1718902113957
 end_time: 1718622969695
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 41aeab09bbab42f192dc9ce59fd863e4
 run_name: worried-bass-692
 run_uuid: 41aeab09bbab42f192dc9ce59fd863e4

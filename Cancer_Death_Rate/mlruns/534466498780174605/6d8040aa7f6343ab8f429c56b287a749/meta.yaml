@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534466498780174605/6d8040aa7f6343ab8f429c56b287a749/artifacts
+end_time: 1718822559261
+entry_point_name: ''
+experiment_id: '534466498780174605'
+lifecycle_stage: active
+run_id: 6d8040aa7f6343ab8f429c56b287a749
+run_name: upset-hawk-171
+run_uuid: 6d8040aa7f6343ab8f429c56b287a749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718822559192
+status: 3
+tags: []
+user_id: grzegorznaporowski
