@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c982e5463e32410facfc57068206ccd7/artifacts
+end_time: 1718961483640
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: c982e5463e32410facfc57068206ccd7
+run_name: melodic-gnu-818
+run_uuid: c982e5463e32410facfc57068206ccd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961483530
+status: 3
+tags: []
+user_id: gnaporowski

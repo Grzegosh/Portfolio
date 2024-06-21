@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2a9a0cc6d723481291aa5c451fa9106b/artifacts
+end_time: 1718961053520
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 2a9a0cc6d723481291aa5c451fa9106b
+run_name: omniscient-colt-22
+run_uuid: 2a9a0cc6d723481291aa5c451fa9106b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961053419
+status: 3
+tags: []
+user_id: gnaporowski

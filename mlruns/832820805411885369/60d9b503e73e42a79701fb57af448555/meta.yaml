@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/60d9b503e73e42a79701fb57af448555/artifacts
+end_time: 1718961367824
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 60d9b503e73e42a79701fb57af448555
+run_name: unique-skink-64
+run_uuid: 60d9b503e73e42a79701fb57af448555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961367686
+status: 3
+tags: []
+user_id: gnaporowski

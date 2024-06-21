@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/5d37502441cb46868158e39cd4972ebd/artifacts
+end_time: 1718961558015
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 5d37502441cb46868158e39cd4972ebd
+run_name: painted-moth-686
+run_uuid: 5d37502441cb46868158e39cd4972ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961557902
+status: 3
+tags: []
+user_id: gnaporowski

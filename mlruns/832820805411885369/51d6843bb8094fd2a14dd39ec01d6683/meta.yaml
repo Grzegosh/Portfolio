@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/51d6843bb8094fd2a14dd39ec01d6683/artifacts
+end_time: 1718961023640
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 51d6843bb8094fd2a14dd39ec01d6683
+run_name: amazing-smelt-363
+run_uuid: 51d6843bb8094fd2a14dd39ec01d6683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961023505
+status: 3
+tags: []
+user_id: gnaporowski

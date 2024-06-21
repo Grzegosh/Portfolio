@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/da4a8c7fa4ab4e63bdabc3a6d3732095/artifacts
+end_time: 1718958774448
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: da4a8c7fa4ab4e63bdabc3a6d3732095
+run_name: likeable-midge-356
+run_uuid: da4a8c7fa4ab4e63bdabc3a6d3732095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718958774358
+status: 3
+tags: []
+user_id: gnaporowski

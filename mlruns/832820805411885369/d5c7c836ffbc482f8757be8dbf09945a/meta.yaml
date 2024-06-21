@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/d5c7c836ffbc482f8757be8dbf09945a/artifacts
+end_time: 1718959983755
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: d5c7c836ffbc482f8757be8dbf09945a
+run_name: classy-dog-907
+run_uuid: d5c7c836ffbc482f8757be8dbf09945a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718959983583
+status: 3
+tags: []
+user_id: gnaporowski

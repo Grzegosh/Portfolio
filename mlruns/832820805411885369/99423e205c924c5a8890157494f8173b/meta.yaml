@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/99423e205c924c5a8890157494f8173b/artifacts
+end_time: 1718960785732
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 99423e205c924c5a8890157494f8173b
+run_name: unequaled-bird-474
+run_uuid: 99423e205c924c5a8890157494f8173b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718960785624
+status: 3
+tags: []
+user_id: gnaporowski

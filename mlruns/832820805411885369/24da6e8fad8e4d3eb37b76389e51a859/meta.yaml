@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/24da6e8fad8e4d3eb37b76389e51a859/artifacts
+end_time: 1718960846857
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 24da6e8fad8e4d3eb37b76389e51a859
+run_name: stylish-steed-14
+run_uuid: 24da6e8fad8e4d3eb37b76389e51a859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718960846747
+status: 3
+tags: []
+user_id: gnaporowski

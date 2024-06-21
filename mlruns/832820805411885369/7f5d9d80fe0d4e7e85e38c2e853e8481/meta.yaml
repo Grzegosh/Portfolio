@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7f5d9d80fe0d4e7e85e38c2e853e8481/artifacts
+end_time: 1718959822620
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: 7f5d9d80fe0d4e7e85e38c2e853e8481
+run_name: debonair-grub-535
+run_uuid: 7f5d9d80fe0d4e7e85e38c2e853e8481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718959822499
+status: 3
+tags: []
+user_id: gnaporowski

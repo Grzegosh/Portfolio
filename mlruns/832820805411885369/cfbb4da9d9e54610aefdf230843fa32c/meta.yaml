@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/cfbb4da9d9e54610aefdf230843fa32c/artifacts
+end_time: 1718958673875
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: active
+run_id: cfbb4da9d9e54610aefdf230843fa32c
+run_name: unleashed-wren-983
+run_uuid: cfbb4da9d9e54610aefdf230843fa32c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718958673776
+status: 3
+tags: []
+user_id: gnaporowski
