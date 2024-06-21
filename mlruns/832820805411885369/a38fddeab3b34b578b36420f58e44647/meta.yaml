@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/a38fddeab3b34b578b36420f58e44647/artifacts
+deleted_time: 1718957217721
 end_time: 1718903557612
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a38fddeab3b34b578b36420f58e44647
 run_name: angry-toad-454
 run_uuid: a38fddeab3b34b578b36420f58e44647

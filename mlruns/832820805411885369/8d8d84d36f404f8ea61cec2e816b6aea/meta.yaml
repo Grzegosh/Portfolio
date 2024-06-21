@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/8d8d84d36f404f8ea61cec2e816b6aea/artifacts
+deleted_time: 1718957217706
 end_time: 1718903559721
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8d8d84d36f404f8ea61cec2e816b6aea
 run_name: resilient-goose-635
 run_uuid: 8d8d84d36f404f8ea61cec2e816b6aea

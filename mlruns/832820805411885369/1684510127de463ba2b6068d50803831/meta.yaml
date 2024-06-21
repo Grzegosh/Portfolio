@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1684510127de463ba2b6068d50803831/artifacts
+deleted_time: 1718955078475
+end_time: 1718954829105
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1684510127de463ba2b6068d50803831
+run_name: auspicious-conch-651
+run_uuid: 1684510127de463ba2b6068d50803831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718954828938
+status: 3
+tags: []
+user_id: gnaporowski

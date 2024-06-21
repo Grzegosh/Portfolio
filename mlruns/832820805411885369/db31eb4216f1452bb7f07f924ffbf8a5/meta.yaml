@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/db31eb4216f1452bb7f07f924ffbf8a5/artifacts
+deleted_time: 1718957217752
 end_time: 1718903528664
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: db31eb4216f1452bb7f07f924ffbf8a5
 run_name: overjoyed-robin-550
 run_uuid: db31eb4216f1452bb7f07f924ffbf8a5

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/caaee537bcb5428a8fd5142be2856282/artifacts
+deleted_time: 1718957217765
 end_time: 1718903526212
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: caaee537bcb5428a8fd5142be2856282
 run_name: delightful-ram-68
 run_uuid: caaee537bcb5428a8fd5142be2856282

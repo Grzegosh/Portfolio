@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/d5bbc67860fe4622babd279a4081e8c0/artifacts
+deleted_time: 1718957217689
 end_time: 1718903561388
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d5bbc67860fe4622babd279a4081e8c0
 run_name: painted-koi-83
 run_uuid: d5bbc67860fe4622babd279a4081e8c0

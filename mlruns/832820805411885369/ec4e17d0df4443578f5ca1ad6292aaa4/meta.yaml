@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ec4e17d0df4443578f5ca1ad6292aaa4/artifacts
+deleted_time: 1718957217617
+end_time: 1718955681363
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ec4e17d0df4443578f5ca1ad6292aaa4
+run_name: aged-ray-718
+run_uuid: ec4e17d0df4443578f5ca1ad6292aaa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955681191
+status: 3
+tags: []
+user_id: gnaporowski

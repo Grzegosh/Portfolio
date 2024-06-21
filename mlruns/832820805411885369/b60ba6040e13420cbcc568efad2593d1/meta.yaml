@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/b60ba6040e13420cbcc568efad2593d1/artifacts
+deleted_time: 1718957217711
 end_time: 1718903557757
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b60ba6040e13420cbcc568efad2593d1
 run_name: mysterious-sloth-391
 run_uuid: b60ba6040e13420cbcc568efad2593d1

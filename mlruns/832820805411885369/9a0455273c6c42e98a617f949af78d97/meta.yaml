@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9a0455273c6c42e98a617f949af78d97/artifacts
+deleted_time: 1718957217681
+end_time: 1718955173125
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9a0455273c6c42e98a617f949af78d97
+run_name: wistful-bird-165
+run_uuid: 9a0455273c6c42e98a617f949af78d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955172948
+status: 3
+tags: []
+user_id: gnaporowski

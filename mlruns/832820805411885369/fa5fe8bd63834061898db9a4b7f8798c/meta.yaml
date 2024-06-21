@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/fa5fe8bd63834061898db9a4b7f8798c/artifacts
+deleted_time: 1718957217616
+end_time: 1718955640859
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: fa5fe8bd63834061898db9a4b7f8798c
+run_name: inquisitive-flea-274
+run_uuid: fa5fe8bd63834061898db9a4b7f8798c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955640682
+status: 3
+tags: []
+user_id: gnaporowski

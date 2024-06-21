@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/ee247c539614453b9a91926478a10328/artifacts
+deleted_time: 1718957217639
+end_time: 1718955634628
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: ee247c539614453b9a91926478a10328
+run_name: bustling-tern-432
+run_uuid: ee247c539614453b9a91926478a10328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955634464
+status: 3
+tags: []
+user_id: gnaporowski

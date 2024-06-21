@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/7c4a252621244336ac8d104ab83cabda/artifacts
+deleted_time: 1718957217567
+end_time: 1718957003612
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 7c4a252621244336ac8d104ab83cabda
+run_name: fun-colt-974
+run_uuid: 7c4a252621244336ac8d104ab83cabda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718957003415
+status: 3
+tags: []
+user_id: gnaporowski

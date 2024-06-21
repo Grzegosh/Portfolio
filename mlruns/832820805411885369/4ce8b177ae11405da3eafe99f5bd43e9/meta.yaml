@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4ce8b177ae11405da3eafe99f5bd43e9/artifacts
+deleted_time: 1718957217650
+end_time: 1718955600868
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4ce8b177ae11405da3eafe99f5bd43e9
+run_name: monumental-midge-629
+run_uuid: 4ce8b177ae11405da3eafe99f5bd43e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955600704
+status: 3
+tags: []
+user_id: gnaporowski

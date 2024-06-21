@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/50e2e38737fd453daa55cbd9b94f6e71/artifacts
+deleted_time: 1718957217742
 end_time: 1718903554048
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 50e2e38737fd453daa55cbd9b94f6e71
 run_name: mercurial-crane-807
 run_uuid: 50e2e38737fd453daa55cbd9b94f6e71

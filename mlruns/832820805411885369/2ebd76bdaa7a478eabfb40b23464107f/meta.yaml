@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/2ebd76bdaa7a478eabfb40b23464107f/artifacts
+deleted_time: 1718957217649
+end_time: 1718955467129
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 2ebd76bdaa7a478eabfb40b23464107f
+run_name: gentle-lynx-382
+run_uuid: 2ebd76bdaa7a478eabfb40b23464107f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955466941
+status: 3
+tags: []
+user_id: gnaporowski

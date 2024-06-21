@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/9855294b9f2849df89abfe62c3d7b7d3/artifacts
+deleted_time: 1718957217677
+end_time: 1718955312872
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 9855294b9f2849df89abfe62c3d7b7d3
+run_name: gifted-squid-812
+run_uuid: 9855294b9f2849df89abfe62c3d7b7d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955312709
+status: 3
+tags: []
+user_id: gnaporowski

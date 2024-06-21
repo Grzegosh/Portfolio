@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/4bb8bab16d5744719a2ee16c32822432/artifacts
+deleted_time: 1718957217621
+end_time: 1718955642636
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 4bb8bab16d5744719a2ee16c32822432
+run_name: nebulous-moose-366
+run_uuid: 4bb8bab16d5744719a2ee16c32822432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955642449
+status: 3
+tags: []
+user_id: gnaporowski

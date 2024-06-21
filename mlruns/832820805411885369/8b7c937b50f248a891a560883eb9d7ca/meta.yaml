@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/8b7c937b50f248a891a560883eb9d7ca/artifacts
+deleted_time: 1718957217570
+end_time: 1718956695232
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 8b7c937b50f248a891a560883eb9d7ca
+run_name: fortunate-crab-741
+run_uuid: 8b7c937b50f248a891a560883eb9d7ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718956695041
+status: 3
+tags: []
+user_id: gnaporowski

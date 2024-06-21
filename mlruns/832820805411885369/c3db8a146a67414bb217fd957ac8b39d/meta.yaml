@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c3db8a146a67414bb217fd957ac8b39d/artifacts
+deleted_time: 1718957217701
+end_time: 1718955156679
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: c3db8a146a67414bb217fd957ac8b39d
+run_name: skillful-crane-238
+run_uuid: c3db8a146a67414bb217fd957ac8b39d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955156484
+status: 3
+tags: []
+user_id: gnaporowski

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/c692110555884baeb3666002590604bc/artifacts
+deleted_time: 1718957217653
+end_time: 1718955365033
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: c692110555884baeb3666002590604bc
+run_name: nervous-auk-649
+run_uuid: c692110555884baeb3666002590604bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955364870
+status: 3
+tags: []
+user_id: gnaporowski

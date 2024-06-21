@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/1e39274c68a748a0b8690ce6baf130cf/artifacts
+deleted_time: 1718957217606
+end_time: 1718955675409
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 1e39274c68a748a0b8690ce6baf130cf
+run_name: fun-sloth-563
+run_uuid: 1e39274c68a748a0b8690ce6baf130cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955675124
+status: 3
+tags: []
+user_id: gnaporowski

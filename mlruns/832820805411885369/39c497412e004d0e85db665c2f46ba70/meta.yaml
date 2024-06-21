@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/39c497412e004d0e85db665c2f46ba70/artifacts
+deleted_time: 1718956634302
+end_time: 1718956512247
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 39c497412e004d0e85db665c2f46ba70
+run_name: delicate-lark-295
+run_uuid: 39c497412e004d0e85db665c2f46ba70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718956512062
+status: 3
+tags: []
+user_id: gnaporowski

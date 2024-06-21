@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/832820805411885369/2f673793f0dd42ec92a2651d918c8971/artifacts
+deleted_time: 1718957217776
 end_time: 1718903520618
 entry_point_name: ''
 experiment_id: '832820805411885369'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2f673793f0dd42ec92a2651d918c8971
 run_name: handsome-stag-61
 run_uuid: 2f673793f0dd42ec92a2651d918c8971

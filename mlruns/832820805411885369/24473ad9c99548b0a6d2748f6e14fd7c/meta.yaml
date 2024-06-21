@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/24473ad9c99548b0a6d2748f6e14fd7c/artifacts
+deleted_time: 1718957217572
+end_time: 1718957036700
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 24473ad9c99548b0a6d2748f6e14fd7c
+run_name: suave-slug-457
+run_uuid: 24473ad9c99548b0a6d2748f6e14fd7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718957036525
+status: 3
+tags: []
+user_id: gnaporowski

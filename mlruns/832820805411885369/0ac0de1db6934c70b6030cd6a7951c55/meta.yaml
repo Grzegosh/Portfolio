@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/832820805411885369/0ac0de1db6934c70b6030cd6a7951c55/artifacts
+deleted_time: 1718957217672
+end_time: 1718955349909
+entry_point_name: ''
+experiment_id: '832820805411885369'
+lifecycle_stage: deleted
+run_id: 0ac0de1db6934c70b6030cd6a7951c55
+run_name: defiant-slug-986
+run_uuid: 0ac0de1db6934c70b6030cd6a7951c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718955349739
+status: 3
+tags: []
+user_id: gnaporowski
