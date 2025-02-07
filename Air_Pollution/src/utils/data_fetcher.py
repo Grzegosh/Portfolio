@@ -108,8 +108,7 @@ class DataFetcher:
         ).reset_index().fillna(0)
         return pivot_data
 
-test = DataFetcher()
-print(test.clean_data())
+
 
 
 
