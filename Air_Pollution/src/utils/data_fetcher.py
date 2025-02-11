@@ -1,3 +1,6 @@
+import sys
+sys.path.append("/Users/grzegorznaporowski/Desktop/Portfolio")
+
 import os
 import pandas as pd
 import datetime
@@ -100,12 +103,6 @@ class DataFetcher:
 
         print(f"Number of rows: {len(all_data)}")
         return all_data
-
-
-
-
-
-
 
 
 
