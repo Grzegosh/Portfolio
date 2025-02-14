@@ -1,0 +1,4 @@
+This application was created in order to show the air quality in Poland. In this dashboard we're displaying the data
+for cities that shared information about many parameters from their sensors. By now, we have the data for January 2025
+but in the future there will be no problem to gather more data and display them in dashboard. On the left side of
+this application You can see a Navigation Panel from which you can navigate around different aspects of this dashboard.

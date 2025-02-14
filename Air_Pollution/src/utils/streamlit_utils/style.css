@@ -1,0 +1,18 @@
+[data-testid="stAppViewContainer"] {
+    background: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc5NWQ5cTFuaWM2ejE2cmFhNmJ0YndzcmtxanY4NXgxbDludnVociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqsfF7Fh8dsjgfLWY/giphy.gif");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+}
+
+[data-testid="stElementContainer"]{
+    color:white;
+}
+
+[data-testid="stMarkdownContainer"]{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
