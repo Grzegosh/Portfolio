@@ -30,7 +30,7 @@ if side == "About":
 if side == "Visualisation":
     df = DATA.read_data_from_sql()
     groupped_data = pd.DataFrame(df.groupby(['lat','lon'])['pm10'].median().reset_index())
-    st.map(groupped_data, latitude="lat", longitude="lon", size="pm10")
+    st.map(groupped_data, latitude="lat", longitude="lon", size="pm10")s
 
 
 
