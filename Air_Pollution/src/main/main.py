@@ -3,9 +3,9 @@ import sys
 sys.path.append("/Users/grzegorznaporowski/Desktop/Portfolio")
 
 
-from air_Pollution.src.utils.streamlit_utils.background import Background
-from air_Pollution.src.utils.streamlit_utils.sidebar import Sidebar
-from air_Pollution.src.utils.sql_utils.connect_to_db import SQLManagement
+from air_pollution.src.utils.streamlit_utils.background import Background
+from air_pollution.src.utils.streamlit_utils.sidebar import Sidebar
+from air_pollution.src.utils.sql_utils.connect_to_db import SQLManagement
 import streamlit as st
 import pandas as pd
 
@@ -28,9 +28,9 @@ if side == "About":
         st.write(about.read())
 
 if side == "Visualisation":
-    df = DATA.read_data_from_sql()
+    df = DATA.read_data_from_sql(mode="view")
     groupped_data = pd.DataFrame(df.groupby(['lat','lon'])['pm10'].median().reset_index())
-    st.map(groupped_data, latitude="lat", longitude="lon", size="pm10")s
+    st.map(groupped_data, latitude="lat", longitude="lon", size="pm10")
 
 
 

@@ -4,7 +4,7 @@ sys.path.append("/Users/grzegorznaporowski/Desktop/Portfolio")
 import os
 import pandas as pd
 import datetime
-from air_Pollution.src.utils.configuration import Configuration
+from air_pollution.src.utils.configuration import Configuration
 from openaq import OpenAQ
 import json
 import ast

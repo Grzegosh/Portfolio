@@ -1,13 +1,15 @@
 import os.path
 import sys
+
+from pygments.lexers import find_lexer_class_by_name
+from streamlit import connection
+
 sys.path.append("/Users/grzegorznaporowski/Desktop/Portfolio")
 
 import pandas as pd
-import sqlalchemy.exc
-from sqlalchemy import create_engine, text
-from sqlalchemy.exc import SQLAlchemyError
-from air_Pollution.src.utils.configuration import  Configuration
-from air_Pollution.src.utils.data_fetcher import DataFetcher
+from sqlalchemy import create_engine, text, exc
+from air_pollution.src.utils.configuration import  Configuration
+from air_pollution.src.utils.data_fetcher import DataFetcher
 
 
 class SQLManagement:
@@ -32,7 +34,7 @@ class SQLManagement:
                     conn.execute(text(f"USE {database}"))
                     print(f"Connection to the {database} is estabilished.")
             return engine
-        except SQLAlchemyError as s:
+        except exc.SQLAlchemyError as s:
             raise RuntimeError(f"No connection was estabilished: {s}")
 
 
@@ -102,6 +104,34 @@ class SQLManagement:
         except Exception as e:
             raise RuntimeError(f"There was some error connected with executing the commands: {e}")
 
+    def create_voivodeships(self, database_name:str = "air_pollution"):
+        """
+        Function that creates three tables based on the "create_voivodeships.sql" file.
+        - cities: Consists names of all cities in Poland
+        - voi: Consists names of all the voivodeships in Poland
+        - cities_voivodeships: Table with mapped cities to their corresponding voivodeships
+        :param database_name: Name of the database
+        :return:
+        Created tables within MySQL server.
+        """
+        connection = self.connect_to_sql()
+        dir_path = os.path.dirname(__file__)
+        file_path = os.path.join(dir_path, "create_voivodeships.sql")
+        try:
+            with open(file_path, "r") as sql_commands:
+                command = sql_commands.read()
+
+            with connection.connect() as conn:
+                conn.execute(text(f"USE {database_name};"))
+                for file in command.split(";"):
+                    conn.execute(text(file+";"))
+                conn.commit()
+            print(f"File: {file_path} was executed successfully.")
+        except FileNotFoundError:
+            raise FileNotFoundError(f"File: {file_path} was not found.")
+        except Exception as e:
+            raise Exception(f"Unexpected error: {e}")
+
     def save_data_to_sql(self, save:bool=True,table_name:str = "raw_data"):
         """
         Function that saves the data into MySQL server.
@@ -118,28 +148,56 @@ class SQLManagement:
                 data.to_sql(name=table_name, con=engine, index=False, if_exists="append")
             else:
                 pass
-        except SQLAlchemyError as s:
+        except exc.SQLAlchemyError as s:
             raise Exception(f"There's some problems with connection. {s}")
 
 
-    def read_data_from_sql(self)->pd.DataFrame:
+    def read_data_from_sql(self, mode="all")->pd.DataFrame:
         """
-        Function that reades the "read_table.sql" and returns it as pandas DataFrame.
+        Reades data from SQL based on the selected mode.
+        Modes:
+            - all: All records for all "load_dates"
+            - all_latest_datetime: All records for all load_dates but for the newest datetime.
+            - view: All records for the latest load_date
+            - view_latest_datetime: All records for the latest load_date and the latest datetime
+
+        :param mode: Particular mode for data reading.
         :return:
-        DataFrame with records for Poland.
+        Pandas DataFrame based on the mode parameter.
         """
         try:
             engine = self.connect_to_sql(database="air_pollution")
             dir_path = os.path.dirname(__file__)
-            file_path = os.path.join(dir_path, "read_table.sql")
-            with open(file_path,"r") as sql_file:
-                command = sql_file.read()
-                df = pd.read_sql(command, con=engine)
+            if mode == "all":
+                file_name = "read_data_all.sql"
+            elif mode == "all_latest_datetime":
+                file_name = "read_data_all_latest.sql"
+            elif mode == "view":
+                file_name = "read_data_view.sql"
+            elif mode == "view_latest_datetime":
+                file_name = "read_data_view_latest.sql"
+            else:
+                raise ValueError("Invalid mode. Choose from 'all', 'all_latest_datetime', 'view', 'view_latest_datetime'")
+
+            file_path = os.path.join(dir_path, file_name)
+            with open(file_path, "r") as sql_commands:
+                command = sql_commands.read()
+
+            df = pd.read_sql(command, con=engine)
             return df
-        except sqlalchemy.exc.ProgrammingError as pe:
-            raise Exception(f"You've enetered wrong name of the table. {pe}")
+        except exc.ProgrammingError as pe:
+            raise Exception(f"SQL error: {pe}")
+        except FileNotFoundError:
+            raise Exception(f"SQL file not found: {file_path}")
+        except Exception as e:
+            raise Exception(f"Unexpected error: {e}")
 
 
+
+
+
+test = SQLManagement()
+test.create_voivodeships()
 
 
 
