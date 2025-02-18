@@ -1,9 +1,7 @@
 import sys
 sys.path.append("/Users/grzegorznaporowski/Desktop/Portfolio")
 
-import pandas as pd
 import requests
-import json
 from air_pollution.src.utils.configuration import Configuration
 
 class GetGeo:

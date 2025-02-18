@@ -184,6 +184,7 @@ class SQLManagement:
                 command = sql_commands.read()
 
             df = pd.read_sql(command, con=engine)
+            df = df[(df[['o3', 'pm10', 'pm25', 'so2']]>=0).all(axis=1)]
             return df
         except exc.ProgrammingError as pe:
             raise Exception(f"SQL error: {pe}")
@@ -192,12 +193,6 @@ class SQLManagement:
         except Exception as e:
             raise Exception(f"Unexpected error: {e}")
 
-
-
-
-
-test = SQLManagement()
-test.create_voivodeships()
 
 
 
