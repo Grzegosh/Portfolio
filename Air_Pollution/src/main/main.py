@@ -10,6 +10,7 @@ from air_pollution.src.utils.streamlit_utils.background import Background
 from air_pollution.src.utils.streamlit_utils.sidebar import Sidebar
 from air_pollution.src.utils.sql_utils.connect_to_db import SQLManagement
 from air_pollution.src.utils.streamlit_utils.choropleth_map import Choropleth
+from air_pollution.src.utils.streamlit_utils.maps import CreateMaps
 import streamlit as st
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
@@ -33,7 +34,7 @@ if side == "About":
     path = os.path.abspath(os.path.join(dir_path, "..", "utils", "streamlit_utils", "about.txt"))
     st.header("Air Pollution Dashboard")
     with open(path, "r") as about:
-        st.write(about.read())
+        st.text(about.read())
 
 if side == "Maps":
     pollutants = ['o3', 'pm10', 'pm25', 'so2']
@@ -113,6 +114,7 @@ if side == "Maps":
         color='score',
         title=f"General score of air pollution in Poland based on {AGG_OPTION} metric. (Higher score means greater pollution.)"
     )
+    CreateMaps(mode="mean").create_maps()
 
 
 
