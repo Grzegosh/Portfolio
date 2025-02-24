@@ -11,7 +11,7 @@ from air_pollution.src.utils.sql_utils.connect_to_db import SQLManagement
 import streamlit as st
 
 class CreateMaps:
-    def __init__(self, n_maps: int = 4, group_by: bool = True, mode="mean"):
+    def __init__(self, n_maps: int = 4, group_by: bool = True, mode="mean", date_slider=None):
         self.n_maps = n_maps
         self.groupby = group_by
         self.data_frame = SQLManagement().read_data_from_sql(mode="view")
@@ -24,16 +24,20 @@ class CreateMaps:
         self.mode = mode
         self.cols = st.columns(4)
         self.map_creator = Choropleth()
+        self.date_min = self.data_frame['datetime'].min()
+        self.date_slider = date_slider
 
 
     def create_maps(self):
-        if self.mode not in ['mean', 'median']:
-            raise ValueError("mode should be set to 'mean' or 'median'!")
+        if self.mode not in ['Mean', 'Median']:
+            raise ValueError("mode should be set to 'Mean' or 'Median'!")
+        self.data_frame = self.data_frame[(self.data_frame['datetime']>=self.date_slider[0])&
+                                          (self.data_frame['datetime']<=self.date_slider[1])]
         if self.groupby:
             self.data_frame = self.data_frame.groupby(
                 'voivodeship'
             )
-            if self.mode == "mean":
+            if self.mode == "Mean":
                 self.data_frame = self.data_frame.agg(self.mean_agg).reset_index()
                 self.data_frame['score'] = self.data_frame[self.pollutants].mean(axis=1)
             else:
@@ -45,15 +49,18 @@ class CreateMaps:
                 data_frame=self.data_frame,
                 loc='voivodeship',
                 feat_key='properties.nazwa',
-                color = self.pollutants[i]
+                color = self.pollutants[i],
+                title=f"{self.mode} value of {self.pollutants[i]} between {self.date_slider[0]} and {self.date_slider[1]}"
             )
 
         self.map_creator.create_choropleth_map(
             data_frame=self.data_frame,
             loc='voivodeship',
             feat_key='properties.nazwa',
-            color='score'
+            color='score',
+            title=f"General score of air pollution in Poland based on {self.mode} metric. (Higher score means greater pollution.)"
         )
+
 
 
 
