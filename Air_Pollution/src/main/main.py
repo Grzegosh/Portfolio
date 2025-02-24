@@ -11,6 +11,7 @@ from air_pollution.src.utils.streamlit_utils.sidebar import Sidebar
 from air_pollution.src.utils.sql_utils.connect_to_db import SQLManagement
 from air_pollution.src.utils.streamlit_utils.choropleth_map import Choropleth
 from air_pollution.src.utils.streamlit_utils.maps import CreateMaps
+import plotly.express as px
 import streamlit as st
 
 #Creating necessary objects
@@ -38,13 +39,18 @@ if side == "Maps":
     min_date = df['datetime'].min()
     max_date = df['datetime'].max()
 
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
     with col1:
         RANGE_ = st.slider("Select a date range: ", value=(min_date, max_date), min_value=min_date, max_value=max_date)
     with col2:
         AGG_OPTION = st.selectbox("What aggregation you want to perform?",("Mean", "Median"))
+    with col3:
+        GROUP_OPTION = st.selectbox("Show data groupped by:", ("Voivodeship", "City"))
 
-    CreateMaps(mode=AGG_OPTION, date_slider=RANGE_).create_maps()
+    if GROUP_OPTION == "Voivodeship":
+        CreateMaps(mode=AGG_OPTION, date_slider=RANGE_).create_maps()
+    else:
+        CreateMaps(mode=AGG_OPTION, date_slider=RANGE_).create_scatter_map()
 
 
 

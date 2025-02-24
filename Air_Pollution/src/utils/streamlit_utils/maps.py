@@ -9,7 +9,7 @@ sys.path.append("/Users/grzegorznaporowski/Desktop/Portfolio")
 from air_pollution.src.utils.streamlit_utils.choropleth_map import Choropleth
 from air_pollution.src.utils.sql_utils.connect_to_db import SQLManagement
 import streamlit as st
-
+import plotly.express as px
 class CreateMaps:
     def __init__(self, n_maps: int = 4, group_by: bool = True, mode="mean", date_slider=None):
         self.n_maps = n_maps
@@ -62,6 +62,65 @@ class CreateMaps:
         )
 
 
+    def create_scatter_map(self):
+        if self.mode not in ['Mean', 'Median']:
+            raise ValueError("mode should be set to 'Mean' or 'Median'!")
+
+        agg_opt = st.selectbox("What pollutant are you intrested in?", self.pollutants)
+        self.data_frame = self.data_frame[(self.data_frame['datetime']>=self.date_slider[0])&
+                                          (self.data_frame['datetime']<=self.date_slider[1])]
+
+        if self.groupby:
+            self.data_frame = self.data_frame.groupby(
+                ["city", "lat", "lon"]
+            )
+            if self.mode == "Mean":
+                self.data_frame = self.data_frame.agg(self.mean_agg).reset_index()
+                self.data_frame['score'] = self.data_frame[self.pollutants].mean(axis=1)
+                fig = px.scatter_map(
+                    data_frame=self.data_frame,
+                    lat="lat",
+                    lon="lon",
+                    hover_name="city",
+                    size=agg_opt,
+                    title=f"{self.mode} value of {agg_opt} between {self.date_slider[0]} and {self.date_slider[1]}",
+                    zoom=4
+                )
+
+                fig2 = px.scatter_map(
+                    data_frame=self.data_frame,
+                    lat="lat",
+                    lon="lon",
+                    hover_name="city",
+                    size="score",
+                    title=f"General score of air pollution in Poland based on {self.mode} metric. (Higher score means greater pollution.)",
+                    zoom=4
+
+                )
+                return st.plotly_chart(fig), st.plotly_chart(fig2)
+            else:
+                self.data_frame = self.data_frame.agg(self.median_agg).reset_index()
+                self.data_frame['score'] = self.data_frame[self.pollutants].mean(axis=1)
+                fig = px.scatter_map(
+                    data_frame=self.data_frame,
+                    lat="lat",
+                    lon="lon",
+                    hover_name="city",
+                    size=agg_opt,
+                    title=f"{self.mode} value of {agg_opt} between {self.date_slider[0]} and {self.date_slider[1]}",
+                    zoom=4
+                )
+                fig2 = px.scatter_map(
+                    data_frame=self.data_frame,
+                    lat="lat",
+                    lon="lon",
+                    hover_name="city",
+                    size="score",
+                    title=f"General score of air pollution in Poland based on {self.mode} metric. (Higher score means greater pollution.)",
+                    zoom=4
+
+                )
+                return st.plotly_chart(fig), st.plotly_chart(fig2)
 
 
 
