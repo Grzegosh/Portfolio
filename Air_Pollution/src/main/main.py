@@ -9,6 +9,7 @@ sys.path.append("/Users/grzegorznaporowski/Desktop/Portfolio")
 from air_pollution.src.utils.streamlit_utils.background import Background
 from air_pollution.src.utils.streamlit_utils.sidebar import Sidebar
 from air_pollution.src.utils.sql_utils.connect_to_db import SQLManagement
+from air_pollution.src.utils.streamlit_utils.plots import CreatePlot
 from air_pollution.src.utils.streamlit_utils.choropleth_map import Choropleth
 from air_pollution.src.utils.streamlit_utils.maps import CreateMaps
 import plotly.express as px
@@ -17,7 +18,7 @@ import streamlit as st
 #Creating necessary objects
 
 BACKGROUND = Background()
-SIDEBAR = Sidebar(msg="Navigation Panel",options=("About", "Maps", "Statistics"))
+SIDEBAR = Sidebar(msg="Navigation Panel",options=("About", "Maps", "Plots", "Statistics"))
 DATA = SQLManagement()
 CHORO = Choropleth()
 
@@ -51,6 +52,15 @@ if side == "Maps":
         CreateMaps(mode=AGG_OPTION, date_slider=RANGE_).create_maps()
     else:
         CreateMaps(mode=AGG_OPTION, date_slider=RANGE_).create_scatter_map()
+
+elif side == "Plots":
+
+    df = DATA.read_data_from_sql(mode="view")
+    min_date = df['datetime'].min()
+    max_date = df['datetime'].max()
+    RANGE_ = st.slider("Select a date range: ", value=(min_date, max_date), min_value=min_date, max_value=max_date)
+    CreatePlot(date_slider=RANGE_).create_histogram()
+    CreatePlot(date_slider=RANGE_).create_heatmap()
 
 
 
