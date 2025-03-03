@@ -61,6 +61,7 @@ elif side == "Plots":
     RANGE_ = st.slider("Select a date range: ", value=(min_date, max_date), min_value=min_date, max_value=max_date)
     CreatePlot(date_slider=RANGE_).create_histogram()
     CreatePlot(date_slider=RANGE_).create_heatmap()
+    CreatePlot(date_slider=RANGE_).create_line_plot()
 
 
 
