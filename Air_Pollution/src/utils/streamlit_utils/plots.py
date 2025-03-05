@@ -5,26 +5,52 @@ from air_pollution.src.utils.streamlit_utils.maps import CreateMaps
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
+from sklearn.preprocessing import  StandardScaler
 
 
 class CreatePlot(CreateMaps):
-    def __init__(self, date_slider=None):
-        super().__init__(date_slider=date_slider)
-        del self.map_creator
-        del self.cols
-        del self.groupby
-        del self.mode
+    def __init__(self):
+        super().__init__()
+        self.min_date = self.data_frame['datetime'].min()
+        self.max_date = self.data_frame['datetime'].max()
+        col1, col2 = st.columns(2)
+        with col1:
+            self.date_slider = st.slider("Select a date range: ",
+                                         value=(self.min_date, self.max_date), min_value=self.min_date,
+                                         max_value=self.max_date)
+        with col2:
+            self.spec = st.selectbox("Show data by:", ("Voivodeship", "City", "Country"), key="test")
+
+        if self.spec == "Voivodeship":
+            self.filter = st.selectbox(
+                "Pick a Voivodeship",
+                (self.data_frame['voivodeship'].unique())
+            )
+        elif self.spec == "City":
+            self.filter = st.selectbox(
+                "Pick a City",
+                (self.data_frame['city'].unique())
+            )
+        else:
+            pass
 
     def create_histogram(self):
-        col1, col2 = st.columns(2)
-        col3, col4 = st.columns(2)
         data = self.data_frame[(self.data_frame['datetime'] >= self.date_slider[0]) &
                     (self.data_frame['datetime'] <= self.date_slider[1])]
+
+        if self.spec == "Voivodeship":
+            data = data[data['voivodeship']==self.filter]
+        elif self.spec == "City":
+            data = data[data['city']==self.filter]
+        else:
+            pass
+
+        col1, col2 = st.columns(2)
+        col3, col4 = st.columns(2)
         for i,pollutant in enumerate(self.pollutants):
-            filltered_data = data[data[pollutant]>0]
+            filtered_data = data[data[pollutant]>0]
             fig = px.histogram(
-                data_frame=filltered_data,
+                data_frame=filtered_data,
                 x=pollutant,
                 height=400,
                 title=f"Distribution of {pollutant}",
@@ -49,6 +75,13 @@ class CreatePlot(CreateMaps):
         data = self.data_frame[(self.data_frame['datetime']>=self.date_slider[0])&
                                (self.data_frame['datetime']<=self.date_slider[1])]
 
+        if self.spec == "Voivodeship":
+            data = data[data['voivodeship']==self.filter]
+        elif self.spec == "City":
+            data = data[data['city']==self.filter]
+        else:
+            pass
+
         groupped_date = data.groupby('datetime').agg(self.mean_agg).reset_index()
         corr = groupped_date[self.pollutants].corr()
         fig = px.imshow(
@@ -69,6 +102,12 @@ class CreatePlot(CreateMaps):
         data = self.data_frame[(self.data_frame['datetime'] >= self.date_slider[0]) &
                                (self.data_frame['datetime'] <= self.date_slider[1])]
 
+        if self.spec == "Voivodeship":
+            data = data[data['voivodeship']==self.filter]
+        elif self.spec == "City":
+            data = data[data['city']==self.filter]
+        else:
+            pass
 
         dfs = []
         for pollutant in self.pollutants:
@@ -91,6 +130,15 @@ class CreatePlot(CreateMaps):
 
         df_melted_filtered_groupped = df_melted_filtered.groupby(['datetime', 'pollutant'])\
                                       .mean('value').reset_index()
+
+        poll_filter = st.multiselect(
+            "Select pollutants",("o3", "pm10", "pm25", "so2"),
+            default="o3"
+        )
+
+        df_melted_filtered_groupped = df_melted_filtered_groupped[
+            df_melted_filtered_groupped['pollutant'].isin(poll_filter)
+        ]
 
         fig = px.line(
             df_melted_filtered_groupped,

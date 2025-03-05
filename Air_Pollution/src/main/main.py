@@ -23,8 +23,9 @@ DATA = SQLManagement()
 CHORO = Choropleth()
 
 
+
 #Creating background and Sidebar
-st.set_page_config(layout="wide", initial_sidebar_state="expanded")
+#st.set_page_config(layout="wide", initial_sidebar_state="expanded")
 side = SIDEBAR.create_sidebar()
 
 #Displaying different things within different sidebar options
@@ -54,14 +55,11 @@ if side == "Maps":
         CreateMaps(mode=AGG_OPTION, date_slider=RANGE_).create_scatter_map()
 
 elif side == "Plots":
-
-    df = DATA.read_data_from_sql(mode="view")
-    min_date = df['datetime'].min()
-    max_date = df['datetime'].max()
-    RANGE_ = st.slider("Select a date range: ", value=(min_date, max_date), min_value=min_date, max_value=max_date)
-    CreatePlot(date_slider=RANGE_).create_histogram()
-    CreatePlot(date_slider=RANGE_).create_heatmap()
-    CreatePlot(date_slider=RANGE_).create_line_plot()
+    PLOTS = CreatePlot()
+    PLOTS.create_histogram()
+    PLOTS.create_heatmap()
+    PLOTS.create_line_plot()
+    #CreatePlot(date_slider=RANGE_).create_line_plot()
 
 
 
