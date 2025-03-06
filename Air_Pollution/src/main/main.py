@@ -10,6 +10,7 @@ from air_pollution.src.utils.streamlit_utils.background import Background
 from air_pollution.src.utils.streamlit_utils.sidebar import Sidebar
 from air_pollution.src.utils.sql_utils.connect_to_db import SQLManagement
 from air_pollution.src.utils.streamlit_utils.plots import CreatePlot
+from air_pollution.src.utils.streamlit_utils.stats import Stats
 from air_pollution.src.utils.streamlit_utils.choropleth_map import Choropleth
 from air_pollution.src.utils.streamlit_utils.maps import CreateMaps
 import plotly.express as px
@@ -59,7 +60,9 @@ elif side == "Plots":
     PLOTS.create_histogram()
     PLOTS.create_heatmap()
     PLOTS.create_line_plot()
-    #CreatePlot(date_slider=RANGE_).create_line_plot()
+else:
+    STATS = Stats()
+    STATS.calculate_stats()
 
 
 
