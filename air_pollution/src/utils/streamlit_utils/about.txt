@@ -1,0 +1,37 @@
+This application was created in order to show the air quality in Poland. In this dashboard we're displaying the data
+for cities that shared information about many parameters from their sensors. By now, we have the data for January 2025
+but in the future there will be no problem to gather more data and display them in dashboard. On the left side of
+this application You can see a Navigation Panel from which you can navigate around different aspects of this dashboard.
+
+In this application we gather measures from several pollutants:
+
+**PM10**: airborne particles with diameter of 10 micrometers. These particles are mix of road dust, dirt and smoke.
+Main sources of PM10 are:
+    -- Road dust,
+    -- Industrial emissions,
+    -- Vehicle exhausts,
+
+
+**PM25**: airborne particles with that are 2.5 micrometers or smaller in diameter. Because of their smaller size
+they tend to penetrate deep into our lungs and even bloodstream, making them more dangerous than larger particles such
+as PM10.
+Main sources of PM25 are:
+    -- Combustion of wood, gasoline, oil, diesel fuel,
+    -- Coal burning power plants,
+    -- Small scale waste burning.
+
+
+**O3**: Ozone is a gas that is composed from three oxygen atoms. Ground level ozone is a major air pollutant and key
+component of smog.
+Main sources of ground level O3 are:
+    -- Chemical plants,
+    -- Industrial boilers,
+    -- Pollution emited from cars.
+
+
+**SO2**: Sulfur Dioxide  is a colorless, pungent gas that primarily comes from burning sulfur-containing fuels like coal, oil, and diesel.
+It’s a major air pollutant and a contributor to acid rain.
+Main sources of SO2 are:
+        -- Burning fossil fuels,
+        -- Shipping emissions,
+        -- Natural sources.
