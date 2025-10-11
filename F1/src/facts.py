@@ -5,7 +5,7 @@ import pandas as pd
 
 class Facts:
     def __init__(self, config: Configuration, fetcher: DataFetcher) -> None:
-        self.config = Configuration('F1/src/config.cfg')
+        self.config = config
         self.fetcher = DataFetcher(self.config)
 
     def fact_driver_overtakes(self) -> pd.DataFrame:
