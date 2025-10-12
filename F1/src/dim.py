@@ -23,10 +23,28 @@ class Dims:
         drivers_df = self.fetcher.fetch_drivers()
         return drivers_df[["session_key", "driver_number", "team_name"]]
     
-    def dim_sessions(self) -> pd.DataFrame:
+    def dim_sessions(self, race = 'All') -> pd.DataFrame:
         """
         Show all of the information about races and qualification events.
+        ________________________
+        params:
+            race -> Type of sessions we want to return.
         """
-        session_df = self.fetcher.fetch_sessions()
-        session_df['key'] = [x + str(y) for x,y in zip(session_df["location"], pd.to_datetime(session_df["date_start"]).dt.year)]
-        return session_df
+        if race not in ("All", "Race", "Qualifying"):
+            raise ValueError(f"Race variable should be 'All','Race', or 'Qualifying' got: {race}")
+        if race == 'All':
+            session_df = self.fetcher.fetch_sessions()
+            session_df['key'] = [x + str(y) for x,y in zip(session_df["location"], pd.to_datetime(session_df["date_start"]).dt.year)]
+            return session_df
+        
+        if race == 'Race':
+            session_df = self.fetcher.fetch_sessions()
+            session_df = session_df[session_df['session_name'] == race]
+            session_df['key'] = [x + str(y) for x,y in zip(session_df["location"], pd.to_datetime(session_df["date_start"]).dt.year)]
+            return session_df
+        
+        if race == 'Qualifying':
+            session_df = self.fetcher.fetch_sessions()
+            session_df = session_df[session_df['session_name'] == race]
+            session_df['key'] = [x + str(y) for x,y in zip(session_df["location"], pd.to_datetime(session_df["date_start"]).dt.year)]
+            return session_df

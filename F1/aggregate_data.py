@@ -10,8 +10,8 @@ from pyspark.sql import functions as f
 
 class DataAggregator:
     def __init__(self, config: Configuration, fetcher: DataFetcher) -> None:
-        self.config = Configuration('F1/src/config.cfg')
-        self.fetcher = DataFetcher(self.config)
+        self.config = config
+        self.fetcher = fetcher
         self.facts = Facts(self.config, self.fetcher)
         self.dims = Dims(self.config, self.fetcher)
         self.spark = SparkSession.builder.appName("session").master("local").getOrCreate()
@@ -54,9 +54,62 @@ class DataAggregator:
         joined_cols = other_cols + race_columns
         return df_with_last5_pd[joined_cols]
         
+    def get_racer_team_points(self, racer_team = "driver") -> pd.DataFrame:
+        """
+        Returns number of points gathered throughout the whole season.
+        If racer_team = "driver" it will return the number of points for each driver.
+        If racer_team = "team" it will return the number of points for the team.
+        _________________________
+        params:
+            racer_team -> "driver" or "team".
+        """
+        if racer_team not in ("driver", "team"):
+            raise ValueError(f"The racer_team should be equal to 'driver' or 'team' got:{racer_team}")
+        
+        #Data
+        dim_session = self.dims.dim_sessions(race='Race')
+        dim_driver_team = self.dims.dim_driver_team()
+        fact_session_result = self.facts.fact_session_results()
 
+        # Fill empty values
+        fact_session_result['position'] = fact_session_result['position'].fillna(value=21)
 
+        # Join results
 
+        joined_results = fact_session_result.merge(
+            dim_session,
+            on = "session_key",
+            how="inner"
+        ).merge(
+            dim_driver_team,
+            on = ['driver_number','session_key'],
+            how = "inner"
+        )
+
+        if racer_team == "driver":
+            needed_cols = ["session_key","key","year","driver_number","date_end", "points"]
+            joined_results = joined_results[needed_cols]
+            joined_results_driver_spark = self.spark.createDataFrame(joined_results)
+            window = Window.partitionBy("driver_number","year").orderBy("date_end")
+            joined_results_driver_spark = joined_results_driver_spark.withColumn(
+                "points_gained",
+                f.sum("points").over(window)
+            )
+            joined_results_driver_pandas = joined_results_driver_spark.toPandas()
+
+            return joined_results_driver_pandas
+        
+        else:
+            needed_cols = ["session_key","key","year","driver_number","team_name","date_end", "points"]
+            joined_results = joined_results[needed_cols]
+            joined_results_team_spark = self.spark.createDataFrame(joined_results)
+            window = Window.partitionBy("team_name","year").orderBy("date_end")
+            joined_results_team_spark = joined_results_team_spark.withColumn(
+                "points_gained",
+                f.sum("points").over(window)
+            )
+            joined_results_team_pandas = joined_results_team_spark.toPandas()
+            return joined_results_team_pandas
 
         
     
