@@ -15,44 +15,76 @@ class DataAggregator:
         self.facts = Facts(self.config, self.fetcher)
         self.dims = Dims(self.config, self.fetcher)
         self.spark = SparkSession.builder.appName("session").master("local").getOrCreate()
-
-    def get_last_races_result(self, n_races: int, race_type: str) -> pd.DataFrame:
+        
+    def get_last_races_result(self, n_races: int, race_type: str, measure: str = "position") -> pd.DataFrame:
         """
-        For every driver and sessions returns last n_races result.
+        For every driver and session returns last n_races results or statistics.
+
         _______________________________________
         Params:
             n_races -> Number of races from which we will take results.
-            race_type -> Race or Qualifying.
+            race_type -> 'Race' or 'Qualifying'.
+            measure -> One of:
+                - "position" -> returns last n race positions (default)
+                - "avg" -> returns average position from last n races
+                - "std" -> returns standard deviation of positions from last n races
         """
         fact_session_results = self.facts.fact_session_results()
         dim_sessions = self.dims.dim_sessions()
         dim_sessions_race = dim_sessions[dim_sessions["session_name"] == race_type]
-
         fact_session_results_races = fact_session_results.merge(
             dim_sessions_race,
             on="session_key",
             how="inner"
-        )[['driver_number','position','session_key','date_end', 'key']]
-
-        fact_session_results_races['position'] = fact_session_results_races['position'].fillna(value=21) # For disqualified racers
-        fact_session_results_races = fact_session_results_races.sort_values(['date_end','driver_number'], ascending=False)
+        )[['driver_number', 'position', 'session_key', 'date_end', 'key']]
+        fact_session_results_races['position'] = fact_session_results_races['position'].fillna(value=21)
+        fact_session_results_races = fact_session_results_races.sort_values(['date_end', 'driver_number'], ascending=False)
         spark_fact = self.spark.createDataFrame(fact_session_results_races)
         window = Window.partitionBy("driver_number").orderBy(f.col("date_end")).rowsBetween(-n_races, -1)
-        df_with_last5 = spark_fact.withColumn(
-        "last_5_positions",
-        f.collect_list("position").over(window)
+        df_with_lastn = spark_fact.withColumn(
+            "last_n_positions",
+            f.collect_list("position").over(window)
         )
-        for i in range(n_races):
-            df_with_last5 = df_with_last5.withColumn(
-            f"last_{str(race_type).lower()}_pos_{i+1}",
-            f.expr(f"element_at(last_5_positions, {i+1})")
-        )
-        df_with_last5_pd = df_with_last5.toPandas()
-        race_columns = [col for col in df_with_last5_pd.columns if str(race_type).lower() in col]
-        other_cols = ['driver_number','position','session_key','date_end','key']
-        [df_with_last5_pd[col].fillna(value=99,inplace=True) for col in race_columns]
-        joined_cols = other_cols + race_columns
-        return df_with_last5_pd[joined_cols]
+        if measure == "position":
+            for i in range(n_races):
+                df_with_lastn = df_with_lastn.withColumn(
+                    f"last_{str(race_type).lower()}_pos_{i+1}",
+                    f.expr(f"element_at(last_n_positions, {i+1})")
+                )
+            df_pd = df_with_lastn.toPandas()
+            race_columns = [col for col in df_pd.columns if str(race_type).lower() in col]
+            other_cols = ['driver_number', 'position', 'session_key', 'date_end', 'key']
+            joined_cols = other_cols + race_columns
+            df_pd.dropna(subset=race_columns, inplace=True)
+            return df_pd[joined_cols]
+
+        elif measure == "avg":
+            df_with_lastn = df_with_lastn.withColumn(
+                f"avg_last_{n_races}_{str(race_type).lower()}",
+                f.expr(f"aggregate(last_n_positions, 0D, (acc, x) -> acc + x, acc -> acc / size(last_n_positions))")
+            )
+            df_pd = df_with_lastn.select(
+                "driver_number", "session_key", "date_end", "key",
+                f"avg_last_{n_races}_{str(race_type).lower()}"
+            ).toPandas()
+            df_pd.dropna(inplace=True)
+            return df_pd
+        elif measure == "std":
+            df_with_lastn = df_with_lastn.withColumn(
+                f"std_last_{n_races}_{str(race_type).lower()}",
+                f.expr(
+                    "sqrt(aggregate(last_n_positions, 0D, "
+                    "(acc, x) -> acc + pow(x - aggregate(last_n_positions, 0D, (a,b) -> a+b, a -> a / size(last_n_positions)), 2), "
+                    "acc -> acc / size(last_n_positions)))"
+                )
+            )
+            df_pd =  df_with_lastn.select("driver_number", "session_key", "date_end", "key",
+                                        f"std_last_{n_races}_{str(race_type).lower()}").toPandas()
+            df_pd.dropna(inplace=True)
+
+        else:
+            raise ValueError("Invalid 'measure' parameter. Choose from: 'position', 'avg', 'std'.")
+    
         
     def get_racer_team_points(self, racer_team = "driver") -> pd.DataFrame:
         """
@@ -65,17 +97,10 @@ class DataAggregator:
         """
         if racer_team not in ("driver", "team"):
             raise ValueError(f"The racer_team should be equal to 'driver' or 'team' got:{racer_team}")
-        
-        #Data
         dim_session = self.dims.dim_sessions(race='Race')
         dim_driver_team = self.dims.dim_driver_team()
         fact_session_result = self.facts.fact_session_results()
-
-        # Fill empty values
         fact_session_result['position'] = fact_session_result['position'].fillna(value=21)
-
-        # Join results
-
         joined_results = fact_session_result.merge(
             dim_session,
             on = "session_key",
