@@ -1,7 +1,7 @@
 from src.configuration import Configuration
 from src.fetch_data import DataFetcher
 import pandas as pd
-import numpy as np
+import time
 from src.facts import Facts
 from src.dim import Dims
 from pyspark.sql import SparkSession, Window
@@ -81,6 +81,7 @@ class DataAggregator:
             df_pd =  df_with_lastn.select("driver_number", "session_key", "date_end", "key",
                                         f"std_last_{n_races}_{str(race_type).lower()}").toPandas()
             df_pd.dropna(inplace=True)
+            return df_pd
 
         else:
             raise ValueError("Invalid 'measure' parameter. Choose from: 'position', 'avg', 'std'.")
@@ -137,6 +138,27 @@ class DataAggregator:
             return joined_results_team_pandas
 
         
+    def calculate_driver_points_difference(self) -> pd.DataFrame:
+        """
+        Function that calculate points difference between drivers in the same team per session.
+        """
+        racer_team_points = self.get_racer_team_points()
+        dim_driver_team = self.dims.dim_driver_team()
+        join_result = racer_team_points.merge(
+            dim_driver_team,
+            on=["driver_number","session_key"]
+        )
+        time.sleep(10)
+
+        merged = join_result.merge(
+            join_result,
+            on=["key","team_name"],
+            suffixes=["","_other"]
+        )
+        merged_filtered = merged[merged["driver_number"] != merged["driver_number_other"]]
+        merged_filtered["points_diff"] = merged_filtered["points_gained"] - merged_filtered["points_gained_other"]
+        return merged_filtered[["session_key","key","driver_number","points_diff"]]
+
     
 
         
