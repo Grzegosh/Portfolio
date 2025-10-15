@@ -53,7 +53,7 @@ class DataAggregator:
                 )
             df_pd = df_with_lastn.toPandas()
             race_columns = [col for col in df_pd.columns if str(race_type).lower() in col]
-            other_cols = ['driver_number', 'position', 'session_key', 'date_end', 'key']
+            other_cols = ['driver_number', 'position', 'key']
             joined_cols = other_cols + race_columns
             df_pd.dropna(subset=race_columns, inplace=True)
             return df_pd[joined_cols]
@@ -64,7 +64,7 @@ class DataAggregator:
                 f.expr(f"aggregate(last_n_positions, 0D, (acc, x) -> acc + x, acc -> acc / size(last_n_positions))")
             )
             df_pd = df_with_lastn.select(
-                "driver_number", "session_key", "date_end", "key",
+                "driver_number", "key",
                 f"avg_last_{n_races}_{str(race_type).lower()}"
             ).toPandas()
             df_pd.dropna(inplace=True)
@@ -78,7 +78,7 @@ class DataAggregator:
                     "acc -> acc / size(last_n_positions)))"
                 )
             )
-            df_pd =  df_with_lastn.select("driver_number", "session_key", "date_end", "key",
+            df_pd =  df_with_lastn.select("driver_number", "key",
                                         f"std_last_{n_races}_{str(race_type).lower()}").toPandas()
             df_pd.dropna(inplace=True)
             return df_pd
@@ -123,7 +123,7 @@ class DataAggregator:
             )
             joined_results_driver_pandas = joined_results_driver_spark.toPandas()
 
-            return joined_results_driver_pandas
+            return joined_results_driver_pandas[["session_key","driver_number","points_gained","key"]]
         
         else:
             needed_cols = ["session_key","key","year","driver_number","team_name","date_end", "points"]
@@ -131,14 +131,14 @@ class DataAggregator:
             joined_results_team_spark = self.spark.createDataFrame(joined_results)
             window = Window.partitionBy("team_name","year").orderBy("date_end")
             joined_results_team_spark = joined_results_team_spark.withColumn(
-                "points_gained",
+                "team_points_gained",
                 f.sum("points").over(window)
             )
             joined_results_team_pandas = joined_results_team_spark.toPandas()
-            return joined_results_team_pandas
+            return joined_results_team_pandas[["key","driver_number","team_name","team_points_gained"]]
 
         
-    def calculate_driver_points_difference(self) -> pd.DataFrame:
+    def calculate_gap_to_teammate(self) -> pd.DataFrame:
         """
         Function that calculate points difference between drivers in the same team per session.
         """
@@ -152,12 +152,43 @@ class DataAggregator:
 
         merged = join_result.merge(
             join_result,
-            on=["key","team_name"],
+            on=["session_key","team_name"],
             suffixes=["","_other"]
         )
         merged_filtered = merged[merged["driver_number"] != merged["driver_number_other"]]
-        merged_filtered["points_diff"] = merged_filtered["points_gained"] - merged_filtered["points_gained_other"]
-        return merged_filtered[["session_key","key","driver_number","points_diff"]]
+        merged_filtered["points_gap_to_teammate"] = merged_filtered["points_gained"] - merged_filtered["points_gained_other"]
+        return merged_filtered[["key","driver_number","points_gap_to_teammate"]]
+
+
+    def calculate_gap_to_leader(self):
+        """
+        Calculates points gap to the leader per session.
+        """
+        racer_points = self.get_racer_team_points(racer_team="driver")
+
+        # Calculate max points per session
+
+        max_per_session = racer_points.groupby(
+            "key"
+        ).agg(
+            {'points_gained':'max'}
+        ).reset_index()
+
+        # Join to racer_points DataFrame
+
+        merged_results = racer_points.merge(
+            max_per_session,
+            on="key",
+            how="inner",
+            suffixes=["_racer","_total"]
+        )
+
+        # Calculate the difference to leader
+
+        merged_results["gap_to_leader"] = merged_results["points_gained_total"] - merged_results["points_gained_racer"]
+
+        return merged_results[["key","driver_number","gap_to_leader"]]
+
 
     
 
