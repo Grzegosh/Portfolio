@@ -1,6 +1,5 @@
 from src.configuration import Configuration
 from src.fetch_data import DataFetcher
-import datetime
 import pandas as pd
 
 
