@@ -8,7 +8,7 @@ This repository contains a collection of my **data analysis**, **machine learnin
 
 ## 👨‍💻 About Me
 
-I'm **Grzegorz**, a Data Analyst from **Knurów, Poland**, with a strong passion for uncovering insights from data and building predictive models.  
+I'm Grzegorz, a Data Analyst, with a strong passion for uncovering insights from data and building predictive models.  
 Over the past few years, I have worked on various analytical and AI-driven projects — from data cleaning and visualization to developing advanced machine learning solutions.  
 In my daily work, I also use **AI tools and frameworks** to enhance analysis, automate workflows, and explore new modeling approaches.
 
@@ -49,3 +49,4 @@ Each folder contains a separate project, including data exploration, feature eng
 Clone this repository:
 ```bash
 git clone https://github.com/Grzegosh/Portfolio.git
+
