@@ -188,6 +188,28 @@ class DataAggregator:
         merged_results["gap_to_leader"] = merged_results["points_gained_total"] - merged_results["points_gained_racer"]
 
         return merged_results[["key","driver_number","gap_to_leader"]]
+    
+    def calculate_pit_stop_efficiency(self) -> pd.DataFrame:
+        """
+        Calculates average pit stop time, and number of pit stops per driver per session.
+        """
+        needed_cols = ["key", "session_key"]
+        fact_pit_stops = self.facts.fact_pit_stops()
+        dim_session = self.dims.dim_sessions()
+        dim_session = dim_session[dim_session["session_name"]=="Race"]
+        dim_session = dim_session[needed_cols]
+        merged = dim_session.merge(
+        fact_pit_stops,
+        on = "session_key"
+        )
+        data = merged.groupby(["key", "driver_number"]).agg(
+        pit_duration_avg=("pit_duration", "mean"),
+        pit_stop_count=("driver_number", "count")
+        ).reset_index()
+        return data
+
+
+
 
 
     
