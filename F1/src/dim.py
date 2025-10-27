@@ -47,3 +47,10 @@ class Dims:
             session_df = session_df[session_df['session_name'] == race]
             session_df['key'] = [x + str(y) for x,y in zip(session_df["location"], pd.to_datetime(session_df["date_start"]).dt.year)]
             return session_df
+        
+    def dim_weather(self, race_type: str) -> pd.DataFrame:
+        """
+        Fetch weather data for all sessions.
+        """
+        data = self.fetcher.fetch_weather(race_type=race_type)
+        return data

@@ -15,6 +15,7 @@ class Configuration:
         self.overtakes_url = self.config['open_f1']['overtakes_url']
         self.session_results_url = self.config['open_f1']['session_results_url']
         self.laps_url = self.config['open_f1']['laps_url']
+        self.weather_url = self.config['open_f1']['weather_url']
 
     # Season configuration
 

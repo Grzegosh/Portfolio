@@ -3,6 +3,7 @@ import requests
 import pandas as pd 
 from src.configuration import Configuration
 import datetime
+import time
 
 class DataFetcher:
     def __init__(self, config: Configuration) -> None:
@@ -63,3 +64,59 @@ class DataFetcher:
     
     def fetch_laps(self, driver_number: int) -> pd.DataFrame:
         return self.fetch_data(f"{self.config.laps_url}?driver_number={driver_number}")
+    
+    def fetch_weather(self, race_type: str) -> pd.DataFrame:
+        sessions = self.fetch_sessions()
+        frame = []
+        if race_type == "Race":
+            filtered_sessions = sessions[sessions['session_name'] == 'Race']
+            unique_session_keys = list(filtered_sessions['session_key'].unique())
+            for key in unique_session_keys:
+                data = self.fetch_data(f"{self.config.weather_url}?session_key={key}")
+                time.sleep(5)
+                frame.append(data)
+            # Agregate Data
+            merged_frame = pd.concat(frame, ignore_index=True)
+            groupped_frame = (
+                merged_frame.groupby("session_key")
+                .agg(
+                    wind_direction_race_avg = ("wind_direction", "mean"),
+                    wind_speed_race_avg = ("wind_speed", "mean"),
+                    has_rainfall_race = ("rainfall", "max"),
+                    track_temperature_race_avg = ("track_temperature", "mean"),
+                    air_temperature_race_avg = ("air_temperature", "mean"),
+                    humidity_race_avg = ("humidity", "mean"),
+                    pressure_race_avg = ("pressure", "mean")
+
+                )
+            )
+            return groupped_frame.reset_index()
+
+
+        elif race_type == "Qualifying":
+            filtered_sessions = sessions[sessions['session_name'] == 'Qualifying']
+            unique_session_keys = list(filtered_sessions['session_key'].unique())
+            for key in unique_session_keys:
+                data = self.fetch_data(f"{self.config.weather_url}?session_key={key}")
+                time.sleep(5)
+                frame.append(data)
+            # Agregate Data
+            merged_frame = pd.concat(frame, ignore_index=True)
+            groupped_frame = (
+                merged_frame.groupby("session_key")
+                .agg(
+                    wind_direction_qualifying_avg = ("wind_direction", "mean"),
+                    wind_speed_qualifying_avg = ("wind_speed", "mean"),
+                    has_rainfall_qualifying = ("rainfall", "max"),
+                    track_temperature_qualifying_avg = ("track_temperature", "mean"),
+                    air_temperature_qualifying_avg = ("air_temperature", "mean"),
+                    humidity_qualifying_avg = ("humidity", "mean"),
+                    pressure_qualifying_avg = ("pressure", "mean")
+                )
+            )
+            return groupped_frame.reset_index()
+        else:
+            raise ValueError(f"Race type should be 'Race' or 'Qualifying', got: {race_type}")
+        
+ 
+        
