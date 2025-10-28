@@ -207,6 +207,9 @@ class DataAggregator:
         pit_stop_count=("driver_number", "count")
         ).reset_index()
         return data
+    
+
+    ## TODO: Dodać informacje o numerze wyscigu w sezonie oraz gap to best team
 
 
 
