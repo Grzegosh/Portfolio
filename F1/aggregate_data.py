@@ -209,13 +209,40 @@ class DataAggregator:
         return data
     
 
-    ## TODO: Dodać informacje o numerze wyscigu w sezonie oraz gap to best team
-
-
-
-
-
+    def calculate_race_sequence_number(self) -> pd.DataFrame:
+        """
+        Provides information about the race number in the season
+        """
+        dim_sessions = self.dims.dim_sessions(race='Race')
+        dim_sessions = dim_sessions.sort_values(['year','date_start'])
+        dim_sessions['race_number'] = dim_sessions.groupby('year').cumcount() + 1
+        return dim_sessions[['key','race_number']]
     
+
+    def calculate_gap_to_best_team(self) -> pd.DataFrame:
+        """
+        Calculates points gap to the best team per session.
+        """
+        racer_team_points = self.get_racer_team_points(racer_team="team")
+        max_per_session = racer_team_points.groupby(
+            "key"
+        ).agg(
+            {'team_points_gained':'max'}
+        ).reset_index()
+
+        merged_results = racer_team_points.merge(
+            max_per_session,
+            on="key",
+            how="inner",
+            suffixes=["_team","_total"]
+        )
+
+        merged_results["gap_to_best_team"] = merged_results["team_points_gained_total"] - merged_results["team_points_gained_team"]
+
+        return merged_results[["key","driver_number","gap_to_best_team"]]
+
+    ## TODO: Dodaj informacje o roznicach miedzy kwalifikacjami a wyscigiem
+
 
         
 
