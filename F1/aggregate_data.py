@@ -191,22 +191,48 @@ class DataAggregator:
     
     def calculate_pit_stop_efficiency(self) -> pd.DataFrame:
         """
-        Calculates average pit stop time, and number of pit stops per driver per session.
+        Calculates the median time of pit stop from last 5 races.
         """
-        needed_cols = ["key", "session_key"]
+        needed_cols = ["key", "session_key", "date_start"]
         fact_pit_stops = self.facts.fact_pit_stops()
         dim_session = self.dims.dim_sessions()
         dim_session = dim_session[dim_session["session_name"]=="Race"]
         dim_session = dim_session[needed_cols]
-        merged = dim_session.merge(
+        pits_sessions = dim_session.merge(
         fact_pit_stops,
         on = "session_key"
         )
-        data = merged.groupby(["key", "driver_number"]).agg(
-        pit_duration_avg=("pit_duration", "mean"),
-        pit_stop_count=("driver_number", "count")
-        ).reset_index()
-        return data
+        pits_sessions_spark = self.spark.createDataFrame(pits_sessions)
+        window_spec = Window\
+            .partitionBy("driver_number")\
+            .orderBy(f.col("date_start"))\
+            .rowsBetween(-5, -1)
+        
+        pits_aggregated = pits_sessions_spark.groupBy(
+            "driver_number", "key"
+        ).agg(
+            f.expr("percentile_approx(pit_duration, 0.5)").alias("median_pit_stop_time"),
+            f.first("date_start").alias("date_start")
+        )
+
+        total_median = pits_aggregated.agg(
+            f.expr("percentile_approx(median_pit_stop_time, 0.5)").alias("overall_median_pit_stop_time")
+        ).collect()[0]["overall_median_pit_stop_time"]
+
+
+        result = pits_aggregated.withColumn(
+            "last_5_races_median_pit_stop_time",
+            f.round(f.expr("percentile_approx(median_pit_stop_time, 0.5)").over(window_spec),3)
+        ).select(
+            "driver_number",
+            "key",
+            f.coalesce(
+                f.col("last_5_races_median_pit_stop_time"), f.lit(total_median)
+            ).alias("last_5_races_median_pit_stop_time")
+        )
+
+        return result.toPandas()
+        
     
 
     def calculate_race_sequence_number(self) -> pd.DataFrame:
