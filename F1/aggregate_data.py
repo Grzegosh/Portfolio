@@ -267,8 +267,36 @@ class DataAggregator:
 
         return merged_results[["key","driver_number","gap_to_best_team"]]
 
-    ## TODO: Dodaj informacje o roznicach miedzy kwalifikacjami a wyscigiem
-
-
+    def calculate_total_wins(self, race_type: str) -> pd.DataFrame:
+        """
+        Calculates total number of wins for driver in the season.
+        _______________________
+        params
+            race_type -> 'Race' or 'Qualifying'.
+        """
+        if race_type not in ("Race", "Qualifying"):
+            raise ValueError(f"Race variable should be 'Race', or 'Qualifying' got: {race_type}")
+        fact_session_results = self.facts.fact_session_results()
+        dim_sessions = self.dims.dim_sessions()
+        dim_sessions_race = dim_sessions[dim_sessions["session_name"] == race_type]
+        fact_session_results_races = fact_session_results.merge(
+            dim_sessions_race,
+            on="session_key",
+            how="inner"
+        )[['driver_number', 'position', 'session_key', 'date_end', 'key']]
+        fact_session_results_races['position'] = fact_session_results_races['position'].fillna(value=21)
+        fact_session_results_races['is_winner'] = (fact_session_results_races['position'] == 1).astype(int)
+        fact_session_results_races = fact_session_results_races.sort_values(['driver_number', 'date_end'])
+        col_name = f"wins_before_session_{race_type}"
+        fact_session_results_races[col_name] = (
+        fact_session_results_races
+        .groupby('driver_number')['is_winner']
+        .cumsum()
+        .shift(1)
+        .fillna(0)
+        .astype(int)
+        )
+        return fact_session_results_races[['driver_number', 'key', col_name]]
+        
         
 
