@@ -93,7 +93,64 @@ class DataAggregator:
                 col_name = f'std_position_last_{n_races}_{race_type}'.lower()
                 return race_merged_data.rename(columns={"session_key_x":"session_key","key_x":"key","position":col_name})
         
+        else:
+            def quali_merged_data():     
+                fact_session_results = self.facts.fact_session_results()
+                dim_session_quali = self.dims.dim_sessions('Qualifying')
+                dim_session_quali["date_end"] = pd.to_datetime(dim_session_quali["date_end"])
+                def last_quali_before(date):
+                    prev = quali_dates[quali_dates < date]
+                    return [d.date() for d in prev.tail(n_races)]
+                quali_dates = dim_session_quali.sort_values("date_end")["date_end"].reset_index(drop=True)
+                dim_session_quali["last5_quali_dates"] = dim_session_quali["date_end"].apply(last_quali_before)
+                dim_sessions_quali_exploded = dim_session_quali.explode('last5_quali_dates')
+                dim_sessions_quali_exploded['last5_quali_dates'] = pd.to_datetime(dim_sessions_quali_exploded['last5_quali_dates'])
+                merged = dim_sessions_quali_exploded.merge(
+                    dim_session_quali,
+                    left_on='last5_quali_dates',
+                    right_on='date_end'
+                ).merge(
+                    fact_session_results,
+                    left_on='session_key_y',
+                    right_on='session_key'
+                )
+                return merged
+        
+            if measure == "position":
+                fact_session_results = self.facts.fact_session_results()
+                quali_merged_data = quali_merged_data()
+                quali_merged_data = quali_merged_data.groupby(
+                    ['session_key_x', 'driver_number','key_x']
+                    )['position'].apply(list).reset_index()
+                for i in range(n_races):
+                    col_name = f'last_{i+1}_quali_position'
+                    quali_merged_data[col_name] = quali_merged_data['position'].apply(lambda x: x[i] if len(x) > i else None)
 
+                final_data = quali_merged_data.drop(columns=['position'])
+                final_data = final_data.merge(
+                    fact_session_results[['session_key','driver_number','position']],
+                    left_on=['session_key_x','driver_number'],
+                    right_on=['session_key','driver_number'],
+                    how='inner'
+                )
+                return final_data.rename(columns={"key_x":"key", "position":"current_quali_position"}).drop(columns=['session_key']).rename(
+                    columns={"session_key_x":"session_key"}
+                )
+
+            elif measure == "avg":
+                quali_merged_data = quali_merged_data()
+                quali_merged_data = quali_merged_data.groupby(
+                    ['session_key_x', 'driver_number','key_x']
+                )['position'].mean().reset_index()
+                col_name = f'avg_position_last_{n_races}_{race_type}'.lower()
+                return quali_merged_data.rename(columns={"session_key_x":"session_key","key_x":"key","position":col_name})
+            else:
+                quali_merged_data = quali_merged_data()
+                quali_merged_data = quali_merged_data.groupby(
+                    ['session_key_x', 'driver_number','key_x']
+                )['position'].std().reset_index()
+                col_name = f'std_position_last_{n_races}_{race_type}'.lower()
+                return quali_merged_data.rename(columns={"session_key_x":"session_key","key_x":"key","position":col_name})
            
                 
 
