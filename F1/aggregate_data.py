@@ -197,11 +197,11 @@ class DataAggregator:
 
             # Group The data by driver and key
             result = result.groupby(
-                ['driver_number', 'key_x']
+                ['driver_number', 'key_x', 'session_key_x']
             ).agg(
                 points_gained_driver = ('points', 'sum')
             ).reset_index()
-            return result.rename(columns={"key_x":"key"})
+            return result.rename(columns={"key_x":"key", "session_key_x":"session_key"})
         
         # Team Results
         else:
@@ -215,13 +215,13 @@ class DataAggregator:
                 suffixes=['','_team'],
                 on = ['driver_number','session_key']
             ).groupby(
-                ['team_name','key_x']
+                ['team_name','key_x', 'session_key_x']
             ).agg(
-                team_points_gained = ('points', 'sum')
+                points_gained_team = ('points', 'sum')
             ).reset_index(
 
             ).rename(
-                columns={"key_x":"key"}
+                columns={"key_x":"key", "session_key_x":"session_key"}
             )
 
             return merged
@@ -234,6 +234,7 @@ class DataAggregator:
         Function that calculate points difference between drivers in the same team per session.
         """
         racer_team_points = self.get_racer_team_points()
+        time.sleep(5)
         dim_driver_team = self.dims.dim_driver_team()
         join_result = racer_team_points.merge(
             dim_driver_team,
@@ -247,7 +248,7 @@ class DataAggregator:
             suffixes=["","_other"]
         )
         merged_filtered = merged[merged["driver_number"] != merged["driver_number_other"]]
-        merged_filtered["points_gap_to_teammate"] = merged_filtered["points_gained"] - merged_filtered["points_gained_other"]
+        merged_filtered["points_gap_to_teammate"] = merged_filtered["points_gained_driver"] - merged_filtered["points_gained_driver_other"]
         return merged_filtered[["key","driver_number","points_gap_to_teammate"]]
 
 
@@ -262,7 +263,7 @@ class DataAggregator:
         max_per_session = racer_points.groupby(
             "key"
         ).agg(
-            {'points_gained':'max'}
+            points_gained_driver = ('points_gained_driver', 'max')
         ).reset_index()
 
         # Join to racer_points DataFrame
@@ -271,16 +272,18 @@ class DataAggregator:
             max_per_session,
             on="key",
             how="inner",
-            suffixes=["_racer","_total"]
+            suffixes=["","_total"]
         )
 
         # Calculate the difference to leader
 
-        merged_results["gap_to_leader"] = merged_results["points_gained_total"] - merged_results["points_gained_racer"]
+        merged_results["gap_to_leader"] = merged_results["points_gained_driver_total"] - merged_results["points_gained_driver"]
 
         return merged_results[["key","driver_number","gap_to_leader"]]
     
+    
     def calculate_pit_stop_efficiency(self) -> pd.DataFrame:
+        # TODO : START FIXING THIS FUNCTIOM
         """
         Calculates the median time of pit stop from last 5 races.
         """
