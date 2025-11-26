@@ -151,12 +151,8 @@ class DataAggregator:
                 )['position'].std().reset_index()
                 col_name = f'std_position_last_{n_races}_{race_type}'.lower()
                 return quali_merged_data.rename(columns={"session_key_x":"session_key","key_x":"key","position":col_name})
-           
-                
-
-
-
-        
+            
+      
     def get_racer_team_points(self, racer_team = "driver") -> pd.DataFrame:
         """
         Returns number of points gathered throughout the whole season.
@@ -168,44 +164,69 @@ class DataAggregator:
         """
         if racer_team not in ("driver", "team"):
             raise ValueError(f"The racer_team should be equal to 'driver' or 'team' got:{racer_team}")
-        dim_session = self.dims.dim_sessions(race='Race')
-        dim_driver_team = self.dims.dim_driver_team()
-        fact_session_result = self.facts.fact_session_results()
-        fact_session_result['position'] = fact_session_result['position'].fillna(value=21)
-        joined_results = fact_session_result.merge(
-            dim_session,
-            on = "session_key",
-            how="inner"
-        ).merge(
-            dim_driver_team,
-            on = ['driver_number','session_key'],
-            how = "inner"
-        )
-
-        if racer_team == "driver":
-            needed_cols = ["session_key","key","year","driver_number","date_end", "points"]
-            joined_results = joined_results[needed_cols]
-            joined_results_driver_spark = self.spark.createDataFrame(joined_results)
-            window = Window.partitionBy("driver_number","year").orderBy("date_end")
-            joined_results_driver_spark = joined_results_driver_spark.withColumn(
-                "points_gained",
-                f.sum("points").over(window)
-            )
-            joined_results_driver_pandas = joined_results_driver_spark.toPandas()
-
-            return joined_results_driver_pandas[["session_key","driver_number","points_gained","key"]]
         
-        else:
-            needed_cols = ["session_key","key","year","driver_number","team_name","date_end", "points"]
-            joined_results = joined_results[needed_cols]
-            joined_results_team_spark = self.spark.createDataFrame(joined_results)
-            window = Window.partitionBy("team_name","year").orderBy("date_end")
-            joined_results_team_spark = joined_results_team_spark.withColumn(
-                "team_points_gained",
-                f.sum("points").over(window)
+        # Get the session results Data
+        fact_session_results = self.facts.fact_session_results()
+        fact_session_results['points'] = fact_session_results['points'].fillna(0)
+        # Prepare qualification data dim
+        dim_session_quali = self.dims.dim_sessions(race="Qualifying")
+        dim_session_quali["date_end"] = pd.to_datetime(dim_session_quali["date_end"])
+        dim_session_quali['race_date'] = pd.to_datetime(dim_session_quali['date_end'].dt.date + timedelta(days=1))
+        dim_session_quali = dim_session_quali.sort_values("date_end")
+        # Prepare race data dim
+        dim_session_race = self.dims.dim_sessions(race="Race")
+        dim_session_race["date_end"] = pd.to_datetime(dim_session_race["date_end"])
+        dim_session_race = dim_session_race.sort_values("date_end")
+  
+        # Get all the dates of race before qualification
+        merged_quali = dim_session_quali.merge(
+            dim_session_race,
+            how = 'cross'
+        )
+        merged_quali = merged_quali[(merged_quali["date_end_y"] < merged_quali["race_date"]) & (
+            merged_quali["year_x"] == merged_quali["year_y"]
+        )]
+        
+        # Driver Results
+        if racer_team == "driver":
+            result = merged_quali.merge(
+                fact_session_results,
+                left_on = 'session_key_y',
+                right_on = 'session_key'
             )
-            joined_results_team_pandas = joined_results_team_spark.toPandas()
-            return joined_results_team_pandas[["key","driver_number","team_name","team_points_gained"]]
+
+            # Group The data by driver and key
+            result = result.groupby(
+                ['driver_number', 'key_x']
+            ).agg(
+                points_gained_driver = ('points', 'sum')
+            ).reset_index()
+            return result.rename(columns={"key_x":"key"})
+        
+        # Team Results
+        else:
+            dim_driver_team = self.dims.dim_driver_team()
+            merged = merged_quali.merge(
+                fact_session_results,
+                left_on = 'session_key_y',
+                right_on = 'session_key'
+            ).merge(
+                dim_driver_team,
+                suffixes=['','_team'],
+                on = ['driver_number','session_key']
+            ).groupby(
+                ['team_name','key_x']
+            ).agg(
+                team_points_gained = ('points', 'sum')
+            ).reset_index(
+
+            ).rename(
+                columns={"key_x":"key"}
+            )
+
+            return merged
+
+            
 
         
     def calculate_gap_to_teammate(self) -> pd.DataFrame:
