@@ -16,7 +16,7 @@ class DataAggregator:
         self.facts = Facts(self.config, self.fetcher)
         self.dims = Dims(self.config, self.fetcher)
         self.spark = SparkSession.builder.appName("session").master("local").getOrCreate()
-        
+
     def get_last_races_result(self, n_races: int, race_type: str, measure: str = "position") -> pd.DataFrame:
         """
         For every driver and session returns last n_races results or statistics.
@@ -343,7 +343,7 @@ class DataAggregator:
         """
         racer_team_points = self.get_racer_team_points(racer_team="team")
         max_per_session = racer_team_points.groupby(
-            "key"
+            ["key","team_name"]
         ).agg(
             {'points_gained_team':'max'}
         ).reset_index()
@@ -357,7 +357,7 @@ class DataAggregator:
 
         merged_results["gap_to_best_team"] = merged_results["points_gained_team_total"] - merged_results["points_gained_team"]
 
-        return merged_results[["key","gap_to_best_team"]]
+        return merged_results[["key","team_name","gap_to_best_team"]]
 
     def calculate_total_wins(self, race_type: str) -> pd.DataFrame:
         """
@@ -395,20 +395,14 @@ class DataAggregator:
 
             # Aggregate wins per session
             merged_result = merged.groupby(
-                ['session_key', 'key', 'driver_number', 'date_end']
+                'driver_number',
             ).agg(
                 wins=('is_winner', 'sum')
             ).reset_index()
 
-            # Sort for cumulative
-            merged_result = merged_result.sort_values(['driver_number', 'date_end'])
+            return merged_result
 
-            # Cumulative wins
-            merged_result['cumulative_wins_quali'] = (
-                merged_result.groupby('driver_number')['wins'].cumsum()
-            )
 
-            return merged_result[['session_key', 'key', 'driver_number', 'cumulative_wins_quali']]
 
         # ==========================
         #           RACE
@@ -441,28 +435,16 @@ class DataAggregator:
 
             # Aggregate wins per race session
             groupped_reslts = merged_sessions_race.groupby(
-                ['session_key_x', 'key_x', 'driver_number', 'date_end_y']
+                'driver_number'
             ).agg(
                 wins=('is_winner', 'sum')
             ).reset_index()
 
-            # Sort for cumulative sum
-            groupped_reslts = groupped_reslts.sort_values(['driver_number', 'date_end_y'])
-
-            # Add cumulative wins
-            groupped_reslts['cumulative_wins_race'] = (
-                groupped_reslts.groupby('driver_number')['wins'].cumsum()
+            return groupped_reslts.rename(
+                columns={"session_key_x":"session_key","key_x":"key"}
             )
 
-            # Rename for consistency
-            groupped_reslts = groupped_reslts.rename(
-                columns={
-                    "session_key_x": "session_key",
-                    "key_x": "key"
-                }
-            )
-
-            return groupped_reslts[['session_key', 'key', 'driver_number', 'cumulative_wins_race']]
+            
 
             
 
