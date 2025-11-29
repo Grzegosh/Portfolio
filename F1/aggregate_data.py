@@ -283,49 +283,50 @@ class DataAggregator:
     
     
     def calculate_pit_stop_efficiency(self) -> pd.DataFrame:
-        # TODO : START FIXING THIS FUNCTIOM
+
         """
-        Calculates the median time of pit stop from last 5 races.
+        Calculates the median time of pit stop per driver.
         """
-        needed_cols = ["key", "session_key", "date_start"]
+        # Get Necessary Data
+        needed_cols = ["key", "session_key", "date_end"]
         fact_pit_stops = self.facts.fact_pit_stops()
-        dim_session = self.dims.dim_sessions()
-        dim_session = dim_session[dim_session["session_name"]=="Race"]
-        dim_session = dim_session[needed_cols]
-        pits_sessions = dim_session.merge(
-        fact_pit_stops,
-        on = "session_key"
+        dim_session_race = self.dims.dim_sessions(race="Race")[needed_cols]
+        dim_session_quali = self.dims.dim_sessions(race="Qualifying")[needed_cols]
+
+        #Change date types
+        dim_session_race['date_end'] = pd.to_datetime(dim_session_race['date_end'])
+        dim_session_quali['date_end'] = pd.to_datetime(dim_session_quali['date_end'])
+
+        # Add race date to quali sessions
+        dim_session_quali["race_date"] = pd.to_datetime(dim_session_quali["date_end"].dt.date + timedelta(days=1))
+
+        # Merge data with race data
+
+        merged_quali = dim_session_quali.merge(
+            dim_session_race,
+            how = 'cross'
         )
-        pits_sessions_spark = self.spark.createDataFrame(pits_sessions)
-        window_spec = Window\
-            .partitionBy("driver_number")\
-            .orderBy(f.col("date_start"))\
-            .rowsBetween(-5, -1)
+
+        # Filter only previous races
+        merged_quali = merged_quali[merged_quali['date_end_y'] < merged_quali['race_date']]
+
+        # Merge with pit stop data
+
+        merged_quali_pitstop = merged_quali.merge(
+            fact_pit_stops,
+            left_on = 'session_key_y',
+            right_on='session_key'
+        )
         
-        pits_aggregated = pits_sessions_spark.groupBy(
-            "driver_number", "key"
+        result = merged_quali_pitstop.groupby(
+            ['key_x', 'driver_number']
         ).agg(
-            f.expr("percentile_approx(pit_duration, 0.5)").alias("median_pit_stop_time"),
-            f.first("date_start").alias("date_start")
-        )
+            median_pit_stop_time = ('pit_duration', 'median')
+        ).reset_index()
 
-        total_median = pits_aggregated.agg(
-            f.expr("percentile_approx(median_pit_stop_time, 0.5)").alias("overall_median_pit_stop_time")
-        ).collect()[0]["overall_median_pit_stop_time"]
+        return result.rename(columns={"key_x":"key"})
 
 
-        result = pits_aggregated.withColumn(
-            "last_5_races_median_pit_stop_time",
-            f.round(f.expr("percentile_approx(median_pit_stop_time, 0.5)").over(window_spec),3)
-        ).select(
-            "driver_number",
-            "key",
-            f.coalesce(
-                f.col("last_5_races_median_pit_stop_time"), f.lit(total_median)
-            ).alias("last_5_races_median_pit_stop_time")
-        )
-
-        return result.toPandas()
         
     
 
