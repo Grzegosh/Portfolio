@@ -327,14 +327,11 @@ class DataAggregator:
         return result.rename(columns={"key_x":"key"})
 
 
-        
-    
-
     def calculate_race_sequence_number(self) -> pd.DataFrame:
         """
         Provides information about the race number in the season
         """
-        dim_sessions = self.dims.dim_sessions(race='Race')
+        dim_sessions = self.dims.dim_sessions(race='Qualifying')
         dim_sessions = dim_sessions.sort_values(['year','date_start'])
         dim_sessions['race_number'] = dim_sessions.groupby('year').cumcount() + 1
         return dim_sessions[['key','race_number']]
@@ -348,50 +345,129 @@ class DataAggregator:
         max_per_session = racer_team_points.groupby(
             "key"
         ).agg(
-            {'team_points_gained':'max'}
+            {'points_gained_team':'max'}
         ).reset_index()
 
         merged_results = racer_team_points.merge(
             max_per_session,
             on="key",
             how="inner",
-            suffixes=["_team","_total"]
+            suffixes=["","_total"]
         )
 
-        merged_results["gap_to_best_team"] = merged_results["team_points_gained_total"] - merged_results["team_points_gained_team"]
+        merged_results["gap_to_best_team"] = merged_results["points_gained_team_total"] - merged_results["points_gained_team"]
 
-        return merged_results[["key","driver_number","gap_to_best_team"]]
+        return merged_results[["key","gap_to_best_team"]]
 
     def calculate_total_wins(self, race_type: str) -> pd.DataFrame:
         """
-        Calculates total number of wins for driver in the season.
-        _______________________
-        params
-            race_type -> 'Race' or 'Qualifying'.
+        Calculates cumulative number of wins for each driver in the season.
+        race_type -> 'Race' or 'Qualifying'
         """
         if race_type not in ("Race", "Qualifying"):
             raise ValueError(f"Race variable should be 'Race', or 'Qualifying' got: {race_type}")
-        fact_session_results = self.facts.fact_session_results()
-        dim_sessions = self.dims.dim_sessions()
-        dim_sessions_race = dim_sessions[dim_sessions["session_name"] == race_type]
-        fact_session_results_races = fact_session_results.merge(
-            dim_sessions_race,
-            on="session_key",
-            how="inner"
-        )[['driver_number', 'position', 'session_key', 'date_end', 'key']]
-        fact_session_results_races['position'] = fact_session_results_races['position'].fillna(value=21)
-        fact_session_results_races['is_winner'] = (fact_session_results_races['position'] == 1).astype(int)
-        fact_session_results_races = fact_session_results_races.sort_values(['driver_number', 'date_end'])
-        col_name = f"wins_before_session_{race_type}"
-        fact_session_results_races[col_name] = (
-        fact_session_results_races
-        .groupby('driver_number')['is_winner']
-        .cumsum()
-        .shift(1)
-        .fillna(0)
-        .astype(int)
-        )
-        return fact_session_results_races[['driver_number', 'key', col_name]]
         
+        # Get necessary Data
+        fact_session_results = self.facts.fact_session_results()
+        dim_session_quali = self.dims.dim_sessions('Qualifying')
+        dim_session_race = self.dims.dim_sessions('Race')
+
+        # Correct date formats
+        dim_session_quali['date_end'] = pd.to_datetime(dim_session_quali['date_end'])
+        dim_session_race['date_end'] = pd.to_datetime(dim_session_race['date_end'])
+
+        # Sort sessions
+        dim_session_quali = dim_session_quali.sort_values('date_end')
+        dim_session_race = dim_session_race.sort_values('date_end')
+
+        # ==========================
+        #        QUALIFYING
+        # ==========================
+        if race_type == 'Qualifying':
+            # Merge
+            merged = dim_session_quali.merge(
+                fact_session_results,
+                on='session_key'
+            )
+
+            # Flag winner
+            merged['is_winner'] = merged['position'].apply(lambda x: 1 if x == 1 else 0)
+
+            # Aggregate wins per session
+            merged_result = merged.groupby(
+                ['session_key', 'key', 'driver_number', 'date_end']
+            ).agg(
+                wins=('is_winner', 'sum')
+            ).reset_index()
+
+            # Sort for cumulative
+            merged_result = merged_result.sort_values(['driver_number', 'date_end'])
+
+            # Cumulative wins
+            merged_result['cumulative_wins_quali'] = (
+                merged_result.groupby('driver_number')['wins'].cumsum()
+            )
+
+            return merged_result[['session_key', 'key', 'driver_number', 'cumulative_wins_quali']]
+
+        # ==========================
+        #           RACE
+        # ==========================
+        else:
+            # Add race date (your logic)
+            dim_session_quali['race_date'] = dim_session_quali['date_end'].dt.date + timedelta(days=1)
+
+            # Cross join
+            merged_sessions = dim_session_quali.merge(
+                dim_session_race,
+                how='cross'
+            )
+
+            # Filter by logic: race after quali, same year
+            merged_sessions = merged_sessions[
+                (merged_sessions['date_end_y'] > merged_sessions['date_end_x']) &
+                (merged_sessions['year_x'] == merged_sessions['year_y'])
+            ]
+
+            # Merge with actual results
+            merged_sessions_race = merged_sessions.merge(
+                fact_session_results,
+                left_on='session_key_y',
+                right_on='session_key'
+            )
+
+            # Winner flag
+            merged_sessions_race['is_winner'] = merged_sessions_race['position'].apply(lambda x: 1 if x == 1 else 0)
+
+            # Aggregate wins per race session
+            groupped_reslts = merged_sessions_race.groupby(
+                ['session_key_x', 'key_x', 'driver_number', 'date_end_y']
+            ).agg(
+                wins=('is_winner', 'sum')
+            ).reset_index()
+
+            # Sort for cumulative sum
+            groupped_reslts = groupped_reslts.sort_values(['driver_number', 'date_end_y'])
+
+            # Add cumulative wins
+            groupped_reslts['cumulative_wins_race'] = (
+                groupped_reslts.groupby('driver_number')['wins'].cumsum()
+            )
+
+            # Rename for consistency
+            groupped_reslts = groupped_reslts.rename(
+                columns={
+                    "session_key_x": "session_key",
+                    "key_x": "key"
+                }
+            )
+
+            return groupped_reslts[['session_key', 'key', 'driver_number', 'cumulative_wins_race']]
+
+            
+
+
+        
+
         
 
