@@ -17,6 +17,46 @@ class DataAggregator:
         self.dims = Dims(self.config, self.fetcher)
         self.spark = SparkSession.builder.appName("session").master("local").getOrCreate()
 
+
+    def map_quali_to_race(self):
+        """
+        Function that maps qualification session key to race session key.
+        It also gives information about race results for each finished session.
+        """
+        # Get Necessary Data
+        dim_session_quali = self.dims.dim_sessions('Qualifying')
+        dim_session_race = self.dims.dim_sessions('Race')
+        fact_session_results = self.facts.fact_session_results()
+
+        # Update position NaN values to a high number
+        fact_session_results['position'] = fact_session_results['position'].fillna(21)
+
+        # Change date date type
+        dim_session_quali['date_end'] = pd.to_datetime(dim_session_quali['date_end'])
+        dim_session_race['date_end'] = pd.to_datetime(dim_session_race['date_end'])
+
+        # Add race date to qualification data frame
+        dim_session_quali['race_date'] = dim_session_quali['date_end'].dt.date + timedelta(days=1)
+
+        # Merge Quali with Race 
+        merged_sessions = dim_session_quali.merge(
+            dim_session_race,
+            on='key',
+            suffixes=['_quali', '_race']
+        )
+        necessary_columns = ['session_key_quali', 'session_key_race', 'date_end_quali', 'date_end_race']
+        merged_sessions = merged_sessions[necessary_columns]
+
+        # Merge data with session results
+
+        merged_with_results = merged_sessions.merge(
+            fact_session_results,
+            left_on='session_key_race',
+            right_on='session_key'
+        )
+
+        return merged_with_results[necessary_columns + ['driver_number', 'position']]
+
     def get_last_races_result(self, n_races: int, race_type: str, measure: str = "position") -> pd.DataFrame:
         """
         For every driver and session returns last n_races results or statistics.
